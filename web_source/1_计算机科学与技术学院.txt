@@ -767,28 +767,28 @@
                                         <ul class="news_list clearfix">
                                             
                                             <li class="news n1 clearfix">
-                                                <span class="news_title"><a href='/93/3c/c11205a496444/page.htm' target='_blank' title='计算机科学与技术学院2022届毕业生文明离校工作方案'>计算机科学与技术学院2022届毕业生文明离校工作方案</a></span><span class="news_meta">2022-06-06</span>
+                                                <span class="news_title"><a href='/94/25/c11205a496677/page.htm' target='_blank' title='关于本周三下午教职工政治学习安排的通知'>关于本周三下午教职工政治学习安排的通知</a></span><span class="news_meta">2022-06-07</span>
                                             </li>
                                             <li class="news n2 clearfix">
-                                                <span class="news_title"><a href='/8f/16/c11205a495382/page.htm' target='_blank' title='关于组织学院2022届毕业生文明离校系列活动的通知'>关于组织学院2022届毕业生文明离校系列活动的通知</a></span><span class="news_meta">2022-05-31</span>
+                                                <span class="news_title"><a href='/93/3c/c11205a496444/page.htm' target='_blank' title='计算机科学与技术学院2022届毕业生文明离校工作方案'>计算机科学与技术学院2022届毕业生文明离校工作方案</a></span><span class="news_meta">2022-06-06</span>
                                             </li>
                                             <li class="news n3 clearfix">
-                                                <span class="news_title"><a href='/8e/21/c11205a495137/page.htm' target='_blank' title='2022转专业面试名单'>2022转专业面试名单</a></span><span class="news_meta">2022-05-29</span>
+                                                <span class="news_title"><a href='/8f/16/c11205a495382/page.htm' target='_blank' title='关于组织学院2022届毕业生文明离校系列活动的通知'>关于组织学院2022届毕业生文明离校系列活动的通知</a></span><span class="news_meta">2022-05-31</span>
                                             </li>
                                             <li class="news n4 clearfix">
-                                                <span class="news_title"><a href='/90/01/c11205a495617/page.htm' target='_blank' title='关于表彰我院参与计算机设计大赛志愿者的决定'>关于表彰我院参与计算机设计大赛志愿者的决定</a></span><span class="news_meta">2022-05-25</span>
+                                                <span class="news_title"><a href='/8e/21/c11205a495137/page.htm' target='_blank' title='2022转专业面试名单'>2022转专业面试名单</a></span><span class="news_meta">2022-05-29</span>
                                             </li>
                                             <li class="news n5 clearfix">
-                                                <span class="news_title"><a href='/8a/ff/c11205a494335/page.htm' target='_blank' title='关于本周三下午教职工政治学习安排的通知'>关于本周三下午教职工政治学习安排的通知</a></span><span class="news_meta">2022-05-24</span>
+                                                <span class="news_title"><a href='/90/01/c11205a495617/page.htm' target='_blank' title='关于表彰我院参与计算机设计大赛志愿者的决定'>关于表彰我院参与计算机设计大赛志愿者的决定</a></span><span class="news_meta">2022-05-25</span>
                                             </li>
                                             <li class="news n6 clearfix">
-                                                <span class="news_title"><a href='/87/c0/c11205a493504/page.htm' target='_blank' title='计算机科学与技术学院2022年本科生转专业工作实施细则'>计算机科学与技术学院2022年本科生转专业工作实施细则</a></span><span class="news_meta">2022-05-17</span>
+                                                <span class="news_title"><a href='/8a/ff/c11205a494335/page.htm' target='_blank' title='关于本周三下午教职工政治学习安排的通知'>关于本周三下午教职工政治学习安排的通知</a></span><span class="news_meta">2022-05-24</span>
                                             </li>
                                             <li class="news n7 clearfix">
-                                                <span class="news_title"><a href='/85/d3/c11205a493011/page.htm' target='_blank' title='关于成立CCF苏州大学学生分会的通知'>关于成立CCF苏州大学学生分会的通知</a></span><span class="news_meta">2022-05-12</span>
+                                                <span class="news_title"><a href='/87/c0/c11205a493504/page.htm' target='_blank' title='计算机科学与技术学院2022年本科生转专业工作实施细则'>计算机科学与技术学院2022年本科生转专业工作实施细则</a></span><span class="news_meta">2022-05-17</span>
                                             </li>
                                             <li class="news n8 clearfix">
-                                                <span class="news_title"><a href='/85/bf/c11205a492991/page.htm' target='_blank' title='关于组织2022年学生党支部工作培训的通知'>关于组织2022年学生党支部工作培训的通知</a></span><span class="news_meta">2022-05-12</span>
+                                                <span class="news_title"><a href='/85/d3/c11205a493011/page.htm' target='_blank' title='关于成立CCF苏州大学学生分会的通知'>关于成立CCF苏州大学学生分会的通知</a></span><span class="news_meta">2022-05-12</span>
                                             </li>
                                         </ul>
                                     </div> 
@@ -890,28 +890,28 @@
                                         <ul class="news_list clearfix">
                                             
                                             <li class="news n1 clearfix">
-                                                <span class="news_title"><a href='/90/1d/c11208a495645/page.htm' target='_blank' title='关于2021年苏州大学本科生短期出国（境）交流经费资助申请名单的公示'>关于2021年苏州大学本科生短期出国（境）交流经费资助申请名单的公...</a></span><span class="news_meta">2022-05-30</span>
+                                                <span class="news_title"><a href='/94/fc/c11208a496892/page.htm' target='_blank' title='苏州大学计算机科学与技术学院2022届本科优秀毕业生名单公示'>苏州大学计算机科学与技术学院2022届本科优秀毕业生名单公示</a></span><span class="news_meta">2022-06-08</span>
                                             </li>
                                             <li class="news n2 clearfix">
-                                                <span class="news_title"><a href='/8e/d2/c11208a495314/page.htm' target='_blank' title='2021-2022学年计算机科学与技术学院研究生捐赠奖学金及评优名单公示'>2021-2022学年计算机科学与技术学院研究生捐赠奖学金及评优名单公...</a></span><span class="news_meta">2022-05-30</span>
+                                                <span class="news_title"><a href='/95/37/c11208a496951/page.htm' target='_blank' title='关于拟转为正式党员的骆训练同志的公示'>关于拟转为正式党员的骆训练同志的公示</a></span><span class="news_meta">2022-06-07</span>
                                             </li>
                                             <li class="news n3 clearfix">
-                                                <span class="news_title"><a href='/86/f7/c11208a493303/page.htm' target='_blank' title='关于苏州大学优秀共产党员、优秀党务工作者和先进基层党组织推荐人选的公示'>关于苏州大学优秀共产党员、优秀党务工作者和先进基层党组织推荐人...</a></span><span class="news_meta">2022-05-16</span>
+                                                <span class="news_title"><a href='/95/36/c11208a496950/page.htm' target='_blank' title='关于拟转为正式党员的丁聪同志的公示'>关于拟转为正式党员的丁聪同志的公示</a></span><span class="news_meta">2022-06-07</span>
                                             </li>
                                             <li class="news n4 clearfix">
-                                                <span class="news_title"><a href='/80/08/c11208a491528/page.htm' target='_blank' title='2021、2020级软件工程专业“卓越工程师班”选拔结果公示'>2021、2020级软件工程专业“卓越工程师班”选拔结果公示</a></span><span class="news_meta">2022-04-29</span>
+                                                <span class="news_title"><a href='/95/35/c11208a496949/page.htm' target='_blank' title='关于拟转为正式党员的艾春辉同志的公示'>关于拟转为正式党员的艾春辉同志的公示</a></span><span class="news_meta">2022-06-07</span>
                                             </li>
                                             <li class="news n5 clearfix">
-                                                <span class="news_title"><a href='/79/20/c11208a489760/page.htm' target='_blank' title='2022年苏州大学计算机科学与技术学院“莙政基金”项目学院推荐名单公示'>2022年苏州大学计算机科学与技术学院“莙政基金”项目学院推荐名单...</a></span><span class="news_meta">2022-04-20</span>
+                                                <span class="news_title"><a href='/95/17/c11208a496919/page.htm' target='_blank' title='关于拟转为正式党员的郑恩壮同志的公示'>关于拟转为正式党员的郑恩壮同志的公示</a></span><span class="news_meta">2022-06-07</span>
                                             </li>
                                             <li class="news n6 clearfix">
-                                                <span class="news_title"><a href='/75/30/c11208a488752/page.htm' target='_blank' title='2022年度江苏省三好学生、优秀学生干部、优秀毕业生和先进班集体初评名单公示'>2022年度江苏省三好学生、优秀学生干部、优秀毕业生和先进班集体初...</a></span><span class="news_meta">2022-04-08</span>
+                                                <span class="news_title"><a href='/95/15/c11208a496917/page.htm' target='_blank' title='关于拟转为正式党员的孙晓寒同志的公示'>关于拟转为正式党员的孙晓寒同志的公示</a></span><span class="news_meta">2022-06-07</span>
                                             </li>
                                             <li class="news n7 clearfix">
-                                                <span class="news_title"><a href='/6d/ea/c11208a486890/page.htm' target='_blank' title='关于拟接收为预备党员的吕雪瑞同志的公示'>关于拟接收为预备党员的吕雪瑞同志的公示</a></span><span class="news_meta">2022-03-22</span>
+                                                <span class="news_title"><a href='/95/11/c11208a496913/page.htm' target='_blank' title='关于拟转为正式党员的孙灏铖同志的公示'>关于拟转为正式党员的孙灏铖同志的公示</a></span><span class="news_meta">2022-06-07</span>
                                             </li>
                                             <li class="news n8 clearfix">
-                                                <span class="news_title"><a href='/6d/e9/c11208a486889/page.htm' target='_blank' title='关于拟接收为预备党员的陈敏、陈世男同志的公示'>关于拟接收为预备党员的陈敏、陈世男同志的公示</a></span><span class="news_meta">2022-03-22</span>
+                                                <span class="news_title"><a href='/95/0f/c11208a496911/page.htm' target='_blank' title='关于拟转为正式党员的何曦同志的公示'>关于拟转为正式党员的何曦同志的公示</a></span><span class="news_meta">2022-06-07</span>
                                             </li>
                                         </ul>
                                     </div> 

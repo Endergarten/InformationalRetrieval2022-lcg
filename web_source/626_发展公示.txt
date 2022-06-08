@@ -444,73 +444,73 @@
 							<ul class="news_list list2">
 								
 								<li class="news n1 clearfix">
-									<span class="news_title"><a href='/b7/b1/c11264a374705/page.htm' target='_blank' title='关于拟转为正式党员的许浩亮同志的公示'>关于拟转为正式党员的许浩亮同志的公示</a></span>
-									<span class="news_meta">2020-05-29</span>
+									<span class="news_title"><a href='/6d/ea/c11264a486890/page.htm' target='_blank' title='关于拟接收为预备党员的吕雪瑞同志的公示'>关于拟接收为预备党员的吕雪瑞同志的公示</a></span>
+									<span class="news_meta">2022-03-22</span>
 								</li>
 								
 								<li class="news n2 clearfix">
-									<span class="news_title"><a href='/b7/ad/c11264a374701/page.htm' target='_blank' title='关于拟接收为预备党员的安明慧同志的公示'>关于拟接收为预备党员的安明慧同志的公示</a></span>
-									<span class="news_meta">2020-05-29</span>
+									<span class="news_title"><a href='/6d/e9/c11264a486889/page.htm' target='_blank' title='关于拟接收为预备党员的陈敏、陈世男同志的公示'>关于拟接收为预备党员的陈敏、陈世男同志的公示</a></span>
+									<span class="news_meta">2022-03-22</span>
 								</li>
 								
 								<li class="news n3 clearfix">
-									<span class="news_title"><a href='/b6/22/c11264a374306/page.htm' target='_blank' title='关于拟转为正式党员的崔明月同志的公示'>关于拟转为正式党员的崔明月同志的公示</a></span>
-									<span class="news_meta">2020-05-26</span>
+									<span class="news_title"><a href='/6d/e8/c11264a486888/page.htm' target='_blank' title='关于拟接收为预备党员的吕梦婕、杨迎尧同志的公示'>关于拟接收为预备党员的吕梦婕、杨迎尧同志的公示</a></span>
+									<span class="news_meta">2022-03-22</span>
 								</li>
 								
 								<li class="news n4 clearfix">
-									<span class="news_title"><a href='/b1/8f/c11264a373135/page.htm' target='_blank' title='关于拟转为正式党员的周孝青同志的公示'>关于拟转为正式党员的周孝青同志的公示</a></span>
-									<span class="news_meta">2020-05-21</span>
+									<span class="news_title"><a href='/6d/e7/c11264a486887/page.htm' target='_blank' title='关于拟接收为预备党员的张雯同志的公示'>关于拟接收为预备党员的张雯同志的公示</a></span>
+									<span class="news_meta">2022-03-22</span>
 								</li>
 								
 								<li class="news n5 clearfix">
-									<span class="news_title"><a href='/96/9c/c11264a366236/page.htm' target='_blank' title='关于拟接收为预备党员的曹骞同志的公示'>关于拟接收为预备党员的曹骞同志的公示</a></span>
-									<span class="news_meta">2020-03-20</span>
+									<span class="news_title"><a href='/4b/ec/c11264a478188/page.htm' target='_blank' title='关于拟转为正式党员的周文杰、窦晨晖、 宦敏、陈楠同志的公示'>关于拟转为正式党员的周文杰、窦晨晖、 宦敏、陈楠同志的公示</a></span>
+									<span class="news_meta">2021-12-20</span>
 								</li>
 								
 								<li class="news n6 clearfix">
-									<span class="news_title"><a href='/96/9e/c11264a366238/page.htm' target='_blank' title='关于拟接收为预备党员的李淑颖同志的公示'>关于拟接收为预备党员的李淑颖同志的公示</a></span>
-									<span class="news_meta">2020-03-20</span>
+									<span class="news_title"><a href='/4b/c5/c11264a478149/page.htm' target='_blank' title='关于拟转为正式党员的史伟杰、任鹏瑞同志的公示'>关于拟转为正式党员的史伟杰、任鹏瑞同志的公示</a></span>
+									<span class="news_meta">2021-12-20</span>
 								</li>
 								
 								<li class="news n7 clearfix">
-									<span class="news_title"><a href='/96/9d/c11264a366237/page.htm' target='_blank' title='关于拟接收为预备党员的蒲秀蓉同志的公示'>关于拟接收为预备党员的蒲秀蓉同志的公示</a></span>
-									<span class="news_meta">2020-03-20</span>
+									<span class="news_title"><a href='/49/c9/c11264a477641/page.htm' target='_blank' title='关于拟转为正式党员的闫磊磊同志的公示'>关于拟转为正式党员的闫磊磊同志的公示</a></span>
+									<span class="news_meta">2021-12-16</span>
 								</li>
 								
 								<li class="news n8 clearfix">
-									<span class="news_title"><a href='/96/9f/c11264a366239/page.htm' target='_blank' title='关于拟接收为预备党员的徐小童同志的公示'>关于拟接收为预备党员的徐小童同志的公示</a></span>
-									<span class="news_meta">2020-03-20</span>
+									<span class="news_title"><a href='/37/5a/c11264a472922/page.htm' target='_blank' title='研究生二支部关于拟接收为预备党员的刘志东、冯勤同志情况公示'>研究生二支部关于拟接收为预备党员的刘志东、冯勤同志情况公示</a></span>
+									<span class="news_meta">2021-11-16</span>
 								</li>
 								
 								<li class="news n9 clearfix">
-									<span class="news_title"><a href='/96/a0/c11264a366240/page.htm' target='_blank' title='关于拟接收为预备党员的田浩同志的公示'>关于拟接收为预备党员的田浩同志的公示</a></span>
-									<span class="news_meta">2020-03-20</span>
+									<span class="news_title"><a href='/37/0b/c11264a472843/page.htm' target='_blank' title='关于拟接收为预备党员的范远照同志的公示'>关于拟接收为预备党员的范远照同志的公示</a></span>
+									<span class="news_meta">2021-11-16</span>
 								</li>
 								
 								<li class="news n10 clearfix">
-									<span class="news_title"><a href='/96/9b/c11264a366235/page.htm' target='_blank' title='关于拟接收为预备党员的张欢同志的公示'>关于拟接收为预备党员的张欢同志的公示</a></span>
-									<span class="news_meta">2020-03-20</span>
+									<span class="news_title"><a href='/37/0c/c11264a472844/page.htm' target='_blank' title='关于拟接收为预备党员的陈亮同志的公示'>关于拟接收为预备党员的陈亮同志的公示</a></span>
+									<span class="news_meta">2021-11-14</span>
 								</li>
 								
 								<li class="news n11 clearfix">
-									<span class="news_title"><a href='/85/69/c11264a361833/page.htm' target='_blank' title='关于拟转为正式党员的殷亚珏同志的公示'>关于拟转为正式党员的殷亚珏同志的公示</a></span>
-									<span class="news_meta">2020-01-03</span>
+									<span class="news_title"><a href='/37/14/c11264a472852/page.htm' target='_blank' title='关于拟接收为预备党员的于厚舜同志的公示'>关于拟接收为预备党员的于厚舜同志的公示</a></span>
+									<span class="news_meta">2021-11-13</span>
 								</li>
 								
 								<li class="news n12 clearfix">
-									<span class="news_title"><a href='/84/96/c11264a361622/page.htm' target='_blank' title='关于拟转为正式党员的周喆同志的公示'>关于拟转为正式党员的周喆同志的公示</a></span>
-									<span class="news_meta">2019-12-27</span>
+									<span class="news_title"><a href='/37/0e/c11264a472846/page.htm' target='_blank' title='关于拟接收为预备党员的姜家乐同志的公示'>关于拟接收为预备党员的姜家乐同志的公示</a></span>
+									<span class="news_meta">2021-11-12</span>
 								</li>
 								
 								<li class="news n13 clearfix">
-									<span class="news_title"><a href='/73/69/c11264a357225/page.htm' target='_blank' title='关于拟接收车彬彬同志为预备党员的公示'>关于拟接收车彬彬同志为预备党员的公示</a></span>
-									<span class="news_meta">2019-12-02</span>
+									<span class="news_title"><a href='/37/0d/c11264a472845/page.htm' target='_blank' title='关于拟接收为预备党员的寇俊强同志的公示'>关于拟接收为预备党员的寇俊强同志的公示</a></span>
+									<span class="news_meta">2021-11-12</span>
 								</li>
 								
 								<li class="news n14 clearfix">
-									<span class="news_title"><a href='/73/68/c11264a357224/page.htm' target='_blank' title='关于拟接收王惠照同志为预备党员的公示'>关于拟接收王惠照同志为预备党员的公示</a></span>
-									<span class="news_meta">2019-12-02</span>
+									<span class="news_title"><a href='/df/99/c11264a450457/page.htm' target='_blank' title='关于拟转为正式党员的安明慧同志的公示'>关于拟转为正式党员的安明慧同志的公示</a></span>
+									<span class="news_meta">2021-06-07</span>
 								</li>
 								
 							</ul>
@@ -523,13 +523,13 @@
          <span class="all_count">总共&nbsp;<em class="all_count">208</em>&nbsp;记录&nbsp;</span> 
      </li> 
      <li class="page_nav"> 
-         <a class="first" href="/11264/list1.htm" target="_self"><span>第一页</span></a> 
-         <a class="prev" href="/11264/list2.htm" target="_self"><span>&lt;&lt;上一页</span></a> 
-         <a class="next" href="/11264/list4.htm" target="_self"><span>下一页&gt;&gt;</span></a> 
+         <a class="first" href="javascript:void(0);" target="_self"><span>第一页</span></a> 
+         <a class="prev" href="javascript:void(0);" target="_self"><span>&lt;&lt;上一页</span></a> 
+         <a class="next" href="/11264/list2.htm" target="_self"><span>下一页&gt;&gt;</span></a> 
          <a class="last" href="/11264/list15.htm" target="_self"><span>尾页</span></a> 
      </li> 
      <li class="page_jump"> 
-         <span class="pages">页码&nbsp;<em class="curr_page">3</em>/<em class="all_pages">15</em></span> 
+         <span class="pages">页码&nbsp;<em class="curr_page">1</em>/<em class="all_pages">15</em></span> 
          <span><input class="pageNum" type="text" /><input type="hidden" class="currPageURL" value=""></span></span> 
          <span><a class="pagingJump" href="javascript:void(0);" target="_self">跳转到&nbsp;</a></span> 
      </li> 

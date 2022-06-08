@@ -1,70 +1,261 @@
-﻿导航
-首 页
-学院概况
-学院简介
-历史沿革
-现任领导
-机构设置
-办学资源
-联系方式
-学科建设
-江苏省优势学科
-博士点
-硕士点
-实验室安全
-师资队伍
-师资概况
-教职工名单
-导师简介
-兼职师资
-科学研究
-研究中心
-自然语言处理研究中心
-机器学习与图像处理研究中心
-数据科学与工业软件研究中心
-网络科学与工程研究中心
-人工智能研究院
-嵌入式技术及系统能力培养研究中心
-科研机构
-科研项目
-科研论文
-知识产权
-科研政策
-人才培养
-博士生
-硕士生
-本科生
-人才培养方案
-课程教学大纲
-图灵班
-国际交流
-学生工作
-工作队伍
-学工通知
-学工新闻
-规章制度
-志愿服务
-学生组织
-勤工助学
-心理健康
-职业规划
-成长陪伴
-党群工作
-基层组织
-规章制度
-专题活动
-分党校工作
-发展公示
-关工委工作
-工会工作
-计算机信息处理技术重点实验室系列学术报告（二）
-发布者：发布时间：2021-12-10浏览次数：268
-报告题目1：Norm-Aware Embedding for Efficient Person Search时间：2021年12月11日13：30-14：30地点：腾讯会议（ID：619-418-577）报告摘要：Person detection and Re-identification are two well-defined support tasks for practically relevant tasks such as Person Search and Multiple Person Tracking. Person Search aims to find and locate all instances with the same identity as the query person in a set of panoramic gallery images. Similarly, Multiple Person Tracking, especially when using the tracking-by-detection pipeline, requires to detect and associate all appeared persons in consecutive video frames. One major challenge shared by the two tasks comes from the contradictory goals of detection and re-identification, i.e, person detection focuses on finding the commonness of all persons while person re-ID handles the differences among multiple identities. Therefore, it is crucial to reconcile the relationship between the two support tasks in a joint model. To this end, we present a novel approach called Norm-Aware Embedding to disentangle the person embedding into norm and angle for detection and re-ID respectively, allowing for both effective and efficient multi-task training. We further extend the proposal-level person embedding to pixel-level, whose discrimination ability is less affected by misalignment. Our Norm-Aware Embedding achieves remarkable performance on both person search and multiple person tracking benchmarks, with the merit of being easy to train and resource-friendly.报告人简介：杨健，南京理工大学教授。研究领域为智能科学技术及应用：自主驾驶（包括行车环境感知等）、智能机器人等。 报告题目2：视频技术优化时间：2021年12月11日（14：30-15：30）地点：腾讯会议（ID：619-418-577）报告摘要：视频信息技术在人类生产和社会生活中的重要性日益凸显，无处不在的大量垃圾视频成为制约这一技术发展的屏障，这向我们提出了问题：如何优化视频技术？报告人简介：杨小康，上海交通大学教授。主要研究新型数字媒体内容处理的理论与方法，包括先进图像编码与通信、普适网络媒体、基于内容的媒体分析与检索等。 报告题目3：Discrete Matrix Factorization and Extension for Fast Item Recommendation时间：2021年12月11日（15：30-16：30）地点：腾讯会议（ID：619-418-577）报告摘要：Binary representation of users and items can dramatically improve efficiency of recommendation and reduce size of recommendation models. However, learning optimal binary codes for them is challenging due to binary constraints, even if squared loss is optimized. In this article, we propose a general framework for discrete matrix factorization based on discrete optimization, which can 1) optimize multiple loss functions; 2) handle both explicit and implicit feedback datasets; and 3) take auxiliary information into account without any hyperparameters. To tackle the challenging discrete optimization problem, we propose block coordinate descent based on semidefinite relaxation of binary quadratic programming. We theoretically show that it is equivalent to discrete coordinate descent when only one coordinate is in each block. We extensively evaluate the proposed algorithms on eight real-world datasets. The results of evaluation show that they outperform the state-of-the-art baselines significantly and that auxiliary information of items improves recommendation performance. For better showing the advantages of binary representation, we further propose a two-stage recommender system, consisting of an item-recalling stage and a subsequent fine-ranking stage. Its extensive evaluation shows hashing can dramatically accelerate item recommendation with little degradation of accuracy.报告人简介：陈恩红，中国科学技术大学教授。研究领域包括机器学习、数据挖掘、社会网络、个性化推荐系统。 报告题目4：智能化高性能异构数据处理时间：2021年12月11日（16：30-17：30）地点：腾讯会议（ID：619-418-577）报告摘要：介绍智能化高性能异构数据处理技术的现状和发展趋势，阐述人工智能技术在异构数据处理方面的应用，以及异构数据处理技术对人工智能发展的推动作用。报告人简介：王晓阳，复旦大学教授。研究领域包括时空移动数据分析，数据系统安全及私密，大数据并行式分析。 报告题目5：BERT-JAM: Maximizing the utilization of BERT for neural machine translation时间：2021年12月12日14：00-15：00地点：腾讯会议（ID：374-176-703）报告摘要：Pre-training based approaches have been demonstrated effective for a wide range of natural language processing tasks. Leveraging BERT for neural machine translation (NMT), which we refer to as BERT enhanced NMT, has received increasing interest in recent years. However, there still exists a research gap in studying how to maximize the utilization of BERT for NMT tasks. Firstly, previous studies mostly focus on utilizing BERT's last-layer representation, neglecting the linguistic features encoded by the intermediate layers. Secondly, it requires further architectural exploration to integrate the BERT representation with the NMT encoder/decoder layers efficiently. And thirdly, existing methods keep the BERT parameters fixed during training to avoid the catastrophic forgetting problem, wasting the chances of boosting the performance via fine-tuning. In this paper, we propose BERT-JAM to fill the research gap from three aspects: 1) we equip BERT-JAM with fusion modules for composing BERT's multi-layer representations into a fused representation that can be leveraged by the NMT model, 2) BERT-JAM utilizes joint-attention modules to allow the BERT representation to be dynamically integrated with the encoder/decoder representations, and 3) we train BERT-JAM with a three-phase optimization strategy that progressively unfreezes different components to overcome catastrophic forgetting during fine-tuning. Experimental results show that BERT-JAM achieves state-of-the-art BLEU scores on multiple translation tasks.报告人简介：陈刚，浙江大学教授。研究领域包括数据库及大数据。 报告题目6：Towards Convergence Rate Analysis of Random Forests for Classification时间：2021年12月12日15：00-16：00地点：腾讯会议（ID：374-176-703）报告摘要：Random forests have been one of the successful ensemble algorithms in machine learning. The basic idea is to construct a large number of random trees individually and make prediction based on an average of their predictions. The great successes have attracted much attention on the consistency of random forests, mostly focusing on regression. This work takes one step towards convergence rates of random forests for classification. We present the first finite-sample rate O(n −1/(8d+2)) on the convergence of pure random forests for classification, which can be improved to be of O(n −1/(3.87d+2)) by considering the midpoint splitting mechanism. We introduce another variant of random forests, which follow Breiman’s original random forests but with different mechanisms on splitting dimensions and positions. We get a convergence rate O(n −1/(d+2)(ln n) 1/(d+2)) for the variant of random forests, which reaches the minimax rate, except for a factor (ln n) 1/(d+2), of the optimal plug-in classifier under the L-Lipschitz assumption. We achieve tighter convergence rate O( p ln n/n) under proper assumptions over structural data.报告人简介：周志华，南京大学教授、欧洲科学院外籍院士。研究方向包括人工智能、机器学习、数据挖掘。 报告题目7：高等教育创新与长三角一体化时间：2021年12月12日16：00-17：00地点：腾讯会议（ID：374-176-703）报告摘要：长三角区域高校应该站在中华民族伟大复兴战略全局和世界百年未有之大变局的高度，努力驾驭科技革命与产业变革，立足新发展阶段、贯彻新发展理念、构建新发展格局，以立德树人为根本，以增强长三角地区开放化、国际化的创新能力和竞争能力为抓手，不断探究“大学是什么”“从哪里来”“到哪里去”“培养什么人，如何培养人，为谁培养人”等本原问题，不断创新一体化机制与方式，强化资源整合和协同模式创新，用新发展理念与格局来重新思考和塑造“中国特色、世界一流”大学的定位、内涵、精神、文化、结构、功能、产出等，迎接新时代的新挑战，成就新时代的新一流。报告人简介：吕建，南京大学教授、中科院院士。研究方向包括软件自动化、面向对象语言与环境和并行程序的形式化方法。
-教学辅助平台
-学院经费管理系统（校内）
-科研成果申报平台（校内）
-省级重点实验室
-计算机教学网（校内）
-自然语言处理实验室
-Copyright 苏州大学计算机科学与技术学院 2018 All Rights Reserved 苏州市十梓街1号
-苏ICP备-10229414  苏公网安备 32050802010530号
+导航 
+首 页 
+学院 概况 
+学院 简介 
+历史沿革 
+现任 领导 
+机构 设置 
+办学 资源 
+联系方式 
+学科建设 
+江苏省 优势 学科 
+博士点 
+硕士点 
+实验室 
+师资队伍 
+师资 概况 
+教职工 名单 
+导师 简介 
+兼职 师资 
+科学研究 
+研究 中心 
+自然语言 研究 中心 
+机器 学习 图像处理 研究 中心 
+数据 科学 工业 软件 研究 中心 
+网络 科学 工程 研究 中心 
+人工智能 研究院 
+嵌入式 技术 系统 能力 培养 研究 中心 
+科研机构 
+科研项目 
+科研 论文 
+知识产权 
+科研 政策 
+人才培养 
+博士生 
+硕士生 
+本科生 
+人才培养 方案 
+课程 教学大纲 
+图灵 班 
+国际交流 
+学生 工作 
+工作队 伍 
+学工 通知 
+学工 新闻 
+规章制度 
+志愿 服务 
+学生 组织 
+勤工助学 
+心理健康 
+职业规划 
+成长 陪伴 
+党群 工作 
+基层组织 
+规章制度 
+专题 活动 
+分党 校工 作 
+发展 公示 
+关工委 工作 
+工会工作 
+计算机信息 技术 重点 实验室 系列 学术报告 二 
+发布者 
+发布 时间 
+浏览 次数 
+报告 题目 
+N o r m A w a r e E m b e d d i n g f o r E f f i c i e n t P e r s o n S e a r c h 时间 
+年 月 日 
+地点 
+腾讯 会议 I D 
+报告 摘要 
+P e r s o n d e t e c t i o n a n d R e i d e n t i f i c a t i o n a r e t w o w e l l d e f i n e d s u p p o r t t a s k s f o r p r a c t i c a l l y r e l e v a n t t a s k s s u c h a s P e r s o n S e a r c h a n d M u l t i p l e P e r s o n T r a c k i n g 
+P e r s o n S e a r c h a i m s t o f i n d a n d l o c a t e a l l i n s t a n c e s w i t h t h e s a m e i d e n t i t y a s t h e q u e r y p e r s o n i n a s e t o f p a n o r a m i c g a l l e r y i m a g e s 
+S i m i l a r l y 
+M u l t i p l e P e r s o n T r a c k i n g 
+e s p e c i a l l y w h e n u s i n g t h e t r a c k i n g b y d e t e c t i o n p i p e l i n e 
+r e q u i r e s t o d e t e c t a n d a s s o c i a t e a l l a p p e a r e d p e r s o n s i n c o n s e c u t i v e v i d e o f r a m e s 
+O n e m a j o r c h a l l e n g e s h a r e d b y t h e t w o t a s k s c o m e s f r o m t h e c o n t r a d i c t o r y g o a l s o f d e t e c t i o n a n d r e i d e n t i f i c a t i o n 
+i 
+e 
+p e r s o n d e t e c t i o n f o c u s e s o n f i n d i n g t h e c o m m o n n e s s o f a l l p e r s o n s w h i l e p e r s o n r e I D h a n d l e s t h e d i f f e r e n c e s a m o n g m u l t i p l e i d e n t i t i e s 
+T h e r e f o r e 
+i t i s c r u c i a l t o r e c o n c i l e t h e r e l a t i o n s h i p b e t w e e n t h e t w o s u p p o r t t a s k s i n a j o i n t m o d e l 
+T o t h i s e n d 
+w e p r e s e n t a n o v e l a p p r o a c h c a l l e d N o r m A w a r e E m b e d d i n g t o d i s e n t a n g l e t h e p e r s o n e m b e d d i n g i n t o n o r m a n d a n g l e f o r d e t e c t i o n a n d r e I D r e s p e c t i v e l y 
+a l l o w i n g f o r b o t h e f f e c t i v e a n d e f f i c i e n t m u l t i t a s k t r a i n i n g 
+W e f u r t h e r e x t e n d t h e p r o p o s a l l e v e l p e r s o n e m b e d d i n g t o p i x e l l e v e l 
+w h o s e d i s c r i m i n a t i o n a b i l i t y i s l e s s a f f e c t e d b y m i s a l i g n m e n t 
+O u r N o r m A w a r e E m b e d d i n g a c h i e v e s r e m a r k a b l e p e r f o r m a n c e o n b o t h p e r s o n s e a r c h a n d m u l t i p l e p e r s o n t r a c k i n g b e n c h m a r k s 
+w i t h t h e m e r i t o f b e i n g e a s y t o t r a i n a n d r e s o u r c e f r i e n d l y 
+报告 简介 
+杨 健 
+南京理工 大学教授 
+研究 领域 智能科学 技术 
+自主 驾驶 包括 行车 环境 感知 
+智能机 器 
+报告 题目 
+视频 技术 优化 时间 
+年 月 日 
+地点 
+腾讯 会议 I D 
+报告 摘要 
+视频 信息技术 人类 生产 社会 生活 中 重要性 凸显 
+无处不在 垃圾 视频 制约 技术 发展 屏障 
+提出 
+优化 视频 技术 
+报告 简介 
+杨 小康 
+上海交通大学 教授 
+研究 新型 数字 媒体 内容 理论 方法 
+包括 先进 图像编码 通信 
+普 适 网络媒体 
+内容 媒体 分析 检索 
+报告 题目 
+D i s c r e t e M a t r i x F a c t o r i z a t i o n a n d E x t e n s i o n f o r F a s t I t e m R e c o m m e n d a t i o n 时间 
+年 月 日 
+地点 
+腾讯 会议 I D 
+报告 摘要 
+B i n a r y r e p r e s e n t a t i o n o f u s e r s a n d i t e m s c a n d r a m a t i c a l l y i m p r o v e e f f i c i e n c y o f r e c o m m e n d a t i o n a n d r e d u c e s i z e o f r e c o m m e n d a t i o n m o d e l s 
+H o w e v e r 
+l e a r n i n g o p t i m a l b i n a r y c o d e s f o r t h e m i s c h a l l e n g i n g d u e t o b i n a r y c o n s t r a i n t s 
+e v e n i f s q u a r e d l o s s i s o p t i m i z e d 
+I n t h i s a r t i c l e 
+w e p r o p o s e a g e n e r a l f r a m e w o r k f o r d i s c r e t e m a t r i x f a c t o r i z a t i o n b a s e d o n d i s c r e t e o p t i m i z a t i o n 
+w h i c h c a n o p t i m i z e m u l t i p l e l o s s f u n c t i o n s 
+h a n d l e b o t h e x p l i c i t a n d i m p l i c i t f e e d b a c k d a t a s e t s 
+a n d t a k e a u x i l i a r y i n f o r m a t i o n i n t o a c c o u n t w i t h o u t a n y h y p e r p a r a m e t e r s 
+T o t a c k l e t h e c h a l l e n g i n g d i s c r e t e o p t i m i z a t i o n p r o b l e m 
+w e p r o p o s e b l o c k c o o r d i n a t e d e s c e n t b a s e d o n s e m i d e f i n i t e r e l a x a t i o n o f b i n a r y q u a d r a t i c p r o g r a m m i n g 
+W e t h e o r e t i c a l l y s h o w t h a t i t i s e q u i v a l e n t t o d i s c r e t e c o o r d i n a t e d e s c e n t w h e n o n l y o n e c o o r d i n a t e i s i n e a c h b l o c k 
+W e e x t e n s i v e l y e v a l u a t e t h e p r o p o s e d a l g o r i t h m s o n e i g h t r e a l w o r l d d a t a s e t s 
+T h e r e s u l t s o f e v a l u a t i o n s h o w t h a t t h e y o u t p e r f o r m t h e s t a t e o f t h e a r t b a s e l i n e s s i g n i f i c a n t l y a n d t h a t a u x i l i a r y i n f o r m a t i o n o f i t e m s i m p r o v e s r e c o m m e n d a t i o n p e r f o r m a n c e 
+F o r b e t t e r s h o w i n g t h e a d v a n t a g e s o f b i n a r y r e p r e s e n t a t i o n 
+w e f u r t h e r p r o p o s e a t w o s t a g e r e c o m m e n d e r s y s t e m 
+c o n s i s t i n g o f a n i t e m r e c a l l i n g s t a g e a n d a s u b s e q u e n t f i n e r a n k i n g s t a g e 
+I t s e x t e n s i v e e v a l u a t i o n s h o w s h a s h i n g c a n d r a m a t i c a l l y a c c e l e r a t e i t e m r e c o m m e n d a t i o n w i t h l i t t l e d e g r a d a t i o n o f a c c u r a c y 
+报告 简介 
+陈 恩 红 
+中国 科学技术 大学教授 
+研究 领域 包括 机器 学习 
+数据挖掘 
+社会 网络 
+个性化 推荐 系统 
+报告 题目 
+智能化 高性能 异构 数据处理 时间 
+年 月 日 
+地点 
+腾讯 会议 I D 
+报告 摘要 
+介绍 智能化 高性能 异构 数据处理 技术 现状 发展趋势 
+阐述 人工智能 技术 异构 数据处理 
+异构 数据处理 技术 人工智能 发展 推动 作用 
+报告 简介 
+王 晓 阳 
+复旦大学 教授 
+研究 领域 包括 时空 数据分析 
+数据系统 私密 
+大数 并行 式 分析 
+报告 题目 
+B E R T J A M 
+M a x i m i z i n g t h e u t i l i z a t i o n o f B E R T f o r n e u r a l m a c h i n e t r a n s l a t i o n 时间 
+年 月 日 
+地点 
+腾讯 会议 I D 
+报告 摘要 
+P r e t r a i n i n g b a s e d a p p r o a c h e s h a v e b e e n d e m o n s t r a t e d e f f e c t i v e f o r a w i d e r a n g e o f n a t u r a l l a n g u a g e p r o c e s s i n g t a s k s 
+L e v e r a g i n g B E R T f o r n e u r a l m a c h i n e t r a n s l a t i o n N M T 
+w h i c h w e r e f e r t o a s B E R T e n h a n c e d N M T 
+h a s r e c e i v e d i n c r e a s i n g i n t e r e s t i n r e c e n t y e a r s 
+H o w e v e r 
+t h e r e s t i l l e x i s t s a r e s e a r c h g a p i n s t u d y i n g h o w t o m a x i m i z e t h e u t i l i z a t i o n o f B E R T f o r N M T t a s k s 
+F i r s t l y 
+p r e v i o u s s t u d i e s m o s t l y f o c u s o n u t i l i z i n g B E R T 
+s l a s t l a y e r r e p r e s e n t a t i o n 
+n e g l e c t i n g t h e l i n g u i s t i c f e a t u r e s e n c o d e d b y t h e i n t e r m e d i a t e l a y e r s 
+S e c o n d l y 
+i t r e q u i r e s f u r t h e r a r c h i t e c t u r a l e x p l o r a t i o n t o i n t e g r a t e t h e B E R T r e p r e s e n t a t i o n w i t h t h e N M T e n c o d e r d e c o d e r l a y e r s e f f i c i e n t l y 
+A n d t h i r d l y 
+e x i s t i n g m e t h o d s k e e p t h e B E R T p a r a m e t e r s f i x e d d u r i n g t r a i n i n g t o a v o i d t h e c a t a s t r o p h i c f o r g e t t i n g p r o b l e m 
+w a s t i n g t h e c h a n c e s o f b o o s t i n g t h e p e r f o r m a n c e v i a f i n e t u n i n g 
+I n t h i s p a p e r 
+w e p r o p o s e B E R T J A M t o f i l l t h e r e s e a r c h g a p f r o m t h r e e a s p e c t s 
+w e e q u i p B E R T J A M w i t h f u s i o n m o d u l e s f o r c o m p o s i n g B E R T 
+s m u l t i l a y e r r e p r e s e n t a t i o n s i n t o a f u s e d r e p r e s e n t a t i o n t h a t c a n b e l e v e r a g e d b y t h e N M T m o d e l 
+B E R T J A M u t i l i z e s j o i n t a t t e n t i o n m o d u l e s t o a l l o w t h e B E R T r e p r e s e n t a t i o n t o b e d y n a m i c a l l y i n t e g r a t e d w i t h t h e e n c o d e r d e c o d e r r e p r e s e n t a t i o n s 
+a n d w e t r a i n B E R T J A M w i t h a t h r e e p h a s e o p t i m i z a t i o n s t r a t e g y t h a t p r o g r e s s i v e l y u n f r e e z e s d i f f e r e n t c o m p o n e n t s t o o v e r c o m e c a t a s t r o p h i c f o r g e t t i n g d u r i n g f i n e t u n i n g 
+E x p e r i m e n t a l r e s u l t s s h o w t h a t B E R T J A M a c h i e v e s s t a t e o f t h e a r t B L E U s c o r e s o n m u l t i p l e t r a n s l a t i o n t a s k s 
+报告 简介 
+陈 刚 
+浙江大学 教授 
+研究 领域 包括 数据库 大数 
+报告 题目 
+T o w a r d s C o n v e r g e n c e R a t e A n a l y s i s o f R a n d o m F o r e s t s f o r C l a s s i f i c a t i o n 时间 
+年 月 日 
+地点 
+腾讯 会议 I D 
+报告 摘要 
+R a n d o m f o r e s t s h a v e b e e n o n e o f t h e s u c c e s s f u l e n s e m b l e a l g o r i t h m s i n m a c h i n e l e a r n i n g 
+T h e b a s i c i d e a i s t o c o n s t r u c t a l a r g e n u m b e r o f r a n d o m t r e e s i n d i v i d u a l l y a n d m a k e p r e d i c t i o n b a s e d o n a n a v e r a g e o f t h e i r p r e d i c t i o n s 
+T h e g r e a t s u c c e s s e s h a v e a t t r a c t e d m u c h a t t e n t i o n o n t h e c o n s i s t e n c y o f r a n d o m f o r e s t s 
+m o s t l y f o c u s i n g o n r e g r e s s i o n 
+T h i s w o r k t a k e s o n e s t e p t o w a r d s c o n v e r g e n c e r a t e s o f r a n d o m f o r e s t s f o r c l a s s i f i c a t i o n 
+W e p r e s e n t t h e f i r s t f i n i t e s a m p l e r a t e O n − d o n t h e c o n v e r g e n c e o f p u r e r a n d o m f o r e s t s f o r c l a s s i f i c a t i o n 
+w h i c h c a n b e i m p r o v e d t o b e o f O n − 
+d b y c o n s i d e r i n g t h e m i d p o i n t s p l i t t i n g m e c h a n i s m 
+W e i n t r o d u c e a n o t h e r v a r i a n t o f r a n d o m f o r e s t s 
+w h i c h f o l l o w B r e i m a n s o r i g i n a l r a n d o m f o r e s t s b u t w i t h d i f f e r e n t m e c h a n i s m s o n s p l i t t i n g d i m e n s i o n s a n d p o s i t i o n s 
+W e g e t a c o n v e r g e n c e r a t e O n − d l n n d f o r t h e v a r i a n t o f r a n d o m f o r e s t s 
+w h i c h r e a c h e s t h e m i n i m a x r a t e 
+e x c e p t f o r a f a c t o r l n n d 
+o f t h e o p t i m a l p l u g i n c l a s s i f i e r u n d e r t h e L L i p s c h i t z a s s u m p t i o n 
+W e a c h i e v e t i g h t e r c o n v e r g e n c e r a t e O p l n n n u n d e r p r o p e r a s s u m p t i o n s o v e r s t r u c t u r a l d a t a 
+报告 简介 
+周志华 
+南京大学 教授 
+欧洲 科学院 外籍 院士 
+研究 方向 包括 人工智能 
+机器 学习 
+数据挖掘 
+报告 题目 
+高等教育 创新 长三角 一体化 时间 
+年 月 日 
+地点 
+腾讯 会议 I D 
+报告 摘要 
+长三角 区域 高校 站 中华民族 复兴 战略 全局 世界 百年 未有 大变局 高度 
+努力 驾驭 科技 革命 产业 变革 
+立足 新发 展 阶段 
+贯彻 新发 展 理念 
+构建 新发 展 格局 
+立德 树人 
+增强 长三角 地区 开放 化 
+国际化 创新能力 竞争能力 抓手 
+探究 大学 培养 
+培养 
+培养 本原 
+不断创新 一体化 机制 方式 
+强化 资源整合 协同 模式 创新 
+新发 展 理念 格局 思考 塑造 中国 特色 
+世界 一流 大学 定位 
+内涵 
+精神 
+文化 
+结构 
+功能 
+产出 
+迎接 新 时代 新 挑战 
+成就 新 时代 新 一流 
+报告 简介 
+吕 建 
+南京大学 教授 
+中科院 院士 
+研究 方向 包括 软件 自动化 
+面向对象 语言 环境 并行程序 形式化 方法 
+教学 辅助 平台 
+学院 经费 管理系统 校内 
+科研成果 申报 平台 校内 
+省级重点 实验室 
+计算机 教学网 校内 
+自然语言 实验室 
+C o p y r i g h t 苏州大学 计算机科学 技术 学院 A l l R i g h t s R e s e r v e d 苏州市 十 梓 街 号 
+苏 I C P 备 苏 公网 安 备 号 

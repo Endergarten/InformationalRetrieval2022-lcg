@@ -380,7 +380,7 @@
 		<div class="infobox" frag="面板3">
 			<div class="article" frag="窗口3" portletmode="simpleArticleAttri">
 								  <h1 class="arti_title">计算机爱好者协会讲座――计算机硬件知识</h1>
-				  <p class="arti_metas"><span class="arti_publisher">发布者：</span><span class="arti_update">发布时间：2010-10-12</span><span class="arti_views">浏览次数：<span class="WP_VisitCount" url="/_visitcountdisplay?siteId=289&type=3&articleId=255021">63</span></span></p>
+				  <p class="arti_metas"><span class="arti_publisher">发布者：</span><span class="arti_update">发布时间：2010-10-12</span><span class="arti_views">浏览次数：<span class="WP_VisitCount" url="/_visitcountdisplay?siteId=289&type=3&articleId=255973">62</span></span></p>
 				  <div class="entry">
 					<div class="read"><div class='wp_articlecontent'><P align=center><IMG alt="" src="http://192.168.181.69/admin/system_dntb/upload/20100919235828321.jpg"><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; （计算机爱好者协会）</P></div></div>
 				  </div>
@@ -441,4 +441,4 @@ $(function(){
 </script>
 </body>
 </html>
- <img src="/_visitcount?siteId=289&type=3&articleId=255021" style="display:none" width="0" height="0"/>
+ <img src="/_visitcount?siteId=289&type=3&articleId=255973" style="display:none" width="0" height="0"/>

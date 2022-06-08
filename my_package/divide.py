@@ -1,7 +1,9 @@
 import re
+import os
 
 word_dict = [set() for i in range(20)]  # 字典文件
 max_len = 0  # 字典中的词语的最大长度
+stopWords = set()
 
 
 def Init():
@@ -21,6 +23,12 @@ def Init():
         word_dict[len(lst[i])].add(lst[i])
         max_len = max(max_len, len(lst[i]))
 
+    # 然后将stopwords读入
+    for file in os.listdir("stopwords"):
+        with open("stopwords/" + file, "r", encoding="utf-8-sig") as f:
+            for i in f.readlines():
+                stopWords.add(i[:-1])
+
 
 def max_match(s: str):
     """
@@ -39,8 +47,10 @@ def max_match(s: str):
         for l in range(max_len, 0, -1):  # 枚举这个词可能的长度
             if (l == 1) or (i + l <= len(s) and s[i: i + l] in word_dict[l]):  # 如果字典含有该词或者长度为1
                 words = s[i: i + l]
-                words_list.append(words)
                 i += l
+                if words in stopWords:  # 如果这个词语是stopwords，直接不管
+                    break
+                words_list.append(words)
                 break
     return words_list
 

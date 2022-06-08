@@ -432,53 +432,73 @@
 							<ul class="news_list list2">
 								
 								<li class="news n1 clearfix">
-									<span class="news_title"><a href='/5c/29/c11225a285737/page.htm' target='_blank' title='2019年博士研究生招生补充说明（公开招考）'>2019年博士研究生招生补充说明（公开招考）</a></span>
-									<span class="news_meta">2018-12-04</span>
+									<span class="news_title"><a href='/8e/2f/c11225a364079/page.htm' target='_blank' title='2021年硕士研究生招生咨询邮箱'>2021年硕士研究生招生咨询邮箱</a></span>
+									<span class="news_meta">2021-03-01</span>
 								</li>
 								
 								<li class="news n2 clearfix">
-									<span class="news_title"><a href='/1a/1e/c11225a268830/page.htm' target='_blank' title='2019年硕博连读和“申请-考核”制招生选拔实施细则'>2019年硕博连读和“申请-考核”制招生选拔实施细则</a></span>
-									<span class="news_meta">2018-11-06</span>
+									<span class="news_title"><a href='/6e/02/c11225a421378/page.htm' target='_blank' title='2021年学院博士学位研究生招生实施细则（硕博连读/“申请-考核”制）'>2021年学院博士学位研究生招生实施细则（硕博连读/“申请-考核”...</a></span>
+									<span class="news_meta">2021-01-04</span>
 								</li>
 								
 								<li class="news n3 clearfix">
-									<span class="news_title"><a href='/16/eb/c11225a268011/page.htm' target='_blank' title='2018年硕士研究生各专业录取情况一览表'>2018年硕士研究生各专业录取情况一览表</a></span>
-									<span class="news_meta">2018-10-09</span>
+									<span class="news_title"><a href='/34/ae/c11225a406702/page.htm' target='_blank' title='2021年学院接收推荐免试攻读硕士研究生复试方案'>2021年学院接收推荐免试攻读硕士研究生复试方案</a></span>
+									<span class="news_meta">2020-09-28</span>
 								</li>
 								
 								<li class="news n4 clearfix">
-									<span class="news_title"><a href='/16/db/c11225a267995/page.htm' target='_blank' title='2019年硕士研究生招生'>2019年硕士研究生招生</a></span>
-									<span class="news_meta">2018-10-09</span>
+									<span class="news_title"><a href='/18/64/c11225a399460/page.htm' target='_blank' title='2021年学院接收推荐免试硕士研究生预报名通知'>2021年学院接收推荐免试硕士研究生预报名通知</a></span>
+									<span class="news_meta">2020-07-31</span>
 								</li>
 								
 								<li class="news n5 clearfix">
-									<span class="news_title"><a href='/16/e3/c11225a268003/page.htm' target='_blank' title='学院导师联系方式'>学院导师联系方式</a></span>
-									<span class="news_meta">2018-10-08</span>
+									<span class="news_title"><a href='/b7/7c/c11225a374652/page.htm' target='_blank' title='计算机科学与技术学院2020年硕士研究生拟录取名单公示（二）'>计算机科学与技术学院2020年硕士研究生拟录取名单公示（二）</a></span>
+									<span class="news_meta">2020-05-31</span>
 								</li>
 								
 								<li class="news n6 clearfix">
-									<span class="news_title"><a href='/16/f3/c11225a268019/page.htm' target='_blank' title='2019年接收推荐免试攻读硕士研究生复试方案'>2019年接收推荐免试攻读硕士研究生复试方案</a></span>
-									<span class="news_meta">2018-09-13</span>
+									<span class="news_title"><a href='/b7/79/c11225a309113/page.htm' target='_blank' title='计算机科学与技术学院2020年硕士研究生拟录取名单公示'>计算机科学与技术学院2020年硕士研究生拟录取名单公示</a></span>
+									<span class="news_meta">2020-05-29</span>
 								</li>
 								
 								<li class="news n7 clearfix">
-									<span class="news_title"><a href='/16/f6/c11225a268022/page.htm' target='_blank' title='2019年接收推荐免试硕士研究生预报名学生材料审核通知'>2019年接收推荐免试硕士研究生预报名学生材料审核通知</a></span>
-									<span class="news_meta">2018-09-04</span>
+									<span class="news_title"><a href='/_upload/article/files/5b/50/58ce40d341b38a5dbd96c98d465c/b6a4c4d5-be09-4130-a5b2-627f8ab81319.pdf' target='_blank' title='2020年硕士研究生入学考试复试方案'>2020年硕士研究生入学考试复试方案</a></span>
+									<span class="news_meta">2020-05-14</span>
 								</li>
 								
 								<li class="news n8 clearfix">
-									<span class="news_title"><a href='/16/f8/c11225a268024/page.htm' target='_blank' title='苏州大学2019年接收推荐免试硕士研究生预报名通知'>苏州大学2019年接收推荐免试硕士研究生预报名通知</a></span>
-									<span class="news_meta">2018-06-25</span>
+									<span class="news_title"><a href='/ae/99/c11225a372377/page.htm' target='_blank' title='2020年硕士研究生各专业复试情况统计表'>2020年硕士研究生各专业复试情况统计表</a></span>
+									<span class="news_meta">2020-05-14</span>
 								</li>
 								
 								<li class="news n9 clearfix">
-									<span class="news_title"><a href='/16/fa/c11225a268026/page.htm' target='_blank' title='2018年硕士研究生复试流程说明'>2018年硕士研究生复试流程说明</a></span>
-									<span class="news_meta">2018-03-21</span>
+									<span class="news_title"><a href='/ae/95/c11225a372373/page.htm' target='_blank' title='2020年硕士研究生拟复试名单（一志愿）'>2020年硕士研究生拟复试名单（一志愿）</a></span>
+									<span class="news_meta">2020-05-14</span>
 								</li>
 								
 								<li class="news n10 clearfix">
-									<span class="news_title"><a href='/16/fe/c11225a268030/page.htm' target='_blank' title='硕士研究生复试说明'>硕士研究生复试说明</a></span>
-									<span class="news_meta">2018-03-20</span>
+									<span class="news_title"><a href='/ac/55/c11225a371797/page.htm' target='_blank' title='通知'>通知</a></span>
+									<span class="news_meta">2020-05-09</span>
+								</li>
+								
+								<li class="news n11 clearfix">
+									<span class="news_title"><a href='/aa/9e/c11225a371358/page.htm' target='_blank' title='2020年硕士研究生招生考试复试学生提交材料要求'>2020年硕士研究生招生考试复试学生提交材料要求</a></span>
+									<span class="news_meta">2020-05-08</span>
+								</li>
+								
+								<li class="news n12 clearfix">
+									<span class="news_title"><a href='/16/fb/c11225a268027/page.htm' target='_blank' title='硕士研究生复试编程考试准备要点'>硕士研究生复试编程考试准备要点</a></span>
+									<span class="news_meta">2020-01-20</span>
+								</li>
+								
+								<li class="news n13 clearfix">
+									<span class="news_title"><a href='/0a/81/c11225a330369/page.htm' target='_blank' title='计算机科学与技术学院2020年招收研究生导师名单'>计算机科学与技术学院2020年招收研究生导师名单</a></span>
+									<span class="news_meta">2020-01-03</span>
+								</li>
+								
+								<li class="news n14 clearfix">
+									<span class="news_title"><a href='/ac/d8/c11225a306392/page.htm' target='_blank' title='2020年硕士研究生公开招考招生人数'>2020年硕士研究生公开招考招生人数</a></span>
+									<span class="news_meta">2020-01-02</span>
 								</li>
 								
 							</ul>
@@ -492,12 +512,12 @@
      </li> 
      <li class="page_nav"> 
          <a class="first" href="/yjszs/list1.htm" target="_self"><span>第一页</span></a> 
-         <a class="prev" href="/yjszs/list3.htm" target="_self"><span>&lt;&lt;上一页</span></a> 
-         <a class="next" href="javascript:void(0);" target="_self"><span>下一页&gt;&gt;</span></a> 
-         <a class="last" href="javascript:void(0);" target="_self"><span>尾页</span></a> 
+         <a class="prev" href="/yjszs/list1.htm" target="_self"><span>&lt;&lt;上一页</span></a> 
+         <a class="next" href="/yjszs/list3.htm" target="_self"><span>下一页&gt;&gt;</span></a> 
+         <a class="last" href="/yjszs/list4.htm" target="_self"><span>尾页</span></a> 
      </li> 
      <li class="page_jump"> 
-         <span class="pages">页码&nbsp;<em class="curr_page">4</em>/<em class="all_pages">4</em></span> 
+         <span class="pages">页码&nbsp;<em class="curr_page">2</em>/<em class="all_pages">4</em></span> 
          <span><input class="pageNum" type="text" /><input type="hidden" class="currPageURL" value=""></span></span> 
          <span><a class="pagingJump" href="javascript:void(0);" target="_self">跳转到&nbsp;</a></span> 
      </li> 

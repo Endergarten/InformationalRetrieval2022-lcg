@@ -1,0 +1,134 @@
+导航 
+首 页 
+学院 概况 
+学院 简介 
+历史沿革 
+现任 领导 
+机构 设置 
+办学 资源 
+联系方式 
+学科建设 
+江苏省 优势 学科 
+博士点 
+硕士点 
+实验室 
+师资队伍 
+师资 概况 
+教职工 名单 
+导师 简介 
+兼职 师资 
+科学研究 
+研究 中心 
+自然语言 研究 中心 
+机器 学习 图像处理 研究 中心 
+数据 科学 工业 软件 研究 中心 
+网络 科学 工程 研究 中心 
+人工智能 研究院 
+嵌入式 技术 系统 能力 培养 研究 中心 
+科研机构 
+科研项目 
+科研 论文 
+知识产权 
+科研 政策 
+人才培养 
+博士生 
+硕士生 
+本科生 
+人才培养 方案 
+课程 教学大纲 
+图灵 班 
+国际交流 
+学生 工作 
+工作队 伍 
+学工 通知 
+学工 新闻 
+规章制度 
+志愿 服务 
+学生 组织 
+勤工助学 
+心理健康 
+职业规划 
+成长 陪伴 
+党群 工作 
+基层组织 
+规章制度 
+专题 活动 
+分党 校工 作 
+发展 公示 
+关工委 工作 
+工会工作 
+干将 大讲堂 二十 D e s i g n a n d A n a l y s i s o f M E C a n d P r o a c t i v e C a c h i n g b a s e d ° M o b i l e V R V i d e o S t r e a m i n g 
+发布者 
+发布 时间 
+浏览 次数 
+时间 
+年 月 日 
+腾讯 会议 
+会议 I D 摘要 
+R e c e n t l y 
+d e g r e e m o b i l e v i r t u a l r e a l i t y v i d e o M V R V h a s b e c o m e i n c r e a s i n g l y p o p u l a r b e c a u s e i t c a n p r o v i d e u s e r s w i t h a n i m m e r s i v e e x p e r i e n c e 
+H o w e v e r 
+M V R V i s u s u a l l y r e c o r d e d i n a h i g h r e s o l u t i o n a n d i s s e n s i t i v e t o l a t e n c y 
+w h i c h i n d i c a t e s t h a t b r o a d b a n d 
+u l t r a r e l i a b l e 
+a n d l o w l a t e n c y c o m m u n i c a t i o n i s n e c e s s a r y t o g u a r a n t e e t h e u s e r s q u a l i t y o f e x p e r i e n c e 
+I n t h i s t a l k 
+w e p r e s e n t o u r d e s i g n o f a m o b i l e e d g e c o m p u t i n g M E C b a s e d d e g r e e M V R V s t r e a m i n g s c h e m e w i t h f i e l d o f v i e w F o V p r e d i c t i o n 
+w h i c h j o i n t l y c o n s i d e r s v i d e o c o d i n g 
+p r o a c t i v e c a c h i n g 
+c o m p u t a t i o n o f f l o a d i n g 
+a n d d a t a t r a n s m i s s i o n 
+T o m e e t t h e r e q u i r e m e n t o f s t r i n g e n t e n d t o e n d E E l a t e n c y 
+t h e u s e r s v i e w p o i n t p r e d i c t i o n i s u t i l i z e d t o c a c h e v i d e o d a t a p r o a c t i v e l y 
+a n d c o m p u t i n g t a s k s a r e p a r t i a l l y o f f l o a d e d t o t h e M E C s e r v e r 
+I n a d d i t i o n 
+w e p r o p o s e a n a n a l y t i c a l m o d e l b a s e d o n d i f f u s i o n p r o c e s s t o s t u d y t h e p a c k e t t r a n s m i s s i o n p r o c e s s o f d e g r e e M V R V i n m u l t i h o p w i r e d w i r e l e s s n e t w o r k s a n d a n a l y z e t h e p e r f o r m a n c e o f t h e M E C e n a b l e d s c h e m e 
+S i m u l a t i o n r e s u l t s v e r i f y t h e a c c u r a c y o f t h e a n a l y s i s a n d t h e e f f e c t i v e n e s s o f t h e p r o p o s e d M V R V s t r e a m i n g s c h e m e i n r e d u c i n g t h e E E d e l a y 
+F u r t h e r m o r e 
+t h e a n a l y t i c a l f r a m e w o r k s h e d s s o m e l i g h t o n t h e i m p a c t s o f s y s t e m p a r a m e t e r s 
+e 
+g 
+F o V p r e d i c t i o n a c c u r a c y a n d t r a n s m i s s i o n r a t e 
+o n t h e b a l a n c e b e t w e e n c o m p u t a t i o n d e l a y a n d c o m m u n i c a t i o n d e l a y 
+单 杭 冠 简介 浙江大学 信息 电子 工程学院 士 副教授 
+博士生 导师 
+I E E E S e n i o r M e m b e r 
+浙江大学 竺可桢 学院 通信工程 学士 
+复旦大学 电路 系统 博士学位 
+博士 毕业 滑铁卢 大学 博士后 研究 
+年 进 浙江大学 信息 通信网 络 工程 研究所 工作 
+负责人 承担 国家自然科学基金 项 
+国家 科技 专项 子课题 
+工 信 部 工业 互联网 创新 发展 工程项目 课题 
+教育部 博士点 基金 
+浙江省 自然科学 面上 项目 
+浙江省 公益 技术 研究 计划 项目 项 
+担任 I M T G 推进 组 M E C 测试 床 专家 国家自然科学基金 通信 评审 专家 
+I E E E 
+通信 学报 国内外 通信 领域 顶级 期刊 发表 学术论文 近 篇 
+国内外 学者 引用 余次 
+获 批 国家 发明专利 项 
+作者 I E E E W C N C 国际 会议 T h e B e s t I n d u s t r y P a p e r A w a r d 
+年 年 担任 I E E E T r a n s a c t i o n s o n G r e e n C o m m u n i c a t i o n s a n d N e t w o r k i n g 编委 
+曾多次 担任 I E E E V e h i c l e T e c h n o l o g y C o n f e r e n c e 国际 会议 M a c h i n e L e a r n i n g a n d A I f o r C o m m u n i c a t i o n s 
+I o T 
+M M 
+S e n s o r N e t w o r k s 
+a n d A d H o c N e t w o r k i n g 
+G r e e n C o m m u n i c a t i o n s a n d N e t w o r k s F u t u r e T r e n d s a n d E m e r g i n g T e c h n o l o g i e s T r a c k L e a d i n g C o C h a i r C o C h a i r 
+技术 委员会 成员 服务 I E E E G l o b e c o m 
+I C C 
+W C N C 
+P I M R C 
+V T C 国际 会议 
+G B G 通信 相关 网络 设计 用户服务 质量 保障 方向 研究 
+主办单位 
+江苏省 网络空间 安全工程 实验室 江苏省 计算机信息 技术 重点 实验室 苏州大学 计算机科学 技术 学院 苏州市 人工智能 学会 机器 学习 类 脑 计算 国际 合作 实验室 
+教学 辅助 平台 
+学院 经费 管理系统 校内 
+科研成果 申报 平台 校内 
+省级重点 实验室 
+计算机 教学网 校内 
+自然语言 实验室 
+C o p y r i g h t 苏州大学 计算机科学 技术 学院 A l l R i g h t s R e s e r v e d 苏州市 十 梓 街 号 
+苏 I C P 备 苏 公网 安 备 号 

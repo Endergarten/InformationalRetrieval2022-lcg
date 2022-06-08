@@ -423,13 +423,73 @@
 							<ul class="news_list list2">
 								
 								<li class="news n1 clearfix">
-									<span class="news_title"><a href='/e5/16/c11206a255254/page.htm' target='_blank' title='2011年计算机科学与软件工程国际会议征文通知'>2011年计算机科学与软件工程国际会议征文通知</a></span>
-									<span class="news_meta">2011-06-17</span>
+									<span class="news_title"><a href='/e6/0d/c11206a255501/page.htm' target='_blank' title='CIKM 2018'>CIKM 2018</a></span>
+									<span class="news_meta">2018-04-27</span>
 								</li>
 								
 								<li class="news n2 clearfix">
-									<span class="news_title"><a href='/e5/13/c11206a255251/page.htm' target='_blank' title='2011年江苏省计算机学会网络分布计算、网格与服务计算学术年会征文通知'>2011年江苏省计算机学会网络分布计算、网格与服务计算学术年会征...</a></span>
-									<span class="news_meta">2011-06-17</span>
+									<span class="news_title"><a href='/e6/0b/c11206a255499/page.htm' target='_blank' title='ACML 2018'>ACML 2018</a></span>
+									<span class="news_meta">2018-04-09</span>
+								</li>
+								
+								<li class="news n3 clearfix">
+									<span class="news_title"><a href='/e6/09/c11206a255497/page.htm' target='_blank' title='EMNLP 2018'>EMNLP 2018</a></span>
+									<span class="news_meta">2018-04-09</span>
+								</li>
+								
+								<li class="news n4 clearfix">
+									<span class="news_title"><a href='/e6/08/c11206a255496/page.htm' target='_blank' title='ICDM 2018'>ICDM 2018</a></span>
+									<span class="news_meta">2018-03-30</span>
+								</li>
+								
+								<li class="news n5 clearfix">
+									<span class="news_title"><a href='/e6/06/c11206a255494/page.htm' target='_blank' title='ECML-PKDD 2018'>ECML-PKDD 2018</a></span>
+									<span class="news_meta">2017-12-22</span>
+								</li>
+								
+								<li class="news n6 clearfix">
+									<span class="news_title"><a href='/e6/04/c11206a255492/page.htm' target='_blank' title='“大数据和云计算：创新创业的新机遇”系列讲座'>“大数据和云计算：创新创业的新机遇”系列讲座</a></span>
+									<span class="news_meta">2017-11-13</span>
+								</li>
+								
+								<li class="news n7 clearfix">
+									<span class="news_title"><a href='/e6/02/c11206a255490/page.htm' target='_blank' title='ICDM 2017'>ICDM 2017</a></span>
+									<span class="news_meta">2017-02-18</span>
+								</li>
+								
+								<li class="news n8 clearfix">
+									<span class="news_title"><a href='/e6/00/c11206a255488/page.htm' target='_blank' title='MASS2017 CALL FOR PAPERS'>MASS2017 CALL FOR PAPERS</a></span>
+									<span class="news_meta">2017-02-18</span>
+								</li>
+								
+								<li class="news n9 clearfix">
+									<span class="news_title"><a href='/e5/fe/c11206a255486/page.htm' target='_blank' title='PAKDD 2017 Call for Papers'>PAKDD 2017 Call for Papers</a></span>
+									<span class="news_meta">2016-10-11</span>
+								</li>
+								
+								<li class="news n10 clearfix">
+									<span class="news_title"><a href='/e5/f9/c11206a255481/page.htm' target='_blank' title='IJCAI-2017 Call for papers'>IJCAI-2017 Call for papers</a></span>
+									<span class="news_meta">2016-09-11</span>
+								</li>
+								
+								<li class="news n11 clearfix">
+									<span class="news_title"><a href='/e5/cf/c11206a255439/page.htm' target='_blank' title='2017 IEEE International Conference on Data Engineering'>2017 IEEE International Conference on Data Engineering</a></span>
+									<span class="news_meta">2016-07-11</span>
+								</li>
+								
+								<li class="news n12 clearfix">
+									<span class="news_title"><a href='/e5/cc/c11206a255436/page.htm' target='_blank' title='第三届CCF大数据学术会议征文通知'>第三届CCF大数据学术会议征文通知</a></span>
+									<span class="news_meta">2015-07-10</span>
+								</li>
+								
+								<li class="news n13 clearfix">
+									<span class="news_title"><a href='/e5/c8/c11206a255432/page.htm' target='_blank' title='2015 The Third International Conference on Advanced Cloud and Big Data (CBD 2015) call for papers'>2015 The Third International Conference on Advanced Cloud an...</a></span>
+									<span class="news_meta">2015-06-25</span>
+								</li>
+								
+								<li class="news n14 clearfix">
+									<span class="news_title"><a href='/e5/c5/c11206a255429/page.htm' target='_blank' title='第二届江苏省计算机网络与云计算学术会议征文通知'>第二届江苏省计算机网络与云计算学术会议征文通知</a></span>
+									<span class="news_meta">2015-06-09</span>
 								</li>
 								
 							</ul>
@@ -443,12 +503,12 @@
      </li> 
      <li class="page_nav"> 
          <a class="first" href="/11206/list1.htm" target="_self"><span>第一页</span></a> 
-         <a class="prev" href="/11206/list6.htm" target="_self"><span>&lt;&lt;上一页</span></a> 
-         <a class="next" href="javascript:void(0);" target="_self"><span>下一页&gt;&gt;</span></a> 
-         <a class="last" href="javascript:void(0);" target="_self"><span>尾页</span></a> 
+         <a class="prev" href="/11206/list1.htm" target="_self"><span>&lt;&lt;上一页</span></a> 
+         <a class="next" href="/11206/list3.htm" target="_self"><span>下一页&gt;&gt;</span></a> 
+         <a class="last" href="/11206/list7.htm" target="_self"><span>尾页</span></a> 
      </li> 
      <li class="page_jump"> 
-         <span class="pages">页码&nbsp;<em class="curr_page">7</em>/<em class="all_pages">7</em></span> 
+         <span class="pages">页码&nbsp;<em class="curr_page">2</em>/<em class="all_pages">7</em></span> 
          <span><input class="pageNum" type="text" /><input type="hidden" class="currPageURL" value=""></span></span> 
          <span><a class="pagingJump" href="javascript:void(0);" target="_self">跳转到&nbsp;</a></span> 
      </li> 

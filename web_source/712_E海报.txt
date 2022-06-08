@@ -435,73 +435,73 @@
 							<ul class="news_list list2">
 								
 								<li class="news n1 clearfix">
-									<span class="news_title"><a href='/a7/95/c11204a436117/page.htm' target='_blank' title='计算机学院研究生沙龙'>计算机学院研究生沙龙</a></span>
-									<span class="news_meta">2021-04-14</span>
+									<span class="news_title"><a href='/8e/6e/c11204a495214/page.htm' target='_blank' title='情系今朝 怀梦远航——计算机科学与技术学院2018级毕业晚会'>情系今朝 怀梦远航——计算机科学与技术学院2018级毕业晚会</a></span>
+									<span class="news_meta">2022-05-30</span>
 								</li>
 								
 								<li class="news n2 clearfix">
-									<span class="news_title"><a href='/a4/51/c11204a435281/page.htm' target='_blank' title='计算机科学与技术学院党史党章党规知识竞赛 '>计算机科学与技术学院党史党章党规知识竞赛 </a></span>
-									<span class="news_meta">2021-04-07</span>
+									<span class="news_title"><a href='/8e/0c/c11204a495116/page.htm' target='_blank' title='感悟诚信，分享心得——诚信电影感悟分享活动'>感悟诚信，分享心得——诚信电影感悟分享活动</a></span>
+									<span class="news_meta">2022-05-28</span>
 								</li>
 								
 								<li class="news n3 clearfix">
-									<span class="news_title"><a href='/9a/32/c11204a432690/page.htm' target='_blank' title='计算机学院研究生喜迎建党百年暨党史学习教育系列活动'>计算机学院研究生喜迎建党百年暨党史学习教育系列活动</a></span>
-									<span class="news_meta">2021-03-22</span>
+									<span class="news_title"><a href='/8d/f5/c11204a495093/page.htm' target='_blank' title='计算机科学与技术学院庆祝中国共青团成立100周年系列活动之跃动的青春旋律——2022年班级风采大赛'>计算机科学与技术学院庆祝中国共青团成立100周年系列活动之跃动...</a></span>
+									<span class="news_meta">2022-05-28</span>
 								</li>
 								
 								<li class="news n4 clearfix">
-									<span class="news_title"><a href='/9a/1c/c11204a432668/page.htm' target='_blank' title='计算机学院研究生喜迎建党百年暨党史学习教育系列活动'>计算机学院研究生喜迎建党百年暨党史学习教育系列活动</a></span>
-									<span class="news_meta">2021-03-22</span>
+									<span class="news_title"><a href='/8c/01/c11204a494593/page.htm' target='_blank' title='活在爱中的秘诀——525心理健康讲座'>活在爱中的秘诀——525心理健康讲座</a></span>
+									<span class="news_meta">2022-05-24</span>
 								</li>
 								
 								<li class="news n5 clearfix">
-									<span class="news_title"><a href='/95/d4/c11204a431572/page.htm' target='_blank' title='计算机科学与技术学院标兵宣讲团——学习科研标兵——王懿丰'>计算机科学与技术学院标兵宣讲团——学习科研标兵——王懿丰</a></span>
-									<span class="news_meta">2021-03-17</span>
+									<span class="news_title"><a href='/89/ac/c11204a493996/page.htm' target='_blank' title='计算机科学与技术学院庆祝共青团成立100周年系列活动之梦想公开课——让青春在奋斗中闪光'>计算机科学与技术学院庆祝共青团成立100周年系列活动之梦想公开...</a></span>
+									<span class="news_meta">2022-05-21</span>
 								</li>
 								
 								<li class="news n6 clearfix">
-									<span class="news_title"><a href='/95/cc/c11204a431564/page.htm' target='_blank' title='计算机科学与技术学院标兵宣讲团——学习科研标兵——田新宇'>计算机科学与技术学院标兵宣讲团——学习科研标兵——田新宇</a></span>
-									<span class="news_meta">2021-03-17</span>
+									<span class="news_title"><a href='/88/a5/c11204a493733/page.htm' target='_blank' title='计算机科学与技术学院留学公益讲座——“疫”外之下留学人如何获取互联网高薪职位'>计算机科学与技术学院留学公益讲座——“疫”外之下留学人如何获取...</a></span>
+									<span class="news_meta">2022-05-19</span>
 								</li>
 								
 								<li class="news n7 clearfix">
-									<span class="news_title"><a href='/95/c7/c11204a431559/page.htm' target='_blank' title='计算机科学与技术学院标兵宣讲团——学习科研标兵——郭静文'>计算机科学与技术学院标兵宣讲团——学习科研标兵——郭静文</a></span>
-									<span class="news_meta">2021-03-17</span>
+									<span class="news_title"><a href='/7e/5d/c11204a491101/page.htm' target='_blank' title='弘扬中华体育精神，居家健康运动打卡'>弘扬中华体育精神，居家健康运动打卡</a></span>
+									<span class="news_meta">2022-04-25</span>
 								</li>
 								
 								<li class="news n8 clearfix">
-									<span class="news_title"><a href='/95/ba/c11204a431546/page.htm' target='_blank' title='计算机科学与技术学院标兵宣讲团——学习科研标兵——徐卫伟'>计算机科学与技术学院标兵宣讲团——学习科研标兵——徐卫伟</a></span>
-									<span class="news_meta">2021-03-17</span>
+									<span class="news_title"><a href='/75/79/c11204a488825/page.htm' target='_blank' title='计算机科学与技术学院读书节系列活动——朗读者'>计算机科学与技术学院读书节系列活动——朗读者</a></span>
+									<span class="news_meta">2022-04-09</span>
 								</li>
 								
 								<li class="news n9 clearfix">
-									<span class="news_title"><a href='/95/b5/c11204a431541/page.htm' target='_blank' title='计算机科学与技术学院标兵宣讲团——实践创新标兵——陈强'>计算机科学与技术学院标兵宣讲团——实践创新标兵——陈强</a></span>
-									<span class="news_meta">2021-03-17</span>
+									<span class="news_title"><a href='/74/e3/c11204a488675/page.htm' target='_blank' title='计算机科学与技术学院青马工程系列活动之梦想公开课——我与星儿的公益十年'>计算机科学与技术学院青马工程系列活动之梦想公开课——我与星儿的...</a></span>
+									<span class="news_meta">2022-04-07</span>
 								</li>
 								
 								<li class="news n10 clearfix">
-									<span class="news_title"><a href='/95/b2/c11204a431538/page.htm' target='_blank' title='计算机科学与技术学院标兵宣讲团——实践创新标兵——刘晓璇'>计算机科学与技术学院标兵宣讲团——实践创新标兵——刘晓璇</a></span>
-									<span class="news_meta">2021-03-17</span>
+									<span class="news_title"><a href='/74/a1/c11204a488609/page.htm' target='_blank' title='计算机科学与技术学院“我和书的那些事儿”读书分享会'>计算机科学与技术学院“我和书的那些事儿”读书分享会</a></span>
+									<span class="news_meta">2022-04-06</span>
 								</li>
 								
 								<li class="news n11 clearfix">
-									<span class="news_title"><a href='/95/ad/c11204a431533/page.htm' target='_blank' title='计算机科学与技术学院标兵宣讲团——实践创新标兵——朱晨清'>计算机科学与技术学院标兵宣讲团——实践创新标兵——朱晨清</a></span>
-									<span class="news_meta">2021-03-17</span>
+									<span class="news_title"><a href='/75/a3/c11204a488867/page.htm' target='_blank' title='计算机科学与技术学院读书节系列活动——阅读漂流'>计算机科学与技术学院读书节系列活动——阅读漂流</a></span>
+									<span class="news_meta">2022-04-06</span>
 								</li>
 								
 								<li class="news n12 clearfix">
-									<span class="news_title"><a href='/95/a5/c11204a431525/page.htm' target='_blank' title='计算机科学与技术学院标兵宣讲团——志愿服务标兵——陆宇星'>计算机科学与技术学院标兵宣讲团——志愿服务标兵——陆宇星</a></span>
-									<span class="news_meta">2021-03-17</span>
+									<span class="news_title"><a href='/71/1c/c11204a487708/page.htm' target='_blank' title='奋斗正青春，逐梦向未来——本科生升学宣讲会'>奋斗正青春，逐梦向未来——本科生升学宣讲会</a></span>
+									<span class="news_meta">2022-03-30</span>
 								</li>
 								
 								<li class="news n13 clearfix">
-									<span class="news_title"><a href='/95/a0/c11204a431520/page.htm' target='_blank' title='计算机科学与技术学院标兵宣讲团——自立自强标兵——杨煜戎'>计算机科学与技术学院标兵宣讲团——自立自强标兵——杨煜戎</a></span>
-									<span class="news_meta">2021-03-17</span>
+									<span class="news_title"><a href='/71/1b/c11204a487707/page.htm' target='_blank' title='《嵌入式技术基础与实践（第6版）》核心教学脉络及教学资源分享'>《嵌入式技术基础与实践（第6版）》核心教学脉络及教学资源分享</a></span>
+									<span class="news_meta">2022-03-30</span>
 								</li>
 								
 								<li class="news n14 clearfix">
-									<span class="news_title"><a href='/95/99/c11204a431513/page.htm' target='_blank' title='计算机科学与技术学院标兵宣讲团——自立自强标兵——张维维'>计算机科学与技术学院标兵宣讲团——自立自强标兵——张维维</a></span>
-									<span class="news_meta">2021-03-17</span>
+									<span class="news_title"><a href='/70/da/c11204a487642/page.htm' target='_blank' title='苏州大学计算机科学与技术学院春季云聘会'>苏州大学计算机科学与技术学院春季云聘会</a></span>
+									<span class="news_meta">2022-03-29</span>
 								</li>
 								
 							</ul>
@@ -514,13 +514,13 @@
          <span class="all_count">总共&nbsp;<em class="all_count">544</em>&nbsp;记录&nbsp;</span> 
      </li> 
      <li class="page_nav"> 
-         <a class="first" href="/11204/list1.htm" target="_self"><span>第一页</span></a> 
-         <a class="prev" href="/11204/list2.htm" target="_self"><span>&lt;&lt;上一页</span></a> 
-         <a class="next" href="/11204/list4.htm" target="_self"><span>下一页&gt;&gt;</span></a> 
+         <a class="first" href="javascript:void(0);" target="_self"><span>第一页</span></a> 
+         <a class="prev" href="javascript:void(0);" target="_self"><span>&lt;&lt;上一页</span></a> 
+         <a class="next" href="/11204/list2.htm" target="_self"><span>下一页&gt;&gt;</span></a> 
          <a class="last" href="/11204/list39.htm" target="_self"><span>尾页</span></a> 
      </li> 
      <li class="page_jump"> 
-         <span class="pages">页码&nbsp;<em class="curr_page">3</em>/<em class="all_pages">39</em></span> 
+         <span class="pages">页码&nbsp;<em class="curr_page">1</em>/<em class="all_pages">39</em></span> 
          <span><input class="pageNum" type="text" /><input type="hidden" class="currPageURL" value=""></span></span> 
          <span><a class="pagingJump" href="javascript:void(0);" target="_self">跳转到&nbsp;</a></span> 
      </li> 

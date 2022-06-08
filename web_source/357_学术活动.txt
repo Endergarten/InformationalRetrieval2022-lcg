@@ -46,7 +46,7 @@
 				<div class="searchbox" frag="窗口03" portletmode="search">
 											<!--搜索组件-->
 						<div class="wp-search clearfix">
-							<form action="/_web/_search/api/search/new.rst?locale=zh_CN&request_locale=zh_CN&_p=YXM9Mjg5JnQ9NDc1JmQ9MTY4NiZwPTImZj0xMTIwMyZpPTIwJm09TiY_" method="post" target="_blank">
+							<form action="/_web/_search/api/search/new.rst?locale=zh_CN&request_locale=zh_CN&_p=YXM9Mjg5JnQ9NDc1JmQ9MTY4NiZwPTImZj0xMDkyMiZtPVNOJnxibm5Db2x1bW5WaXJ0dWFsTmFtZT0xMDkyMiY_" method="post" target="_blank">
 								<div class="search-input">
 									<input name="keyword" class="search-title" type="text" placeholder="请输入关键词..."/>
 								</div>
@@ -76,7 +76,7 @@
 					
 					<ul class="wp-menu " data-nav-aside='{"title":"导航","index":0}'>
 						
-						<li class="menu-item i1"> <a class="menu-link" href="/_s289/main.psp" target="_self">首 页</a>
+						<li class="menu-item i1"> <a class="menu-link" href="http://scst.suda.edu.cn/main.htm" target="_self">首 页</a>
 							
 						</li>
 						
@@ -423,63 +423,73 @@
 							<ul class="news_list list2">
 								
 								<li class="news n1 clearfix">
-									<span class="news_title"><a href='/e3/a8/c11203a254888/page.htm' target='_blank' title='学术报告'>学术报告</a></span>
-									<span class="news_meta">2012-03-27</span>
+									<span class="news_title"><a href='/43/0e/c11203a475918/page.htm' target='_blank' title='干将大讲堂（十四）——量子密码原理与研究进展'>干将大讲堂（十四）——量子密码原理与研究进展</a></span>
+									<span class="news_meta">2021-12-03</span>
 								</li>
 								
 								<li class="news n2 clearfix">
-									<span class="news_title"><a href='/e3/a7/c11203a254887/page.htm' target='_blank' title='学术报告'>学术报告</a></span>
-									<span class="news_meta">2012-03-13</span>
+									<span class="news_title"><a href='/43/0d/c11203a475917/page.htm' target='_blank' title='干将大讲堂（十三）——面向领域大数据的知识图谱构建'>干将大讲堂（十三）——面向领域大数据的知识图谱构建</a></span>
+									<span class="news_meta">2021-12-03</span>
 								</li>
 								
 								<li class="news n3 clearfix">
-									<span class="news_title"><a href='/e3/a6/c11203a254886/page.htm' target='_blank' title='学术报告'>学术报告</a></span>
-									<span class="news_meta">2012-03-11</span>
+									<span class="news_title"><a href='/43/0c/c11203a475916/page.htm' target='_blank' title='干将大讲堂（十二）——安全简谱：从摩尔斯——》零信任'>干将大讲堂（十二）——安全简谱：从摩尔斯——》零信任</a></span>
+									<span class="news_meta">2021-12-03</span>
 								</li>
 								
 								<li class="news n4 clearfix">
-									<span class="news_title"><a href='/e3/a5/c11203a254885/page.htm' target='_blank' title='学术报告'>学术报告</a></span>
-									<span class="news_meta">2011-12-29</span>
+									<span class="news_title"><a href='/43/0b/c11203a475915/page.htm' target='_blank' title='干将大讲堂（十一）——工业互联网安全挑战与实践'>干将大讲堂（十一）——工业互联网安全挑战与实践</a></span>
+									<span class="news_meta">2021-12-03</span>
 								</li>
 								
 								<li class="news n5 clearfix">
-									<span class="news_title"><a href='/e3/a4/c11203a254884/page.htm' target='_blank' title='学术报告——计算机科学的问题和方法'>学术报告——计算机科学的问题和方法</a></span>
-									<span class="news_meta">2011-11-14</span>
+									<span class="news_title"><a href='/46/a9/c11203a476841/page.htm' target='_blank' title='干将大讲堂（二十五）——工业机器人技术的发展'>干将大讲堂（二十五）——工业机器人技术的发展</a></span>
+									<span class="news_meta">2021-12-02</span>
 								</li>
 								
 								<li class="news n6 clearfix">
-									<span class="news_title"><a href='/e3/a3/c11203a254883/page.htm' target='_blank' title='学术报告——从普适计算到物联网-智慧城市的若干实践'>学术报告——从普适计算到物联网-智慧城市的若干实践</a></span>
-									<span class="news_meta">2011-11-12</span>
+									<span class="news_title"><a href='/40/00/c11203a475136/page.htm' target='_blank' title='干将大讲堂（十）——工控系统安全测试及攻防验证平台'>干将大讲堂（十）——工控系统安全测试及攻防验证平台</a></span>
+									<span class="news_meta">2021-12-01</span>
 								</li>
 								
 								<li class="news n7 clearfix">
-									<span class="news_title"><a href='/e3/a2/c11203a254882/page.htm' target='_blank' title='学术报告——云计算的安全挑战与实践'>学术报告——云计算的安全挑战与实践</a></span>
-									<span class="news_meta">2011-11-07</span>
+									<span class="news_title"><a href='/3f/eb/c11203a475115/page.htm' target='_blank' title='干将大讲堂（九）——基于智能感知与多方门限签名的区块链分布式监管决策体系'>干将大讲堂（九）——基于智能感知与多方门限签名的区块链分布式监...</a></span>
+									<span class="news_meta">2021-12-01</span>
 								</li>
 								
 								<li class="news n8 clearfix">
-									<span class="news_title"><a href='/e3/a1/c11203a254881/page.htm' target='_blank' title='学术报告—— Internet of Things and Cloud Computing'>学术报告—— Internet of Things and Cloud Computing</a></span>
-									<span class="news_meta">2011-10-25</span>
+									<span class="news_title"><a href='/3f/e7/c11203a475111/page.htm' target='_blank' title='干将大讲堂（八）'>干将大讲堂（八）</a></span>
+									<span class="news_meta">2021-11-27</span>
 								</li>
 								
 								<li class="news n9 clearfix">
-									<span class="news_title"><a href='/e3/a0/c11203a254880/page.htm' target='_blank' title='中国中文信息学会汉字编码专业委员会第九届年会暨学术研讨会'>中国中文信息学会汉字编码专业委员会第九届年会暨学术研讨会</a></span>
-									<span class="news_meta">2011-10-17</span>
+									<span class="news_title"><a href='/3d/65/c11203a474469/page.htm' target='_blank' title='干将大讲堂（七）——基于毫米波和超声雷达的非接触智能感知'>干将大讲堂（七）——基于毫米波和超声雷达的非接触智能感知</a></span>
+									<span class="news_meta">2021-11-26</span>
 								</li>
 								
 								<li class="news n10 clearfix">
-									<span class="news_title"><a href='/e3/9f/c11203a254879/page.htm' target='_blank' title='学术报告 计算机科学与技术总论'>学术报告 计算机科学与技术总论</a></span>
-									<span class="news_meta">2011-10-13</span>
+									<span class="news_title"><a href='/3d/64/c11203a474468/page.htm' target='_blank' title='干将大讲堂（六）——多源融合室内导航与定位在工业互联网中的应用探究'>干将大讲堂（六）——多源融合室内导航与定位在工业互联网中的应用...</a></span>
+									<span class="news_meta">2021-11-26</span>
 								</li>
 								
 								<li class="news n11 clearfix">
-									<span class="news_title"><a href='/e3/9e/c11203a254878/page.htm' target='_blank' title='陈国良院士学术报告'>陈国良院士学术报告</a></span>
-									<span class="news_meta">2011-10-08</span>
+									<span class="news_title"><a href='/3d/62/c11203a474466/page.htm' target='_blank' title='干将大讲堂（五）——智能语音助手误唤醒现象'>干将大讲堂（五）——智能语音助手误唤醒现象</a></span>
+									<span class="news_meta">2021-11-26</span>
 								</li>
 								
 								<li class="news n12 clearfix">
-									<span class="news_title"><a href='/e3/9d/c11203a254877/page.htm' target='_blank' title='学术报告'>学术报告</a></span>
-									<span class="news_meta">2011-06-23</span>
+									<span class="news_title"><a href='/38/57/c11203a473175/page.htm' target='_blank' title='学术报告：专业工程教育认证状态保持与持续改进（以常州大学计算机专业为例）'>学术报告：专业工程教育认证状态保持与持续改进（以常州大学计算...</a></span>
+									<span class="news_meta">2021-11-19</span>
+								</li>
+								
+								<li class="news n13 clearfix">
+									<span class="news_title"><a href='/38/55/c11203a473173/page.htm' target='_blank' title='学术报告：面向工程教育的课程教学与专业建设'>学术报告：面向工程教育的课程教学与专业建设</a></span>
+									<span class="news_meta">2021-11-19</span>
+								</li>
+								
+								<li class="news n14 clearfix">
+									<span class="news_title"><a href='/38/54/c11203a473172/page.htm' target='_blank' title='学术报告：工程教育认证中期报告要点解析'>学术报告：工程教育认证中期报告要点解析</a></span>
+									<span class="news_meta">2021-11-19</span>
 								</li>
 								
 							</ul>
@@ -493,12 +503,12 @@
      </li> 
      <li class="page_nav"> 
          <a class="first" href="/11203/list1.htm" target="_self"><span>第一页</span></a> 
-         <a class="prev" href="/11203/list19.htm" target="_self"><span>&lt;&lt;上一页</span></a> 
-         <a class="next" href="javascript:void(0);" target="_self"><span>下一页&gt;&gt;</span></a> 
-         <a class="last" href="javascript:void(0);" target="_self"><span>尾页</span></a> 
+         <a class="prev" href="/11203/list1.htm" target="_self"><span>&lt;&lt;上一页</span></a> 
+         <a class="next" href="/11203/list3.htm" target="_self"><span>下一页&gt;&gt;</span></a> 
+         <a class="last" href="/11203/list20.htm" target="_self"><span>尾页</span></a> 
      </li> 
      <li class="page_jump"> 
-         <span class="pages">页码&nbsp;<em class="curr_page">20</em>/<em class="all_pages">20</em></span> 
+         <span class="pages">页码&nbsp;<em class="curr_page">2</em>/<em class="all_pages">20</em></span> 
          <span><input class="pageNum" type="text" /><input type="hidden" class="currPageURL" value=""></span></span> 
          <span><a class="pagingJump" href="javascript:void(0);" target="_self">跳转到&nbsp;</a></span> 
      </li> 

@@ -18,6 +18,7 @@ def content_extraction(var=None):
             continue
         fOut = open("web_text/" + f, "w", encoding="utf-8-sig")
         soup = BeautifulSoup(open("web_source/" + f, encoding="utf-8-sig"), features='lxml')
+        fOut.write(soup.title.text + '\n')
         s = soup.body.text
         lst = s.split('\n')
         fOut.write(lst[0][4:-3])

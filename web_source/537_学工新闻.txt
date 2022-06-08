@@ -453,73 +453,73 @@
 							<ul class="news_list list2">
 								
 								<li class="news n1 clearfix">
-									<span class="news_title"><a href='/e9/65/c28222a256357/page.htm' target='_blank' title='苏州大学计算机科学与技术学院第十四届研究生代表大会'>苏州大学计算机科学与技术学院第十四届研究生代表大会</a></span>
-									<span class="news_meta">2017-12-01</span>
+									<span class="news_title"><a href='/8c/91/c28222a494737/page.htm' target='_blank' title='我院举行“5·25”大学生心理健康节专题讲座'>我院举行“5·25”大学生心理健康节专题讲座</a></span>
+									<span class="news_meta">2022-05-25</span>
 								</li>
 								
 								<li class="news n2 clearfix">
-									<span class="news_title"><a href='/e9/63/c28222a256355/page.htm' target='_blank' title='2017新老生篮球赛顺利举办'>2017新老生篮球赛顺利举办</a></span>
-									<span class="news_meta">2017-10-31</span>
+									<span class="news_title"><a href='/86/49/c28222a493129/page.htm' target='_blank' title='祝贺我院校友张三友获评首届江苏公安杰出青年卫士'>祝贺我院校友张三友获评首届江苏公安杰出青年卫士</a></span>
+									<span class="news_meta">2022-05-13</span>
 								</li>
 								
 								<li class="news n3 clearfix">
-									<span class="news_title"><a href='/e9/61/c28222a256353/page.htm' target='_blank' title='“最美苏大最美瞬间”摄影展活动顺利举办'>“最美苏大最美瞬间”摄影展活动顺利举办</a></span>
-									<span class="news_meta">2017-05-31</span>
+									<span class="news_title"><a href='/73/4a/c28222a488266/page.htm' target='_blank' title='学校招生就业处调研我院招生和就业工作'>学校招生就业处调研我院招生和就业工作</a></span>
+									<span class="news_meta">2022-04-01</span>
 								</li>
 								
 								<li class="news n4 clearfix">
-									<span class="news_title"><a href='/e9/60/c28222a256352/page.htm' target='_blank' title='求职经验交流会成功举办'>求职经验交流会成功举办</a></span>
-									<span class="news_meta">2017-04-25</span>
+									<span class="news_title"><a href='/71/cc/c28222a487884/page.htm' target='_blank' title='拥抱绿色，让森林走进生活——第44个植树节学院举行线上植树活动'>拥抱绿色，让森林走进生活——第44个植树节学院举行线上植树活动</a></span>
+									<span class="news_meta">2022-03-31</span>
 								</li>
 								
 								<li class="news n5 clearfix">
-									<span class="news_title"><a href='/e9/5d/c28222a256349/page.htm' target='_blank' title='“春暖花开，羽你共赏”——苏州大学计算机科学与技术学院研究生羽毛球赛圆满落幕'>“春暖花开，羽你共赏”——苏州大学计算机科学与技术学院研究生羽...</a></span>
-									<span class="news_meta">2017-04-24</span>
+									<span class="news_title"><a href='/71/9c/c28222a487836/page.htm' target='_blank' title='逐梦青春，奔赴未来———我院组织2022年春季云聘会'>逐梦青春，奔赴未来———我院组织2022年春季云聘会</a></span>
+									<span class="news_meta">2022-03-31</span>
 								</li>
 								
 								<li class="news n6 clearfix">
-									<span class="news_title"><a href='/e9/5b/c28222a256347/page.htm' target='_blank' title='苏大计科学院毕业生祝福语收集活动成功举办'>苏大计科学院毕业生祝福语收集活动成功举办</a></span>
-									<span class="news_meta">2017-04-19</span>
+									<span class="news_title"><a href='/75/08/c28222a488712/page.htm' target='_blank' title='靠近你，温暖我|“暖心携行，共向未来”——学院举行2019级心理主题班会'>靠近你，温暖我|“暖心携行，共向未来”——学院举行2019级心理主...</a></span>
+									<span class="news_meta">2022-03-31</span>
 								</li>
 								
 								<li class="news n7 clearfix">
-									<span class="news_title"><a href='/e9/5a/c28222a256346/page.htm' target='_blank' title='阳春三月，激情英语'>阳春三月，激情英语</a></span>
-									<span class="news_meta">2017-03-30</span>
+									<span class="news_title"><a href='/71/7f/c28222a487807/page.htm' target='_blank' title='我院成功举办中国大学生计算机设计大赛校选拔赛'>我院成功举办中国大学生计算机设计大赛校选拔赛</a></span>
+									<span class="news_meta">2022-03-30</span>
 								</li>
 								
 								<li class="news n8 clearfix">
-									<span class="news_title"><a href='/e9/58/c28222a256344/page.htm' target='_blank' title='2017年苏州大学计算机科学与技术学院研究生乒乓球赛顺利举办'>2017年苏州大学计算机科学与技术学院研究生乒乓球赛顺利举办</a></span>
-									<span class="news_meta">2017-03-10</span>
+									<span class="news_title"><a href='/70/35/c28222a487477/page.htm' target='_blank' title='计算机科学与技术学院联合帆软软件组织春招空中宣讲会'>计算机科学与技术学院联合帆软软件组织春招空中宣讲会</a></span>
+									<span class="news_meta">2022-03-25</span>
 								</li>
 								
 								<li class="news n9 clearfix">
-									<span class="news_title"><a href='/e9/56/c28222a256342/page.htm' target='_blank' title='“不忘初心，迎新启航”双旦晚会圆满举办'>“不忘初心，迎新启航”双旦晚会圆满举办</a></span>
-									<span class="news_meta">2016-12-25</span>
+									<span class="news_title"><a href='/6f/73/c28222a487283/page.htm' target='_blank' title='信仰的力量——学院分党校第67期党的基本知识培训班暨第46期预备党员培训班开班典礼和第一讲顺利举行'>信仰的力量——学院分党校第67期党的基本知识培训班暨第46期预备党...</a></span>
+									<span class="news_meta">2022-03-25</span>
 								</li>
 								
 								<li class="news n10 clearfix">
-									<span class="news_title"><a href='/e9/54/c28222a256340/page.htm' target='_blank' title='2016年趣味运动会我院学子勇夺桂冠'>2016年趣味运动会我院学子勇夺桂冠</a></span>
-									<span class="news_meta">2016-12-20</span>
+									<span class="news_title"><a href='/6f/21/c28222a487201/page.htm' target='_blank' title='计算机科学与技术学院党委理论学习中心组开展集中学习'>计算机科学与技术学院党委理论学习中心组开展集中学习</a></span>
+									<span class="news_meta">2022-03-23</span>
 								</li>
 								
 								<li class="news n11 clearfix">
-									<span class="news_title"><a href='/e9/51/c28222a256337/page.htm' target='_blank' title='我院“学风版狼人杀”活动成功举办'>我院“学风版狼人杀”活动成功举办</a></span>
-									<span class="news_meta">2016-12-01</span>
+									<span class="news_title"><a href='/68/6b/c28222a485483/page.htm' target='_blank' title='我院召开2022年宣传工作推进会'>我院召开2022年宣传工作推进会</a></span>
+									<span class="news_meta">2022-03-03</span>
 								</li>
 								
 								<li class="news n12 clearfix">
-									<span class="news_title"><a href='/e9/4f/c28222a256335/page.htm' target='_blank' title='计算机学院仁爱暖冬义工行动顺利举办'>计算机学院仁爱暖冬义工行动顺利举办</a></span>
-									<span class="news_meta">2016-11-29</span>
+									<span class="news_title"><a href='/64/91/c28222a484497/page.htm' target='_blank' title='我院2021级“图灵班”选拔组建工作顺利完成'>我院2021级“图灵班”选拔组建工作顺利完成</a></span>
+									<span class="news_meta">2022-02-19</span>
 								</li>
 								
 								<li class="news n13 clearfix">
-									<span class="news_title"><a href='/e9/4d/c28222a256333/page.htm' target='_blank' title='我院第十三次研究生代表大会成功举办'>我院第十三次研究生代表大会成功举办</a></span>
-									<span class="news_meta">2016-11-18</span>
+									<span class="news_title"><a href='/61/0a/c28222a483594/page.htm' target='_blank' title='“福虎生旺，温暖过年”——计算机科学与技术学院留校学生迎新春团拜会   '>“福虎生旺，温暖过年”——计算机科学与技术学院留校学生迎新春团...</a></span>
+									<span class="news_meta">2022-01-31</span>
 								</li>
 								
 								<li class="news n14 clearfix">
-									<span class="news_title"><a href='/e9/4b/c28222a256331/page.htm' target='_blank' title='学术诚信签名活动圆满完成'>学术诚信签名活动圆满完成</a></span>
-									<span class="news_meta">2016-11-17</span>
+									<span class="news_title"><a href='/50/3c/c28222a479292/page.htm' target='_blank' title='我院成功举办2021年江苏省大学生程序设计大赛'>我院成功举办2021年江苏省大学生程序设计大赛</a></span>
+									<span class="news_meta">2021-12-29</span>
 								</li>
 								
 							</ul>
@@ -532,13 +532,13 @@
          <span class="all_count">总共&nbsp;<em class="all_count">236</em>&nbsp;记录&nbsp;</span> 
      </li> 
      <li class="page_nav"> 
-         <a class="first" href="/xgxw/list1.htm" target="_self"><span>第一页</span></a> 
-         <a class="prev" href="/xgxw/list2.htm" target="_self"><span>&lt;&lt;上一页</span></a> 
-         <a class="next" href="/xgxw/list4.htm" target="_self"><span>下一页&gt;&gt;</span></a> 
+         <a class="first" href="javascript:void(0);" target="_self"><span>第一页</span></a> 
+         <a class="prev" href="javascript:void(0);" target="_self"><span>&lt;&lt;上一页</span></a> 
+         <a class="next" href="/xgxw/list2.htm" target="_self"><span>下一页&gt;&gt;</span></a> 
          <a class="last" href="/xgxw/list17.htm" target="_self"><span>尾页</span></a> 
      </li> 
      <li class="page_jump"> 
-         <span class="pages">页码&nbsp;<em class="curr_page">3</em>/<em class="all_pages">17</em></span> 
+         <span class="pages">页码&nbsp;<em class="curr_page">1</em>/<em class="all_pages">17</em></span> 
          <span><input class="pageNum" type="text" /><input type="hidden" class="currPageURL" value=""></span></span> 
          <span><a class="pagingJump" href="javascript:void(0);" target="_self">跳转到&nbsp;</a></span> 
      </li> 

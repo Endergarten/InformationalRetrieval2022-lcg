@@ -41,7 +41,7 @@ class MainWindow:
 
         # 打开主页面
         self.show_main_page()
-        self.window.mainloop()
+
 
         print("初始化完成")
 
@@ -179,11 +179,11 @@ class MainWindow:
             self.url_entry = Entry(self.frame1, width=70, font=("宋体", 15))
             self.url_entry.pack(side=LEFT, padx=40)
             # 输入框为焦点时，按下回车调用update方法
-            self.url_entry.bind("<Return>", self.update)
+            self.url_entry.bind("<Return>", lambda x: self.update(main_window))
             self.url_entry.insert(0, "http://scst.suda.edu.cn/")
             self.num_entry = Entry(self.frame1, text="100", width=5, font=("宋体", 15))
             self.num_entry.pack(side=LEFT, padx=10)
-            self.num_entry.bind("<Return>", self.update)
+            self.num_entry.bind("<Return>", lambda x: self.update(main_window))
             self.num_entry.insert(0, "1000")
             # 按下搜索按钮调用update方法
             self.update_button = Button(self.frame1, text="确定", font=("黑体", 15),
@@ -221,7 +221,6 @@ class MainWindow:
             self.text.config(state='normal')
             self.text.delete('1.0', 'end')
             url_num = web_spider(url, max_url_num, self.progressbar_var, self.text)
-            self.text.config(state='disabled')
             if not url_num:
                 messagebox.showwarning("错误", "打开网页失败，请重新输入")
                 return
@@ -230,7 +229,8 @@ class MainWindow:
             content_extraction(self.progressbar_var)
 
             self.state_var.set("正在建立倒排索引")
-            word_num = build_inverted_index(self.progressbar_var)
+            word_num = build_inverted_index(self.progressbar_var, self.text)
+            self.text.config(state='disabled')
 
             self.state_var.set("正在初始化网页排序程序")
             web_rank.Init(self.progressbar_var, url_num, word_num)
@@ -298,4 +298,5 @@ if __name__ == '__main__':
     # web_spider("http://scst.suda.edu.cn/", 1000)
     # content_extraction()
     # build_inverted_index()
-    MainWindow()
+    main_window = MainWindow()
+    main_window.window.mainloop()

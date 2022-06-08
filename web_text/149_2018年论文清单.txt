@@ -1,0 +1,405 @@
+导航 
+首 页 
+学院 概况 
+学院 简介 
+历史沿革 
+现任 领导 
+机构 设置 
+办学 资源 
+联系方式 
+学科建设 
+江苏省 优势 学科 
+博士点 
+硕士点 
+实验室 
+师资队伍 
+师资 概况 
+教职工 名单 
+导师 简介 
+兼职 师资 
+科学研究 
+研究 中心 
+自然语言 研究 中心 
+机器 学习 图像处理 研究 中心 
+数据 科学 工业 软件 研究 中心 
+网络 科学 工程 研究 中心 
+人工智能 研究院 
+嵌入式 技术 系统 能力 培养 研究 中心 
+科研机构 
+科研项目 
+科研 论文 
+知识产权 
+科研 政策 
+人才培养 
+博士生 
+硕士生 
+本科生 
+人才培养 方案 
+课程 教学大纲 
+图灵 班 
+国际交流 
+学生 工作 
+工作队 伍 
+学工 通知 
+学工 新闻 
+规章制度 
+志愿 服务 
+学生 组织 
+勤工助学 
+心理健康 
+职业规划 
+成长 陪伴 
+党群 工作 
+基层组织 
+规章制度 
+专题 活动 
+分党 校工 作 
+发展 公示 
+关工委 工作 
+工会工作 
+年 论文 清单 
+发布者 
+发布 时间 
+浏览 次数 
+三 检索 收录 论文 
+序号 第一 通讯 作者 题名 刊名 收录 情况 张 召 D i s c r i m i n a t i v e c l u s t e r i n g o n m a n i f o l d f o r 
+a d a p t i v e t r a n s d u c t i v e c l a s s i f i c a t i o n N E U R A L N E T W O R K S S C I 张 召 R o b u s t A l t e r n a t i n g L o w R a n k R e p r e s e n t a t i o n b y j o i n t 
+L p a n d L 
+L p n o r m m i n i m i z a t i o n N E U R A L N E T W O R K S S C I 张 召 S t r u c t u r e d L a t e n t L a b e l C o n s i s t e n t 
+D i c t i o n a r y L e a r n i n g f o r S a l i e n t M a c h i n e F a u l t s R e p r e s e n t a t i o n B a s e d R o b u s t 
+C l a s s i f i c a t i o n I E E E T R A N S A C T I O N S O N I N D U S T R I A L I N F O R M A T I C S S C I 李 直 旭 T h e I n t e r a c t i o n B e t w e e n S c h e m a M a t c h i n g a n d R e c o r d 
+M a t c h i n g i n D a t a I n t e g r a t i o n I E E E T R A N S A C T I O N S O N K N O W L E D G E A N D D A T A 
+E N G I N E E R I N G S C I 李 直 旭 W e b A D A R E 
+A w e b a i d e d d a t a r e p a i r i n g 
+s y s t e m N E U R O C O M P U T I N G S C I 梁 合 兰 D y n a m i c s e r v i c e s e l e c t i o n w i t h Q o S 
+c o n s t r a i n t s a n d i n t e r s e r v i c e c o r r e l a t i o n s u s i n g c o o p e r a t i v e c o e v o l u t i o n F U T U R E G E N E R A T I O N C O M P U T E R S Y S T E M S T H E 
+I N T E R N A T I O N A L J O U R N A L O F E S C I E N C E S C I 王 进 A J o i n t N e t w o r k C o d i n g a n d D e v i c e 
+A s s o c i a t i o n D e s i g n f o r O p t i m a l L o c a l D a t a E x c h a n g e i n F i b e r W i r e l e s s A c c e s s 
+N e t w o r k J O U R N A L O F L I G H T W A V E T E C H N O L O G Y S C I 吴 健 W e a k L a b e l e d A c t i v e L e a r n i n g W i t h 
+C o n d i t i o n a l L a b e l D e p e n d e n c e f o r M u l t i l a b e l I m a g e C l a s s i f i c a t i o n I E E E T R A N S A C T I O N S O N M U L T I M E D I A S C I 严 建 峰 T o w a r d s b i g t o p i c m o d e l i n g I N F O R M A T I O N S C I E N C E S S C I 张 莉 D e c i s i o n p y r a m i d c l a s s i f i e r f o r f a c e 
+r e c o g n i t i o n u n d e r c o m p l e x v a r i a t i o n s u s i n g s i n g l e s a m p l e p e r p e r s o n P A T T E R N R E C O G N I T I O N S C I 张 召 D i s c r i m i n a t i v e s p a r s e f l e x i b l e m a n i f o l d 
+e m b e d d i n g w i t h n o v e l g r a p h f o r r o b u s t v i s u a l r e p r e s e n t a t i o n a n d l a b e l 
+p r o p a g a t i o n P A T T E R N R E C O G N I T I O N S C I 张 召 P r o j e c t i v e l a b e l p r o p a g a t i o n b y l a b e l 
+e m b e d d i n g 
+A d e e p l a b e l p r e d i c t i o n f r a m e w o r k f o r r e p r e s e n t a t i o n a n d 
+c l a s s i f i c a t i o n K N O W L E D G E B A S E D S Y S T E M S S C I 张 召 R o b u s t i m a g e r e c o g n i t i o n b y L n o r m 
+t w i n p r o j e c t i o n s u p p o r t v e c t o r m a c h i n e N E U R O C O M P U T I N G S C I 张 召 R o b u s t N e i g h b o r h o o d P r e s e r v i n g P r o j e c t i o n 
+b y N u c l e a r L 
+N o r m R e g u l a r i z a t i o n f o r I m a g e F e a t u r e E x t r a c t i o n I E E E T R A N S A C T I O N S O N I M A G E P R O C E S S I N G S C I 程 宝 雷 C o n s t r u c t i n g c o m p l e t e l y i n d e p e n d e n t 
+s p a n n i n g t r e e s i n c r o s s e d c u b e s D I S C R E T E A P P L I E D M A T H E M A T I C S S C I 李正华 C o u p l e d P O S T a g g i n g o n H e t e r o g e n e o u s 
+A n n o t a t i o n s I E E E A C M T R A N S A C T I O N S O N A U D I O S P E E C H A N D 
+L A N G U A G E P R O C E S S I N G S C I 刘 冠 峰 A c o n t e x t a w a r e a p p r o a c h f o r t r u s t w o r t h y w o r k e r 
+s e l e c t i o n i n s o c i a l c r o w d W O R L D W I D E W E B I N T E R N E T A N D W E B I N F O R M A T I O N 
+S Y S T E M S S C I 刘 钊 F a u l t t o l e r a n t e m b e d d i n g o f c o m p l e t e b i n a r y 
+t r e e s i n l o c a l l y t w i s t e d c u b e s J O U R N A L O F P A R A L L E L A N D D I S T R I B U T E D 
+C O M P U T I N G S C I 吕 强 D e e p l e a r n i n g m e t h o d s f o r p r o t e i n t o r s i o n 
+a n g l e p r e d i c t i o n B M C B I O I N F O R M A T I C S S C I 吕 强 U s i n g t h e m u l t i o b j e c t i v e o p t i m i z a t i o n 
+r e p l i c a e x c h a n g e M o n t e C a r l o e n h a n c e d s a m p l i n g m e t h o d f o r p r o t e i n s m a l l 
+m o l e c u l e d o c k i n g B M C B I O I N F O R M A T I C S S C I 钱 龙华 C h e m i c a l i n d u c e d d i s e a s e r e l a t i o n 
+e x t r a c t i o n v i a c o n v o l u t i o n a l n e u r a l n e t w o r k D A T A B A S E T H E J O U R N A L O F B I O L O G I C A L D A T A B A S E S A N D 
+C U R A T I O N S C I 赵 朋 朋 L o c a t i o n a w a r e p u b l i s h s u b s c r i b e i n d e x w i t h 
+c o m p l e x b o o l e a n e x p r e s s i o n s W O R L D W I D E W E B I N T E R N E T A N D W E B I N F O R M A T I O N 
+S Y S T E M S S C I 赵 朋 朋 M o n o c h r o m a t i c a n d b i c h r o m a t i c r a n k e d r e v e r s e b o o l e a n 
+s p a t i a l k e y w o r d n e a r e s t n e i g h b o r s s e a r c h W O R L D W I D E W E B I N T E R N E T A N D W E B I N F O R M A T I O N 
+S Y S T E M S S C I 郑 凯 P o p u l a r i t y a w a r e s p a t i a l k e y w o r d s e a r c h o n 
+a c t i v i t y t r a j e c t o r i e s W O R L D W I D E W E B I N T E R N E T A N D W E B I N F O R M A T I O N 
+S Y S T E M S S C I 郑 凯 P r e f a c e t o t h e s p e c i a l i s s u e o n b i g d a t a 
+s e a r c h a n d m i n i n g W O R L D W I D E W E B I N T E R N E T A N D W E B I N F O R M A T I O N 
+S Y S T E M S S C I 陈 文 亮 I m p r o v i n g S h i f t R e d u c e P h r a s e S t r u c t u r e 
+P a r s i n g w i t h C o n s t i t u e n t B o u n d a r y I n f o r m a t i o n C O M P U T A T I O N A L I N T E L L I G E N C E S C I 樊建 席 C y c l e s E m b e d d i n g i n E x c h a n g e d C r o s s e d C u b e I N T E R N A T I O N A L J O U R N A L O F F O U N D A T I O N S O F 
+C O M P U T E R S C I E N C E S C I 樊建 席 H a m i l t o n i a n C y c l e a n d P a t h E m b e d d i n g s i n 
+k A r y n C u b e s B a s e d o n S t r u c t u r e F a u l t s C O M P U T E R J O U R N A L S C I 樊建 席 O p t i m a l P a t h E m b e d d i n g i n t h e E x c h a n g e d 
+C r o s s e d C u b e J O U R N A L O F C O M P U T E R S C I E N C E A N D T E C H N O L O G Y S C I 樊建 席 A F a u l t F r e e U n i c a s t A l g o r i t h m i n t h e 
+G e n e r a l i z e d H y p e r c u b e w i t h R e s t r i c t e d F a u l t y V e r t i c e s I N T E R N A T I O N A L J O U R N A L O F F O U N D A T I O N S O F 
+C O M P U T E R S C I E N C E S C I 孔 芳 A C D T S t y l e d E n d t o E n d C h i n e s e D i s c o u r s e 
+P a r s e r A C M T R A N S A C T I O N S O N A S I A N A N D L O W R E S O U R C E 
+L A N G U A G E I N F O R M A T I O N P R O C E S S I N G S C I 李 培 峰 T h r e e L a y e r J o i n t M o d e l i n g o f C h i n e s e 
+T r i g g e r E x t r a c t i o n w i t h C o n s t r a i n t s o n T r i g g e r a n d A r g u m e n t S e m a n t i c s J O U R N A L O F C O M P U T E R S C I E N C E A N D T E C H N O L O G Y S C I 李 直 旭 C r o w d G u i d e d E n t i t y M a t c h i n g w i t h 
+C o n s o l i d a t e d T e x t u a l D a t a J O U R N A L O F C O M P U T E R S C I E N C E A N D T E C H N O L O G Y S C I 刘安 P r i v a c y P r e s e r v i n g T a s k A s s i g n m e n t i n 
+S p a t i a l C r o w d s o u r c i n g J O U R N A L O F C O M P U T E R S C I E N C E A N D T E C H N O L O G Y S C I 刘 纯平 L a r g e m a r g i n r e l a t i v e d i s t a n c e l e a r n i n g f o r 
+p e r s o n r e i d e n t i f i c a t i o n I E T C O M P U T E R V I S I O N S C I 刘 冠 峰 C A T 
+C O N T E X T A W A R E T R U S T O R I E N T E D W O R K E R S E L E C T I O N I N 
+S O C I A L C R O W D C O M P U T I N G A N D I N F O R M A T I C S S C I 王 岩 E d g e i n d e p e n d e n t s p a n n i n g t r e e s i n 
+a u g m e n t e d c u b e s T H E O R E T I C A L C O M P U T E R S C I E N C E S C I 王 中 卿 P e r s o n a l s u m m a r i z a t i o n f r o m p r o f i l e 
+n e t w o r k s F R O N T I E R S O F C O M P U T E R S C I E N C E S C I 吴 健 A c t i v e l e a r n i n g w i t h l a b e l c o r r e l a t i o n 
+e x p l o r a t i o n f o r m u l t i l a b e l i m a g e c l a s s i f i c a t i o n I E T C O M P U T E R V I S I O N S C I 张 莉 S u p e r v i s e d s p a r s e n e i g h b o u r h o o d p r e s e r v i n g 
+e m b e d d i n g I E T I M A G E P R O C E S S I N G S C I 张 书 奎 A D a t a C o l l e c t i o n M e t h o d B a s e d o n t h e 
+R e g i o n D i v i s i o n i n O p p o r t u n i s t i c N e t w o r k s A P P L I E D C O M P U T A T I O N A L E L E C T R O M A G N E T I C S 
+S O C I E T Y J O U R N A L S C I 张 书 奎 P r i v a c y p r e s e r v i n g m e t h o d b a s e d o n V o r o n o i 
+d i a g r a m i n m o b i l e c r o w d c o m p u t i n g I N T E R N A T I O N A L J O U R N A L O F D I S T R I B U T E D S E N S O R 
+N E T W O R K S S C I 赵 朋 朋 R e f i n i n g A u t o m a t i c a l l y E x t r a c t e d K n o w l e d g e 
+B a s e s U s i n g C r o w d s o u r c i n g C O M P U T A T I O N A L I N T E L L I G E N C E A N D N E U R O S C I E N C E S C I 周 亚 T o w a r d s t r a f f i c m i n i m i z a t i o n f o r d a t a 
+p l a c e m e n t i n o n l i n e s o c i a l n e t w o r k s C O N C U R R E N C Y A N D C O M P U T A T I O N P R A C T I C E 
+E X P E R I E N C E S C I 朱 斐 A k e r n e l b a s e d t r u e o n l i n e S a r s a l a m b d a 
+f o r c o n t i n u o u s s p a c e c o n t r o l p r o b l e m s C O M P U T E R S C I E N C E A N D I N F O R M A T I O N S Y S T E M S S C I 郭 芸 B a n k l i n e e x t r a c t i o n i n r e m o t e s e n s i n g 
+i m a g e s u s i n g p r i n c i p a l c u r v e s T o n g x i n X u e b a o E I 刘安 A P r i v a c y P r e s e r v i n g F r a m e w o r k f o r 
+T r u s t O r i e n t e d P o i n t o f I n t e r e s t R e c o m m e n d a t i o n I E E E A c c e s s E I 刘 纯平 P e r s o n r e i d e n t i f i c a t i o n b y k e r n e l n u l l 
+s p a c e m a r g i n a l F i s h e r a n a l y s i s P a t t e r n R e c o g n i t i o n L e t t e r s E I 刘 纯平 A c t i o n r e c o g n i t i o n w i t h h i e r a r c h i c a l 
+c o n v o l u t i o n a l n e u r a l n e t w o r k s f e a t u r e s a n d b i d i r e c t i o n a l l o n g s h o r t t e r m 
+m e m o r y m o d e l K o n g Z h i L i L u n Y u Y i n g Y o n g E I 刘 全 A s p e c t B a s e d S e n t i m e n t A n a l y s i s B a s e d o n 
+M u l t i A t t e n t i o n C N N J i s u a n j i Y a n j i u y u F a z h a n E I 刘 全 A c t o r c r i t i c a l g o r i t h m w i t h i n c r e m e n t a l 
+d u a l n a t u r a l p o l i c y g r a d i e n t T o n g x i n X u e b a o E I 刘 全 A D e e p R e c u r r e n t Q N e t w o r k B a s e d o n V i s u a l 
+A t t e n t i o n M e c h a n i s m J i s u a n j i X u e b a o E I 刘 全 A n I m p r o v e d A c t o r C r i t i c A l g o r i t h m i n 
+C o n t i n u o u s S p a c e s w i t h A c t i o n W e i g h t i n g J i s u a n j i X u e b a o E I 刘 全 A B a y e s i a n t e m p o r a l d i f f e r e n c e a l g o r i t h m 
+b a s e d o n r a n d o m p r o j e c t i o n T i e n T z u H s u e h P a o E I 王 中 卿 P e r s o n a l G r o u p R e c o m m e n d a t i o n v i a T e x t u a l 
+a n d S o c i a l I n f o r m a t i o n R u a n J i a n X u e B a o E I 吴 健 A n A c t i v e L e a r n i n g A p p r o a c h f o r M u l t i L a b e l 
+I m a g e C l a s s i f i c a t i o n w i t h S a m p l e N o i s e I n t J P a t t e r n R e c o g n i t A r t i f I n t e l l E I 许 佳 捷 S e m a n t i c a w a r e t o p k s p a t i a l k e y w o r d 
+q u e r i e s W o r l d W i d e W e b 
+I n t e r n e t a n d W e b 
+I n f o r m a t i o n S y s t e m s E I 张 莉 F e a t u r e c l u s t e r i n g b a s e d s u p p o r t v e c t o r m a c h i n e r e c u r s i v e 
+f e a t u r e e l i m i n a t i o n f o r g e n e s e l e c t i o n A p p l I n t e l l E I 张 莉 S p a r s e A u t o e n c o d e r w i t h S m o o t h e d 
+l i n f i n f R e g u l a r i z a t i o n N e u r a l P r o c e s s L e t t e r s E I 张 书 奎 R o u t i n g m e c h a n i s m b a s e d o n t h e c o o p e r a t i o n 
+o f t h e f e r r y n o d e s a n d c l u s t e r n o d e s i n o p p o r t u n i s t i c n e t w o r k s T i e n T z u H s u e h P a o E I 张 召 S e m i s u p e r v i s e d l o c a l m u l t i m a n i f o l d I s o m a p 
+b y l i n e a r e m b e d d i n g f o r f e a t u r e e x t r a c t i o n P a t t e r n R e c o g n 
+E I 赵 雷 F T S 
+a f e a t u r e p r e s e r v i n g t r a j e c t o r y 
+s y n t h e s i s m o d e l G e o I n f o r m a t i c a E I 赵 朋 朋 E f f i c i e n t s a m p l i n g m e t h o d s f o r 
+c h a r a c t e r i z i n g P O I s o n m a p s b a s e d o n r o a d n e t w o r k s F r o n t 
+C o m p u t 
+S c i 
+E I 周 国 栋 C o r p u s C o n s t r u c t i o n f o r C h i n e s e D i s c o u r s e 
+T o p i c v i a M i c r o T o p i c S c h e m e J i s u a n j i Y a n j i u y u F a z h a n E I 周 亚 I m p r o v i n g t h e s c a l a b i l i t y o f o n l i n e s o c i a l n e t w o r k s 
+w i t h h y p e r g r a p h b a s e d d a t a p l a c e m e n t J 
+I n t e r n e t T e c h n o l 
+E I 周 亚 O p t i m i z i n g c o s t f o r g e o d i s t r i b u t e d s t o r a g e 
+s y s t e m s i n o n l i n e s o c i a l n e t w o r k s J 
+C o m p u t 
+S c i 
+E I 朱 斐 A P o l i c y S e a r c h a n d T r a n s f e r A p p r o a c h i n 
+t h e N o n s t a t i o n a r y E n v i r o n m e n t T i e n T z u H s u e h P a o E I 朱 巧 明 R e v i e w o f R e s e a r c h i n A u t o m a t i c K e y w o r d 
+E x t r a c t i o n R u a n J i a n X u e B a o E I 朱 巧 明 D i s c o u r s e P r i m a r y S e c o n d a r y R e l a t i o n s h i p s 
+i n N a t u r a l L a n g u a g e P r o c e s s i n g J i s u a n j i X u e b a o E I 程 宝 雷 T o w a r d t h e C o m p l e t e l y I n d e p e n d e n t S p a n n i n g T r e e s 
+P r o b l e m o n B C u b e I E E E T H I N T E R N A T I O N A L C O N F E R E N C E O N 
+C O M M U N I C A T I O N S O F T W A R E A N D N E T W O R K S I C C S N C P C I S 程 宝 雷 A G e n e r a t i o n M e t h o d o f A u t o m a t i o n T e s t 
+C a s e s B a s e d o n A n d r o i d P R O C E E D I N G S O F T H E T H I N T E R N A T I O N A L 
+C O N F E R E N C E O N M A C H I N E R Y 
+M A T E R I A L S A N D C O M P U T I N G T E C H N O L O G Y I C M M C T C P C I S 樊建 席 A n A l g o r i t h m t o E m b e d H a m i l t o n i a n P a t h i n t o 
+E C Q N e t w o r k I E E E T H I N T E R N A T I O N A L C O N F E R E N C E O N 
+C O M M U N I C A T I O N S O F T W A R E A N D N E T W O R K S I C C S N C P C I S 樊 明 迪 F C S M P D T C T o r q u e R i p p l e M i n i m i z a t i o n I t e r a t i v e 
+L e a r n i n g C o n t r o l P R O C E E D I N G S O F T H E T H I E E E 
+C O N F E R E N C E O N I N D U S T R I A L E L E C T R O N I C S A N D A P P L I C A T I O N S I C I E A C P C I S 耿 艳 艳 A N o v e l I m a g e T a g C o m p l e t i o n M e t h o d B a s e d 
+o n C o n v o l u t i o n a l N e u r a l T r a n s f o r m a t i o n A R T I F I C I A L N E U R A L N E T W O R K S A N D M A C H I N E 
+L E A R N I N G 
+P T I I C P C I S 黄河 A T r u t h f u l D o u b l e A u c t i o n M e c h a n i s m f o r 
+C r o w d s e n s i n g S y s t e m s w i t h M a x M i n F a i r n e s s I E E E W I R E L E S S C O M M U N I C A T I O N S A N D 
+N E T W O R K I N G C O N F E R E N C E W C N C C P C I S 黄河 P e r s i s t e n t T r a f f i c M e a s u r e m e n t T h r o u g h V e h i c l e t o I n f r a s t r u c t u r e 
+C o m m u n i c a t i o n s I E E E T H I N T E R N A T I O N A L C O N F E R E N C E O N 
+D I S T R I B U T E D C O M P U T I N G S Y S T E M S I C D C S C P C I S 黄河 P r o f i t M a x i m i z a t i o n R e s o u r c e A l l o c a t i o n i n 
+C l o u d C o m p u t i n g w i t h P e r f o r m a n c e G u a r a n t e e I E E E T H I N T E R N A T I O N A L P E R F O R M A N C E 
+C O M P U T I N G A N D C O M M U N I C A T I O N S C O N F E R E N C E I P C C C C P C I S 黄河 A n E f f i c i e n t A l l o c a t i o n M e c h a n i s m f o r 
+C r o w d s o u r c i n g T a s k s w i t h M i n i m u m E x e c u t i o n T i m e I N T E L L I G E N T C O M P U T I N G M E T H O D O L O G I E S 
+I C I C 
+P T I I I C P C I S 季 怡 C o s a l i e n c y D e t e c t i o n B a s e d o n S u p e r p i x e l 
+C l u s t e r i n g K N O W L E D G E S C I E N C E 
+E N G I N E E R I N G A N D 
+M A N A G E M E N T K S E M 
+T H I N T E R N A T I O N A L C O N F E R E N C E 
+K S E M 
+M E L B O U R N E 
+V I C 
+A U S T C P C I S 李 培 峰 N o n E n t i t y E v e n t A r g u m e n t E x t r a c t i o n o n S t r u c t u r a l 
+R e p r e s e n t a t i o n I N T E R N A T I O N A L C O N F E R E N C E O N A S I A N 
+L A N G U A G E P R O C E S S I N G I A L P C P C I S 林 政 宽 P a r a l l e l a n d L o c a l D i a g n o s t i c A l g o r i t h m f o r 
+W i r e l e s s S e n s o r N e t w o r k s T H A S I A P A C I F I C N E T W O R K O P E R A T I O N S 
+A N D M A N A G E M E N T S Y M P O S I U M A P N O M S 
+M A N A G I N G A W O R L D O F T H I N G S C P C I S 刘安 W h e n D i f f e r e n t i a l P r i v a c y M e e t s R a n d o m i z e d 
+P e r t u r b a t i o n 
+A H y b r i d A p p r o a c h f o r P r i v a c y P r e s e r v i n g R e c o m m e n d e r S y s t e m D A T A B A S E S Y S T E M S F O R A D V A N C E D A P P L I C A T I O N S 
+D A S F A A 
+P T I C P C I S 刘 纯平 V i d e o D e s c r i p t i o n u s i n g L e a r n i n g M u l t i p l e 
+F e a t u r e s P R O C E E D I N G S O F T H E I N T E R N A T I O N A L 
+C O N F E R E N C E O N I N F O R M A T I O N T E C H N O L O G Y A N D I N T E L L I G E N T M A N U F A C T U R I N G I T I M 
+C P C I S 刘 纯平 S i m i l a r b a c k g r o u n d i m a g e c o s e g m e n t a t i o n 
+w i t h c o s a l i e n c y I N T E R N A T I O N A L S M A R T C I T I E S C O N F E R E N C E 
+I S C C P C I S 刘 冠 峰 M u l t i C o n s t r a i n e d T o p K G r a p h P a t t e r n 
+M a t c h i n g i n C o n t e x t u a l S o c i a l G r a p h s I E E E T H I N T E R N A T I O N A L C O N F E R E N C E O N 
+W E B S E R V I C E S I C W S C P C I S 吴 健 M U L T I L A B E L A C T I V E L E A R N I N G W I T H L O W R A N K 
+M A P P I N G F O R I M A G E C L A S S I F I C A T I O N I E E E I N T E R N A T I O N A L C O N F E R E N C E O N M U L T I M E D I A 
+A N D E X P O I C M E C P C I S 许 佳 捷 M u l t i o b j e c t i v e S p a t i a l K e y w o r d Q u e r y w i t h 
+S e m a n t i c s D A T A B A S E S Y S T E M S F O R A D V A N C E D A P P L I C A T I O N S 
+D A S F A A 
+P T I I C P C I S 许 佳 捷 O u t l i e r T r a j e c t o r y D e t e c t i o n 
+A T r a j e c t o r y 
+A n a l y t i c s B a s e d A p p r o a c h D A T A B A S E S Y S T E M S F O R A D V A N C E D A P P L I C A T I O N S 
+D A S F A A 
+P T I C P C I S 张 召 R o b u s t P r o j e c t i v e D i c t i o n a r y L e a r n i n g b y J o i n t L a b e l 
+E m b e d d i n g a n d C l a s s i f i c a t i o n T H I E E E I N T E R N A T I O N A L C O N F E R E N C E O N 
+D A T A M I N I N G W O R K S H O P S I C D M W C P C I S 章 晓 芳 A n E m p i r i c a l S t u d y o f t h e I m p a c t o f B a d 
+D e s i g n s o n D e f e c t P r o n e n e s s A N N U A L C O N F E R E N C E O N S O F T W A R E 
+A N A L Y S I S 
+T E S T I N G A N D E V O L U T I O N S A T E C P C I S 赵 朋 朋 E x p l o i t i n g H i e r a r c h i c a l S t r u c t u r e s f o r P O I 
+R e c o m m e n d a t i o n T H I E E E I N T E R N A T I O N A L C O N F E R E N C E O N 
+D A T A M I N I N G I C D M C P C I S 郑 凯 E t h e r Q L 
+A Q u e r y L a y e r f o r B l o c k c h a i n S y s t e m D A T A B A S E S Y S T E M S F O R A D V A N C E D A P P L I C A T I O N S 
+D A S F A A 
+P T I I C P C I S 钟 宝 江 S A L I E N C Y D E T E C T I O N A C R O S S S P A T I A L A N D 
+F R E Q U E N C Y D O M A I N S I N T E R N A T I O N A L S Y M P O S I U M O N I N T E L L I G E N T 
+S I G N A L P R O C E S S I N G A N D C O M M U N I C A T I O N S Y S T E M S I S P A C S C P C I S 钟 宝 江 R E G I O N B A S E D F U L L Y C O N V O L U T I O N A L N E T W O R K S 
+F O R V E R T I C A L C O R N E R L I N E D E T E C T I O N I N T E R N A T I O N A L S Y M P O S I U M O N I N T E L L I G E N T 
+S I G N A L P R O C E S S I N G A N D C O M M U N I C A T I O N S Y S T E M S I S P A C S C P C I S 周 亚 C o s t e f f i c i e n t I n f l u e n c e M a x i m i z a t i o n i n 
+O n l i n e S o c i a l N e t w o r k s F I F T H I N T E R N A T I O N A L C O N F E R E N C E O N 
+A D V A N C E D C L O U D A N D B I G D A T A C B D C P C I S 周 亚 J P R 
+E x p l o r i n g J o i n t P a r t i t i o n i n g a n d 
+R e p l i c a t i o n f o r T r a f f i c M i n i m i z a t i o n i n O n l i n e S o c i a l N e t w o r k s I E E E T H I N T E R N A T I O N A L C O N F E R E N C E O N 
+D I S T R I B U T E D C O M P U T I N G S Y S T E M S I C D C S C P C I S 朱 晓 旭 D e s i g n a n d I m p l e m e n t a t i o n o f I n p u t M e t h o d 
+b a s e d o n T S F P R O C E E D I N G S F I R S T I N T E R N A T I O N A L C O N F E R E N C E 
+O N E L E C T R O N I C S I N S T R U M E N T A T I O N I N F O R M A T I O N S Y S T E M S E I I S C P C I S 朱 艳 琴 P r i v a c y P r e s e r v i n g O n l i n e O f f l i n e a n d 
+O u t s o u r c e d M u l t i A u t h o r i t y A t t r i b u t e B a s e d E n c r y p t i o n T H I E E E A C I S I N T E R N A T I O N A L 
+C O N F E R E N C E O N C O M P U T E R A N D I N F O R M A T I O N S C I E N C E I C I S C P C I S 朱 艳 琴 A C e n t r a l i z e d H I D S F r a m e w o r k F o r P r i v a t e 
+C l o u d T H I E E E A C I S I N T E R N A T I O N A L 
+C O N F E R E N C E O N S O F T W A R E E N G I N E E R I N G 
+A R T I F I C I A L I N T E L L I G E N C E 
+N E T W O R K I N G A N D 
+P A R A L L E L D I C P C I S 朱 艳 琴 R o u t i n g A l g o r i t h m B a s e d o n A n t C o l o n y 
+O p t i m i z a t i o n f o r M o b i l e S o c i a l N e t w o r k T H I E E E A C I S I N T E R N A T I O N A L 
+C O N F E R E N C E O N S O F T W A R E E N G I N E E R I N G 
+A R T I F I C I A L I N T E L L I G E N C E 
+N E T W O R K I N G A N D 
+P A R A L L E L D I C P C I S 
+C C F 期刊 会议 论文 序号 第一 通讯 作者 题名 刊名 收录 类型 房 俊 华 D i s t r i b u t e d S t r e a m R e b a l a n c e f o r S t a t e f u l 
+O p e r a t o r U n d e r W o r k l o a d V a r i a n c e I E E E T r a n s a c t i o n s o n P a r a l l e l a n d 
+D i s t r i b u t e d S y s t e m s C C F A J 季 怡 T w o s t a g e S k e t c h C o l o r i z a t i o n A C M T r a n s a c t i o n s o n G r a p h i c s T O G C C F A J 李 直 旭 D i a g n o s i n g a n d M i n i m i z i n g S e m a n t i c D r i f t i n 
+I t e r a t i v e B o o t s t r a p p i n g E x t r a c t i o n I E E E T r a n s a c t i o n s o n K n o w l e d g e a n d D a t a 
+E n g i n e e r i n g C C F A J 陈 文 亮 A d v e r s a r i a l L e a r n i n g f o r C h i n e s e N E R f r o m 
+C r o w d A n n o t a t i o n s A A A I C C F A C 陈 文 亮 S E E S y n t a x a w a r e E n t i t y E m b e d d i n g f o r 
+N e u r a l R e l a t i o n E x t r a c t i o n A A A I C C F A C 洪 宇 S e l f r e g u l a t i o n 
+E m p l o y i n g a G e n e r a t i v e 
+A d v e r s a r i a l N e t w o r k t o I m p r o v e E v e n t D e t e c t i o n A C L C C F A C 黄河 Y o u C a n D r o p b u t Y o u C a n 
+t H i d e 
+K p e r s i s t e n t S p r e a d E s t i m a t i o n i n H i g h s p e e d N e t w o r k s I N F O C O M C C F A C 李 培 峰 E v e n t F a c t u a l i t y I d e n t i f i c a t i o n v i a 
+G e n e r a t i v e A d v e r s a r i a l N e t w o r k s w i t h A u x i l i a r y C l a s s i f i c a t i o n I J C A I C C F A C 李 寿山 A s p e c t S e n t i m e n t C l a s s i f i c a t i o n w i t h b o t h 
+W o r d l e v e l a n d C l a u s e l e v e l A t t e n t i o n N e t w o r k s I J C A I C C F A C 李正华 S u p e r v i s e d T r e e b a n k C o n v e r s i o n D a t a a n d 
+A p p r o a c h e s A C L C C F A C 熊 德 意 A t t e n t i o n F o c u s i n g f o r N e u r a l M a c h i n e 
+T r a n s l a t i o n b y B r i d g i n g S o u r c e a n d T a r g e t E m b e d d i n g s A C L C C F A C 许 佳 捷 L C R N N 
+A D e e p L e a r n i n g M o d e l f o r T r a f f i c 
+S p e e d P r e d i c t i o n I J C A I C C F A C 张 民 I m p r o v e d E n g l i s h t o R u s s i a n T r a n s l a t i o n b y 
+N e u r a l S u f i x P r e d i c t i o n A A A I C C F A C 赵 雷 E f f e c t i v e a n d E f f i c i e n t U s e r A c c o u n t 
+L i n k a g e A c r o s s L o c a t i o n B a s e d S o c i a l N e t w o r k s I C D E C C F A C 郑 凯 R E S T A R e f e r e n c e b a s e d F r a m e w o r k f o r 
+S p a t i o t e m p o r a l T r a j e c t o r y C o m p r e s s i o n K D D C C F A C 樊建 席 S t r u c t u r e c o n n e c t i v i t y a n d s u b s t r u c t u r e 
+c o n n e c t i v i t y o f k a r y n c u b e n e t w o r k s I n f o r m a t i o n S c i e n c e s C C F B J 樊建 席 B C D C 
+A H i g h P e r f o r m a n c e 
+S e r v e r C e n t r i c 
+D a t a C e n t e r N e t w o r k J O U R N A L O F C O M P U T E R S C I E N C E A N D T E C H N O L O G Y C C F B J 樊建 席 H a m i l t o n i a n c y c l e a n d p a t h e m b e d d i n g s i n 
+a r y n c u b e s b a s e d o n K 
+s t r u c t u r e f a u l t s J o u r n a l o f P a r a l l e l D i s t r i b u t e d C o m p u t i n g C C F B J 樊建 席 D i a g n o s a b i l i t y E v a l u a t i o n o f t h e D a t a T H E C O M P U T E R J O U R N A L C C F B J 刘 纯平 L e a r n i n g M u l t i p l e K e r n e l M e t r i c s f o r 
+I t e r a t i v e P e r s o n R e I d e n t i f i c a t i o n A C M T r a n s a c t i o n s o n M u l t i m e d i a C o m p u t i n g 
+C o m m u n i c a t i o n s a n d A p p l i c a t i o n s C C F B J 吕 强 U n i f i e d D e e p L e a r n i n g A r c h i t e c t u r e f o r 
+M o d e l i n g B i o l o g y S e q u e n c e I E E E A C M T R A N S A C T I O N S O N C O M P U T A T I O N A L 
+B I O L O G Y A N D B I O I N F O R M A T I C S C C F B J 王 进 O p t i m a l T r a n s m i s s i o n T o p o l o g y C o n s t r u c t i o n 
+a n d S e c u r e L i n e a r N e t w o r k C o d i n g D e s i g n f o r V i r t u a l s o u r c e M u l t i c a s t w i t h 
+I n t e g r a l L i n k R a t e s I E E E T r a n s a c t i o n s o n M u l t i m e d i a C C F B J 许 佳 捷 S e m a n t i c a w a r e t o p k s p a t i a l k e y w o r d 
+q u e r i e s W o r l d W i d e W e b 
+I n t e r n e t a n d W e b 
+I n f o r m a t i o n S y s t e m s C C F B J 张 莉 F e a t u r e w e i g h t e s t i m a t i o n b a s e d o n d y n a m i c 
+r e p r e s e n t a t i o n a n d n e i g h b o r s p a r s e r e c o n s t r u c t i o n P a t t e r n R e c o g n i t i o n C C F B J 张 民 I n c o r p o r a t i n g S t a t i s t i c a l M a c h i n e 
+T r a n s l a t i o n W o r d K n o w l e d g e i n t o N e u r a l M a c h i n e T r a n s l a t i o n I E E E A C M T r a n s a c t i o n s o n A u d i o 
+S p e e c h a n d 
+L a n g u a g e P r o c e s s i n g C C F B J 张 召 R o b u s t A d a p t i v e E m b e d d e d L a b e l P r o p a g a t i o n 
+w i t h W e i g h t L e a r n i n g f o r I n d u c t i v e C l a s s i f i c a t i o n I E E E T r a n s a c t i o n s o n N e u r a l N e t w o r k s a n d 
+L e a r n i n g S y s t e m s C C F B J 张 召 J o i n t l y L e a r n i n g S t r u c t u r e d A n a l y s i s 
+D i s c r i m i n a t i v e D i c t i o n a r y a n d A n a l y s i s M u l t i c l a s s C l a s s i f i e r I E E E T r a n s a c t i o n s o n N e u r a l N e t w o r k s a n d 
+L e a r n i n g S y s t e m s C C F B J 张 召 A d a p t i v e N o n N e g a t i v e P r o j e c t i v e 
+S e m i S u p e r v i s e d L e a r n i n g f o r I n d u c t i v e C l a s s i f i c a t i o n N e u r a l N e t w o r k s C C F B J 张 召 S e m i S u p e r v i s e d L o c a l M u l t i M a n i f o l d I s o m a p 
+b y L i n e a r E m b e d d i n g f o r F e a t u r e E x t r a c t i o n P a t t e r n R e c o g n i t i o n C C F B J 赵 雷 D i s c o v e r i n g F u n c t i o n a l O r g a n i z e d P o i n t o f 
+I n t e r e s t G r o u p s f o r S p a t i a l K e y w o r d R e c o m m e n d a t i o n J o u r n a l o f c o m p u t e r s c i e n c e a n d t e c h n o l o g y C C F B J 赵 朋 朋 A G e n e r a t i v e M o d e l A p p r o a c h f o r G e o S o c i a l 
+G r o u p R e c o m m e n d a t i o n J o u r n a l o f c o m p u t e r s c i e n c e a n d t e c h n o l o g y C C F B J 陈 文 亮 D i s t a n t l y S u p e r v i s e d N e w T y p e N a m e d E n t i t y 
+R e c o g n i t i o n C O L I N G C C F B C 洪 宇 U s i n g A c t i v e L e a r n i n g t o E x p a n d T r a i n i n g 
+D a t a f o r I m p l i c i t D i s c o u r s e R e l a t i o n R e c o g n i t i o n E M N L P C C F B C 洪 宇 I n c o r p o r a t i n g I m a g e M a t c h i n g I n t o K n o w l e d g e 
+A c q u i s i t i o n f o r E v e n t O r i e n t e d R e l a t i o n R e c o g n i t i o n C O L I N G C C F B C 李 培 峰 M C D T B A M a c r o L e v e l C h i n e s e D i s c o u r s e 
+T r e e B a n k C O L I N G C C F B C 李 培 峰 E m p l o y i n g T e x t M a t c h i n g N e t w o r k t o 
+R e c o g n i s e N u c l e a r i t y i n C h i n e s e D i s c o u r s e C O L I N G C C F B C 李 寿山 S e n t i m e n t C l a s s i f i c a t i o n t o w a r d s 
+Q u e s t i o n A n s w e r i n g w i t h H i e r a r c h i c a l M a t c h i n g N e t w o r k E M N L P C C F B C 李 寿山 O n e v s 
+M a n y Q A M a t c h i n g w i t h b o t h 
+W o r d l e v e l a n d S e n t e n c e l e v e l A t t e n t i o n N e t w o r k C O L I N G C C F B C 李 寿山 C r o s s m e d i a U s e r P r o f i l i n g w i t h J o i n t 
+T e x t u a l a n d S o c i a l U s e r E m b e d d i n g C O L I N G C C F B C 王 中 卿 S t a n c e D e t e c t i o n w i t h H i e r a r c h i c a l 
+A t t e n t i o n N e t w o r k C O L I N G C C F B C 熊 德 意 E n c o d i n g G a t e d T r a n s l a t i o n M e m o r y i n t o 
+N e u r a l M a c h i n e T r a n s l a t i o n E M N L P C C F B C 熊 德 意 F u s i n g R e c e n c y i n t o N e u r a l M a c h i n e 
+T r a n s l a t i o n w i t h a n I n t e r S e n t e n c e G a t e M o d e l C O L I N G C C F B C 熊 德 意 M o d e l i n g C o h e r e n c e f o r N e u r a l M a c h i n e 
+T r a n s l a t i o n w i t h D y n a m i c a n d T o p i c C a c h e s C O L I N G C C F B C 熊 德 意 S e n t e n c e W e i g h t i n g f o r N e u r a l M a c h i n e 
+T r a n s l a t i o n D o m a i n A d a p t a t i o n C O L I N G C C F B C 许 佳 捷 O n P r e d i c t i o n o f U s e r D e s t i n a t i o n b y 
+S u b T r a j e c t o r y U n d e r s t a n d i n g 
+A D e e p L e a r n i n g b a s e d A p p r o a c h C I K M C C F B C 张 民 A d a p t i v e W e i g h t i n g f o r N e u r a l M a c h i n e 
+T r a n s l a t i o n C O L I N G C C F B C 章 晓 芳 G e n e r a t i n g D e s c r i p t i o n s f o r S c r e e n s h o t s t o 
+A s s i s t C r o w d s o u r c e d T e s t i n g S A N E R C C F B C 赵 雷 A P r i v a c y P r e s e r v i n g F r a m e w o r k f o r S u b g r a p h 
+P a t t e r n M a t c h i n g i n C l o u d D A S F A A C C F B C 赵 雷 P u b l i s h i n g G r a p h N o d e S t r e n g t h H i s t o g r a m 
+w i t h E d g e D i f f e r e n t i a l P r i v a c y D A S F A A C C F B C 郑 凯 A T i m e a w a r e P a t h b a s e d P u b l i s h S u b s c r i b e 
+F r a m e w o r k D A S F A A C C F B C 郑 凯 M o d e l i n g T r a v e l B e h a v i o r S i m i l a r i t y w i t h 
+T r a j e c t o r y E m b e d d i n g D A S F A A C C F B C 邹 博 伟 A d v e r s a r i a l F e a t u r e A d a p t a t i o n f o r 
+C r o s s l i n g u a l R e l a t i o n C l a s s i f i c a t i o n C O L I N G C C F B C 程 宝 雷 C o n s t r u c t i n g i n d e p e n d e n t s p a n n i n g t r e e s 
+w i t h h e i g h t n o n t h e n d i m e n s i o n a l c r o s s e d c u b e F u t u r e G e n e r a t i o n C o m p u t e r S y s t e m s C C F C J 李 寿山 D o m a i n s p e c i f i c N a m e d E n t i t y R e c o g n i t i o n 
+w i t h D o c u m e n t L e v e l O p t i m i z a t i o n A C M T r a n s a c t i o n s o n A s i a n a n d L o w R e s o u r c e L a n g u a g e 
+I n f o r m a t i o n P r o c e s s i n g T A L L I P C C F C J 刘 纯平 P e r s o n r e i d e n t i f i c a t i o n b y e n h a n c e d l o c a l 
+m a x i m a l o c c u r r e n c e r e p r e s e n t a t i o n a n d g e n e r a l i z e d s i m i l a r i t y m e t r i c l e a r n i n g N e r u o c o m p u t i n g C C F C J 刘 纯平 P e r s o n r e i d e n t i f i c a t i o n b y k e r n e l n u l l 
+s p a c e m a r g i n a l F i s h e r a n a l y s i s P a t t e r n R e c o g n i t i o n L e t t e r s C C F C J 吕 强 P r e d i c t i o n o f s t a t e p r o t e i n s e c o n d a r y 
+s t r u c t u r e s b y a n o v e l d e e p l e a r n i n g a r c h i t e c t u r e B M C B i o i n f o r m a t i c s C C F C J 王 中 卿 S t a n c e d e t e c t i o n v i a s e n t i m e n t i n f o r m a t i o n 
+a n d n e u r a l n e t w o r k m o d e l F r o n t i e r s o f C o m p u t e r S c i e n c e C C F C J 张 莉 A p p l y i n g n o r m S V M w i t h s q u a r e d l o s s t o 
+g e n e s e l e c t i o n f o r c a n c e r c l a s s i f i c a t i o n A p p l i e d I n t e l l i g e n c e C C F C J 张 莉 N o n l i n e a r f e a t u r e s e l e c t i o n u s i n g G a u s s i a n 
+k e r n e l S V M R F E f o r f a u l t d i a g n o s i s A p p l i e d I n t e l l i g e n c e C C F C J 张 莉 N e w f a s t f e a t u r e s e l e c t i o n m e t h o d s b a s e d o n 
+m u l t i p l e s u p p o r t v e c t o r d a t a d e s c r i p t i o n A p p l i e d I n t e l l i g e n c e C C F C J 张 莉 F e a t u r e c l u s t e r i n g b a s e d s u p p o r t v e c t o r 
+m a c h i n e r e c u r s i v e f e a t u r e e l i m i n a t i o n f o r g e n e s e l e c t i o n A p p l i e d I n t e l l i g e n c e C C F C J 张 莉 S p a r s e a u t o e n c o d e r w i t h s m o o t h e d l 
+r e g u l a r i z a t i o n N e u r a l P r o c e s s i n g L e t t e r C C F C J 程 宝 雷 T o w a r d s t h e I n d e p e n d e n t S p a n n i n g T r e e s i n 
+t h e L i n e G r a p h s o f I n t e r c o n n e c t i o n N e t w o r k s I C A P P C C F C C 樊建 席 E m b e d d i n g E x c h a n g e d H y p e r c u b e s i n t o R i n g s 
+a n d L a d d e r s I C A P P C C F C C 黄河 T C A M A T r u t h f u l C o m b i n a t o r i a l A u c t i o n 
+M e c h a n i s m f o r C r o w d s o u r c i n g S y s t e m s W C N C C C F C C 贾 俊 铖 G r o u p B a s e d S t r a t e g y t o A c c e l e r a t e 
+R e n d e z v o u s i n C o g n i t i v e R a d i o N e t w o r k s I C C C N C C F C C 李 长 M S S V T 
+M u l t i s c a l e f e a t u r e e x t r a c t i o n f o r 
+s i n g l e f a c e r e c o g n i t i o n I C P R C C F C C 李 培 峰 E v e n t F a c t u a l i t y I d e n t i f i c a t i o n v i a H y b r i d 
+N e u r a l N e t w o r k s I C O N I P C C F C C 李 直 旭 U n i f i e d U s e r a n d I t e m R e p r e s e n t a t i o n 
+L e a r n i n g f o r J o i n t R e c o m m e n d a t i o n i n S o c i a l N e t w o r k W I S E C C F C C 李 直 旭 M i n i n g H i g h Q u a l i t y F i n e G r a i n e d T y p e 
+I n f o r m a t i o n f r o m C h i n e s e O n l i n e E n c y c l o p e d i a s W I S E C C F C C 李 直 旭 B o o t s t r a p p e d M u l t i L e v e l D i s t a n t 
+S u p e r v i s i o n f o r R e l a t i o n E x t r a c t i o n W I S E C C F C C 刘安 T o w a r d s P r i v a c y P r e s e r v i n g 
+T r a v e l T i m e F i r s t T a s k A s s i g n m e n t i n S p a t i a l C r o w d s o u r c i n g A P W e b W A I M C C F C C 刘 纯平 S c e n e G r a p h G e n e r a t i o n B a s e d o n 
+N o d e R e l a t i o n C o n t e x t M o d u l e I C O N I P C C F C C 刘 纯平 T e x t t o R e g i o n V i s u a l W o r d G u i d e d S a l i e n c y 
+D e t e c t i o n P C M C C F C C 刘 纯平 M u l t i d e c o s e r B a s e d C o a t e n t i o n f o r I m a g e 
+C a p t i o n i n g P C M C C F C C 刘 纯平 T e x t G u i d e d D u a l B r a n c h A t t e n t i o n N e t w o r k 
+f o r V i s u a l Q u e s t i o n A n s w e r i n g P C M C C F C C 刘 全 P o l i c y S p a c e N o i s e i n D e e p D e t e r m i n i s t i c 
+P o l i c y G r a d i e n t I C O N I P C C F C C 刘 全 A c c u r a t e Q L e a r n i n g I C O N I P C C F C C 马 虎 A N e w L S T M N e t w o r k M o d e l C o m b i n i n g T e x t C N N I C O N I P C C F C C 王 邦 军 R o b u s t M u l t i v i e w F e a t u r e s F u s i o n M e t h o d 
+B a s e d o n C N M F I C O N I P C C F C C 王 进 T h e D e s i g n a n d I m p l e m e n t a t i o n o f R a n d o m 
+L i n e a r N e t w o r k C o d i n g b a s e d D i s t r i b u t e d S t o r a g e S y s t e m i n D y n a m i c N e t w o r k s I C A P P C C F C C 王 进 W e a k l y S e c u r e C o d e d D i s t r i b u t e d C o m p u t i n g T h e t h I E E E I n t e r n a t i o n a l C o n f e r e n c e o n 
+U b i q u i t o u s I n t e l l i g e n c e a n d C o m p u t i n g C C F C C 张 莉 U n s u p e r v i s e d e n s e m b l e l e a r n i n g b a s e d o n 
+g r a p h e m b e d d i n g f o r i m a g e c l u s t e r i n g I C O N I P C C F C C 张 莉 D e c i s i o n t r e e t w i n s u p p o r t v e c t o r m a c h i n e 
+b a s e d o n k e r n e l c l u s t e r i n g f o r m u l t i c l a s s c l a s s i f i c a t i o n I C O N I P C C F C C 张 莉 D e n s i t y i n d u c e d s u p p o r t v e c t o r d a t a 
+d e s c r i p t i o n f o r f a u l t d e t e c t i o n o n T e n n e s s e e E a s t m a n p r o c e s s I C O N I P C C F C C 张 莉 C a s c a d e d d e e p h a s h i n g f o r l a r g e s c a l e i m a g e 
+r e t r i e v a l I C O N I P C C F C C 张 莉 M u l t i s o u r c e c l u s t e r i n g b a s e d o n s p e c t r a l 
+r e c o v e r y P r o c e e d i n g s o f t h I n t e r n a t i o n a l 
+C o n f e r e n c e o n P a t t e r n R e c o g n i t i o n C C F C C 张 莉 N o n n e g a t i v e a n d a d a p t i v e m u l t i v i e w 
+c l u s t e r i n g P r o c e e d i n g s o f t h I n t e r n a t i o n a l 
+C o n f e r e n c e o n P a t t e r n R e c o g n i t i o n C C F C C 张 莉 A n o v e l m o d e l f o r m u l t i l a b e l i m a g e 
+a n n o t a t i o n I C P R C C F C C 张 莉 S p e c t r a l e m b e d d e d c l u s t e r i n g o n 
+m u l t i m a n i f o l d I C P R C C F C C 张 莉 G r a p h e m b e d d i n g b a s e d e n s e m b l e l e a r n i n g f o r 
+i m a g e c l u s t e r i n g I C P R C C F C C 张 莉 S e m i s u p e r v i s e d f e a t u r e s e l e c t i o n b a s e d o n 
+l o g i s t i c I R e l i e f f o r m u l t i c l a s s i f i c a t i o n P r o c e e d i n g s o f T h e t h P a c i f i c R i m 
+I n t e r n a t i o n a l C o n f e r e n c e o n A r t i f i c i a l I n t e l l i g e n c e C C F C C 张 莉 S u p e r v i s e d m a n i f o l d p r e s e r v i n g g r a p h 
+r e d u c t i o n f o r n o i s y d a t a c l a s s i f i c a t i o n P r o c e e d i n g s o f t h I n t e r n a t i o n a l 
+C o n f e r e n c e o n K n o w l e d g e S c i e n c e 
+E n g i n e e r i n g a n d M a n a g e m e n t C C F C C 张 召 R o b u s t D i s c r i m i n a t i v e P r o j e c t i v e D i c t i o n a r y 
+P a i r L e a r n i n g b y A d a p t i v e R e p r e s e n t a t i o n s I C P R C C F C C 张 召 R o b u s t A d a p t i v e L o w R a n k a n d S p a r s e 
+E m b e d d i n g f o r F e a t u r e R e p r e s e n t a t i o n I C P R C C F C C 张 召 R o b u s t P r o j e c t i v e L o w R a n k a n d S p a r s e 
+R e p r e s e n t a t i o n b y R o b u s t D i c t i o n a r y L e a r n i n g I C P R C C F C C 张 召 R o b u s t A d a p t i v e L a b e l P r o p a g a t i o n b y D o u b l e 
+M a t r i x D e c o m p o s i t i o n I C P R C C F C C 张 召 R o b u s t L o c a l i t y C o n s t r a i n e d L a b e l 
+C o n s i s t e n t K S V D b y J o i n t S p a r s e E m b e d d i n g I C P R C C F C C 张 召 R o b u s t N e i g h b o r h o o d P r e s e r v i n g L o w R a n k 
+S p a r s e C N N F e a t u r e s f o r C l a s s i f i c a t i o n P C M C C F C C 张 召 S i m i l a r i t y A d a p t i v e L a t e n t L o w R a n k R e p r e s e n t a t i o n 
+f o r R o b u s t D a t a R e p r e s e n t a t i o n P R I C A I C C F C C 章 晓 芳 A v e r a g e d A C f o r A s y n c h r o n o u s D e e p 
+R e i n f o r c e m e n t L e a r n i n g I C O N I P C C F C C 章 晓 芳 A n E m p i r i c a l S t u d y o f t h e I m p a c t o f C o d e 
+S m e l l o n F i l e C h a n g e s I E E E I n t e r n a t i o n a l C o n f e r e n c e o n S o f t w a r e 
+Q u a l i t y 
+R e l i a b i l i t y 
+a n d S e c u r i t y C C F C C 章 宗 长 A s y n c h r o n o u s V a l u e I t e r a t i o n N e t w o r k I C O N I P C C F C C 章 宗 长 A C G A I L 
+I m i t a t i o n L e a r n i n g a b o u t M u l t i p l e 
+I n t e n t i o n s w i t h A u x i l i a r y C l a s s i f i e r G A N s P R I C A I C C F C C 赵 雷 E x t r a c t i n g R e p r e s e n t a t i v e U s e r S u b s e t o f 
+S o c i a l N e t w o r k s t o w a r d s U s e r C h a r a c t e r i s t i c s a n d T o p o l o g i c a l F e a t u r e s W I S E C C F C C 赵 雷 E l i m i n a t i n g T e m p o r a l C o n f l i c t s i n U n c e r t a i n 
+T e m p o r a l K n o w l e d g e G r a p h s W I S E C C F C C 赵 朋 朋 E x p l o i t i n g I m p l i c i t S o c i a l R e l a t i o n s h i p f o r 
+P o i n t o f I n t e r e s t R e c o m m e n d a t i o n A P W E B C C F C C 朱 斐 D e e p D e t e r m i n i s t i c P o l i c y G r a d i e n t w i t h 
+C l u s t e r e d P r i o r i t i z e d S a m p l i n g I C O N I P C C F C C 凌 兴 宏 A c c u r a t e Q L e a r n i n g I C O N I P 
+N e u r a l I n f o r m a t i o n P r o c e s s i n g C C F C C 
+北图 核心 期刊论文 序号 第一 通讯 作者 题名 刊名 李 培 峰 一种 T r e e L S T M 句子 度 计算方法 北京大学 学报 自然科学 版 王 宜 怀 锂电池 老化 S O C 参数 修正 方法 
+电源 技术 电源 技术 王 宜 怀 K 机械 臂 控制系统 设计 电子技术 钟 宝 江 兴趣 目标 图像 检索 电子学 报 马 虎 采用 稀疏 变换 拉普拉斯 金字塔 数字水印 算法 计算机辅助 设计 图形学 学报 钱 龙华 维基百科 中文 嵌套 命名 实体 识别 语料库 自动 构建 计算机 工程 贾 俊 铖 安 卓 端 即时通 信 心跳 机制 研究 性能 优化 计算机 工程 程 宝 雷 面向 安 卓 手机 A p p 功能测试 技术 方法 计算机 工程 设计 王 宜 怀 窄带 物 联网 轻量级 加密 方案 计算机 工程 设计 李 长 李 群 覆盖 学习 优化 算法 计算机科学 段 湘 煜 注意力 卷积 神经 机器翻译 计算机科学 杨 璐 二 型模 糊 逻辑 多线程 数据 竞争 检测 方法 研究 计算机科学 李 培 峰 事件 因果 时序 关系 识别 联合 推理模型 计算机科学 李 领 治 伪 梯度 提升 决策树 内网 防御 算法 计算机科学 李 寿山 双通道 L S T M 模型 用户 性别 分类 方法 研究 计算机科学 刘 全 一种 用于 情感 分析 深度 分层 网络 模型 计算机 学报 刘 全 深度 强化 学习 综述 计算机 学报 陈 冬 火 凸 多面体 抽象 域 自适 应 强化 学习 技术 研究 计算机 学报 刘 纯平 深度 残差 双 单向 D L S T M 时空 视频 事件 识别 计算机 学报 朱 斐 一种 置信 上界 经验 采样 深度 Q 网络 方 计算机 研究 发展 王 宜 怀 射频 识别 无线 传感 网 融合 技术 仓储 定位 方法 研究 计算机 研究 王 宜 怀 加速度 传感器 途 危险品 姿态 检测 方法 计算机 研究 张 书 奎 朋友 关系 变迁 演化 社区 划分算法 计算机 研究 张 书 奎 融合 隐语 义 领域 算法 兴趣 点 推荐 模型 计算机 研究 杨 璐 中心词 上下文 主题 模型 计算机 研究 徐 汀 荣 无线 传感 网络 三维 表面 k 覆盖 连通 部署 方法 计算机 研究 章 晓 芳 众 包 软件测试 技术 研究进展 软件 学报 李 培 峰 双向 L S T M 网络 否定 作用 识别 软件 学报 朱 斐 一种 解决 连续 空间 真实 在线 自然 梯度 A C 算法 软件 学报 李 寿山 新闻 评论 文本 读者 情绪 分类 方法 山东大学 学报 洪 宇 一种 词 关联 图 专题 发现 方法 研究 山西大学 学报 自然科学 版 王 宜 怀 刷 直流电动 机 位置 传感器 起动 控制 研究 微 特电 机 王 宜 怀 矢量 控制 电动 自行车 控制器 设计 电子技术 吕 强 深度 学习 D N A 序列 特异性 预测 模型 小型 微型 计算机系统 李 长 鲁 棒 谱 流形 聚 类 算法 小型 微型 计算机系统 熊 德 意 约束 神经 机器翻译 中国 科学 信息科学 周 亚 支持 扩展 在线 社交 网络 数据 放置 方法 中国 科学 信息科学 钱 龙华 句法 语义 特征 疾病 名称 识别 中国 科学 
+信息科学 李 军 辉 子 字 单元 神经 机器翻译 未 登录 词 翻译 分析 中文信息 学报 李正华 领域 来源 文本 汉语 依存 句法 数据 标注 规范 中文信息 学报 钱 龙华 中文 嵌套 命名 实体 识别 语料库 构建 中文信息 学报 李 培 峰 主题 度 宏观 篇章 主次 关系 识别方法 中文信息 学报 孔 芳 面向 语料库 通用 事件 指代 消解 中文信息 学报 陈 文 亮 大规模 中文 实体 情感 知识 自动 获取 中文信息 学报 王 红 玲 一种 局部 全局 主题 关系 演化 式 摘要 系统 中文信息 学报 洪 宇 共 指 消解 实体 搜索 模型 研究 中文信息 学报 李 寿山 多通道 L S T M 不平 衡情 绪 分类 方法 中文信息 学报 钟 宝 江 预测 梯度 图像 插值 算法 自动化 学报 
+教学 辅助 平台 
+学院 经费 管理系统 校内 
+科研成果 申报 平台 校内 
+省级重点 实验室 
+计算机 教学网 校内 
+自然语言 实验室 
+C o p y r i g h t 苏州大学 计算机科学 技术 学院 A l l R i g h t s R e s e r v e d 苏州市 十 梓 街 号 
+苏 I C P 备 苏 公网 安 备 号 

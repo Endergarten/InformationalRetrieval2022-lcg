@@ -1,0 +1,114 @@
+导航 
+首 页 
+学院 概况 
+学院 简介 
+历史沿革 
+现任 领导 
+机构 设置 
+办学 资源 
+联系方式 
+学科建设 
+江苏省 优势 学科 
+博士点 
+硕士点 
+实验室 
+师资队伍 
+师资 概况 
+教职工 名单 
+导师 简介 
+兼职 师资 
+科学研究 
+研究 中心 
+自然语言 研究 中心 
+机器 学习 图像处理 研究 中心 
+数据 科学 工业 软件 研究 中心 
+网络 科学 工程 研究 中心 
+人工智能 研究院 
+嵌入式 技术 系统 能力 培养 研究 中心 
+科研机构 
+科研项目 
+科研 论文 
+知识产权 
+科研 政策 
+人才培养 
+博士生 
+硕士生 
+本科生 
+人才培养 方案 
+课程 教学大纲 
+图灵 班 
+国际交流 
+学生 工作 
+工作队 伍 
+学工 通知 
+学工 新闻 
+规章制度 
+志愿 服务 
+学生 组织 
+勤工助学 
+心理健康 
+职业规划 
+成长 陪伴 
+党群 工作 
+基层组织 
+规章制度 
+专题 活动 
+分党 校工 作 
+发展 公示 
+关工委 工作 
+工会工作 
+学术报告 
+发布者 
+发布 时间 
+浏览 次数 
+计算机科学 技术 学院 学术报告 报告 题目 
+A D u a l i t y V i e w o f B o o s t i n g A l g o r i t h m s a n d A p p l i c a t i o n s 演讲人 
+D r 
+C h u n h u a S h e n 
+U n i v e r s i t y o f A d e l a i d e 
+A u s t r a l i a 报告 地点 
+校本部 理工 楼 会议室 报告 时间 
+年 月 日 
+报告 摘要 
+C o n s i d e r a t i o n o f t h e p r i m a l a n d d u a l p r o b l e m s t o g e t h e r l e a d s t o i m p o r t a n t n e w i n s i g h t s i n t o t h e c h a r a c t e r i s t i c s o f b o o s t i n g a l g o r i t h m s 
+W e s h o w t h a t t h e L a g r a n g e d u a l p r o b l e m s o f A d a B o o s t 
+L o g i t B o o s t a n d s o f t m a r g i n L P B o o s t w i t h g e n e r a l i z e d h i n g e l o s s a r e a l l e n t r o p y m a x i m i z a t i o n p r o b l e m s 
+B y l o o k i n g a t t h e d u a l p r o b l e m s o f t h e s e b o o s t i n g a l g o r i t h m s 
+w e s h o w t h a t t h e s u c c e s s o f b o o s t i n g a l g o r i t h m s c a n b e u n d e r s t o o d i n t e r m s o f m a i n t a i n i n g a b e t t e r m a r g i n d i s t r i b u t i o n b y m a x i m i z i n g m a r g i n s a n d a t t h e s a m e t i m e c o n t r o l l i n g t h e m a r g i n v a r i a n c e 
+W e a l s o t h e o r e t i c a l l y p r o v e t h a t 
+a p p r o x i m a t e l y 
+A d a B o o s t m a x i m i z e s t h e a v e r a g e m a r g i n 
+i n s t e a d o f t h e m i n i m u m m a r g i n 
+T h e d u a l i t y f o r m u l a t i o n a l s o e n a b l e s u s t o d e v e l o p c o l u m n g e n e r a t i o n b a s e d o p t i m i z a t i o n a l g o r i t h m s 
+w h i c h a r e t o t a l l y c o r r e c t i v e 
+w e t h e n p r o p o s e a g e n e r a l f r a m e w o r k t h a t c a n b e u s e d t o d e s i g n n e w b o o s t i n g a l g o r i t h m s 
+W e s h o w t h a t t h e p r o p o s e d b o o s t i n g f r a m e w o r k 
+t e r m e d C G B o o s t 
+c a n a c c o m m o d a t e v a r i o u s l o s s f u n c t i o n s a n d d i f f e r e n t r e g u l a r i z e r s i n a t o t a l l y c o r r e c t i v e o p t i m i z a t i o n f a s h i o n 
+W e a l s o d e m o n s t r a t e t h a t m a n y b o o s t i n g a l g o r i t h m s l i k e A d a B o o s t c a n b e i n t e r p r e t e d i n o u r f r a m e w o r k e v e n i f t h e i r o p t i m i z a t i o n i s n o t t o t a l l y c o r r e c t i v e 
+B a s e d o n t h i s f r a m e w o r k 
+n e w b o o s t i n g a l g o r i t h m s a r e d e s i g n e d a n d t a i l o r e d t o r e a l t i m e v i s u a l o b j e c t d e t e c t i o n 
+S t a t e o f t h e a r t p e r f o r m a n c e i s a c h i e v e d i n p r o b l e m s l i k e f a c e d e t e c t i o n a n d h u m a n d e t e c t i o n 
+个人简历 
+C h u n h u a S h e n i s a S e n i o r L e c t u r e r i n t h e S c h o o l o f C o m p u t e r S c i e n c e 
+U n i v e r s i t y o f A d e l a i d e 
+A u s t r a l i a 
+H e i s a l s o h o l d i n g a j o i n t a p p o i n t m e n t a s a S e n i o r R e s e a r c h e r i n N I C T A f o r m e r l y N a t i o n a l I C T A u s t r a l i a C a n b e r r a R e s e a r c h L a b o r a t o r y f r o m J u l y o n 
+H i s r e s e a r c h a n d t e a c h i n g m a i n l y f o c u s o n s t a t i s t i c a l m a c h i n e l e a r n i n g a n d i t s a p p l i c a t i o n i n v a r i o u s d o m a i n s 
+R e c e n t w o r k h a s b e e n o n b o o s t i n g a l g o r i t h m s a n d t h e i r a p p l i c a t i o n i n r e a l t i m e o b j e c t d e t e c t i o n 
+s c a l a b l e c o n v e x o p t i m i z a t i o n s u c h a s s e m i d e f i n i t e p r o g r a m m i n g a n d a p p l i c a t i o n i n l e a r n i n g m e t r i c k e r n e l m a t r i c e s 
+H e s t u d i e d m a t h e m a t i c s a n d p h y s i c s B S c 
+s p e e c h s i g n a l p r o c e s s i n g M S c a t N a n j i n g U n i v e r s i t y 
+C h i n a 
+a n d r e c e i v e d h i s P h D o f c o m p u t e r s c i e n c e f r o m U n i v e r s i t y o f A d e l a i d e 
+M P h i l o f a p p l i e d s t a t i s t i c s f r o m A u s t r a l i a n N a t i o n a l U n i v e r s i t y 
+H e a l s o h o l d s a n a d j u n c t p o s i t i o n i n R e s e a r c h S c h o o l o f I n f o r m a t i o n S c i e n c e s a n d E n g i n e e r i n g 
+A u s t r a l i a n N a t i o n a l U n i v e r s i t y 
+教学 辅助 平台 
+学院 经费 管理系统 校内 
+科研成果 申报 平台 校内 
+省级重点 实验室 
+计算机 教学网 校内 
+自然语言 实验室 
+C o p y r i g h t 苏州大学 计算机科学 技术 学院 A l l R i g h t s R e s e r v e d 苏州市 十 梓 街 号 
+苏 I C P 备 苏 公网 安 备 号 

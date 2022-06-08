@@ -1,0 +1,154 @@
+导航 
+首 页 
+学院 概况 
+学院 简介 
+历史沿革 
+现任 领导 
+机构 设置 
+办学 资源 
+联系方式 
+学科建设 
+江苏省 优势 学科 
+博士点 
+硕士点 
+实验室 
+师资队伍 
+师资 概况 
+教职工 名单 
+导师 简介 
+兼职 师资 
+科学研究 
+研究 中心 
+自然语言 研究 中心 
+机器 学习 图像处理 研究 中心 
+数据 科学 工业 软件 研究 中心 
+网络 科学 工程 研究 中心 
+人工智能 研究院 
+嵌入式 技术 系统 能力 培养 研究 中心 
+科研机构 
+科研项目 
+科研 论文 
+知识产权 
+科研 政策 
+人才培养 
+博士生 
+硕士生 
+本科生 
+人才培养 方案 
+课程 教学大纲 
+图灵 班 
+国际交流 
+学生 工作 
+工作队 伍 
+学工 通知 
+学工 新闻 
+规章制度 
+志愿 服务 
+学生 组织 
+勤工助学 
+心理健康 
+职业规划 
+成长 陪伴 
+党群 工作 
+基层组织 
+规章制度 
+专题 活动 
+分党 校工 作 
+发展 公示 
+关工委 工作 
+工会工作 
+I C D M 
+发布者 
+发布 时间 
+浏览 次数 
+I C D M 
+I E E E I n t e r n a t i o n a l C o n f e r e n c e o n D a t a M i n i n g 
+C o n f e r e n c e S e r i e s 
+I n t e r n a t i o n a l C o n f e r e n c e o n D a t a M i n i n g 
+L i n k 
+h t t p 
+i c d m 
+o r g 
+W h e n N o v 
+N o v 
+W h e r e S i n g a p o r e S u b m i s s i o n D e a d l i n e J u n 
+N o t i f i c a t i o n D u e A u g 
+F i n a l V e r s i o n D u e S e p 
+C a t e g o r i e s 
+d a t a m i n i n g 
+m a c h i n e l e a r n i n g 
+C a l l F o r P a p e r s T h e I E E E I n t e r n a t i o n a l C o n f e r e n c e o n D a t a M i n i n g I C D M h a s e s t a b l i s h e d i t s e l f a s t h e w o r l d s p r e m i e r r e s e a r c h c o n f e r e n c e i n d a t a m i n i n g 
+I t p r o v i d e s a n i n t e r n a t i o n a l f o r u m f o r p r e s e n t a t i o n o f o r i g i n a l r e s e a r c h r e s u l t s 
+a s w e l l a s e x c h a n g e a n d d i s s e m i n a t i o n o f i n n o v a t i v e a n d p r a c t i c a l d e v e l o p m e n t e x p e r i e n c e s 
+T h e c o n f e r e n c e c o v e r s a l l a s p e c t s o f d a t a m i n i n g 
+i n c l u d i n g a l g o r i t h m s 
+s o f t w a r e 
+s y s t e m s 
+a n d a p p l i c a t i o n s 
+I C D M d r a w s r e s e a r c h e r s 
+a p p l i c a t i o n d e v e l o p e r s 
+a n d p r a c t i t i o n e r s f r o m a w i d e r a n g e o f d a t a m i n i n g r e l a t e d a r e a s s u c h a s s t a t i s t i c s 
+m a c h i n e l e a r n i n g 
+p a t t e r n r e c o g n i t i o n 
+d a t a b a s e s 
+d a t a w a r e h o u s i n g 
+d a t a v i s u a l i z a t i o n 
+k n o w l e d g e b a s e d s y s t e m s 
+a n d h i g h p e r f o r m a n c e c o m p u t i n g 
+B y p r o m o t i n g n o v e l 
+h i g h q u a l i t y r e s e a r c h f i n d i n g s 
+a n d i n n o v a t i v e s o l u t i o n s t o c h a l l e n g i n g d a t a m i n i n g p r o b l e m s 
+t h e c o n f e r e n c e s e e k s t o a d v a n c e t h e s t a t e o f t h e a r t i n d a t a m i n i n g 
+T o p i c s o f I n t e r e s t 
+T o p i c s o f i n t e r e s t i n c l u d e 
+b u t a r e n o t l i m i t e d t o 
+F o u n d a t i o n s 
+a l g o r i t h m s 
+m o d e l s a n d t h e o r y o f d a t a m i n i n g 
+i n c l u d i n g b i g d a t a m i n i n g 
+M a c h i n e l e a r n i n g a n d s t a t i s t i c a l m e t h o d s f o r d a t a m i n i n g 
+M i n i n g f r o m h e t e r o g e n e o u s d a t a s o u r c e s 
+i n c l u d i n g t e x t 
+s e m i s t r u c t u r e d 
+s p a t i o t e m p o r a l 
+s t r e a m i n g 
+g r a p h 
+w e b 
+a n d m u l t i m e d i a d a t a 
+D a t a m i n i n g s y s t e m s a n d p l a t f o r m s 
+a n d t h e i r e f f i c i e n c y 
+s c a l a b i l i t y 
+s e c u r i t y a n d p r i v a c y 
+D a t a m i n i n g f o r m o d e l i n g 
+v i s u a l i z a t i o n 
+p e r s o n a l i z a t i o n 
+a n d r e c o m m e n d a t i o n 
+D a t a m i n i n g f o r c y b e r p h y s i c a l s y s t e m s a n d c o m p l e x 
+t i m e e v o l v i n g n e t w o r k s 
+A p p l i c a t i o n s o f d a t a m i n i n g i n s o c i a l s c i e n c e s 
+p h y s i c a l s c i e n c e s 
+e n g i n e e r i n g 
+l i f e s c i e n c e s 
+w e b 
+m a r k e t i n g 
+f i n a n c e 
+p r e c i s i o n m e d i c i n e 
+h e a l t h i n f o r m a t i c s 
+a n d o t h e r d o m a i n s 
+W e p a r t i c u l a r l y e n c o u r a g e s u b m i s s i o n s i n e m e r g i n g t o p i c s o f h i g h i m p o r t a n c e s u c h a s d a t a q u a l i t y 
+t i m e e v o l v i n g n e t w o r k s 
+b i g d a t a m i n i n g a n d a n a l y t i c s 
+c y b e r p h y s i c a l s y s t e m s 
+a n d h e t e r o g e n e o u s d a t a i n t e g r a t i o n a n d m i n i n g 
+T o s e e t h e f u l l C F P 
+h t t p 
+i c d m 
+o r g c a l l s c a l l f o r p a p e r s 
+教学 辅助 平台 
+学院 经费 管理系统 校内 
+科研成果 申报 平台 校内 
+省级重点 实验室 
+计算机 教学网 校内 
+自然语言 实验室 
+C o p y r i g h t 苏州大学 计算机科学 技术 学院 A l l R i g h t s R e s e r v e d 苏州市 十 梓 街 号 
+苏 I C P 备 苏 公网 安 备 号 

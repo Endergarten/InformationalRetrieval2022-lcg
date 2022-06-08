@@ -444,28 +444,73 @@
 							<ul class="news_list list2">
 								
 								<li class="news n1 clearfix">
-									<span class="news_title"><a href='/ea/71/c28223a256625/page.htm' target='_blank' title='正确理解科学发展，认真做好人生规划——记08级入党积极分子关于科学发展观的讨论活动'>正确理解科学发展，认真做好人生规划——记08级入党积极分子关于科...</a></span>
-									<span class="news_meta">2010-11-26</span>
+									<span class="news_title"><a href='/ea/a1/c28223a256673/page.htm' target='_blank' title='计算机学院党校培训系列讲座'>计算机学院党校培训系列讲座</a></span>
+									<span class="news_meta">2018-05-30</span>
 								</li>
 								
 								<li class="news n2 clearfix">
-									<span class="news_title"><a href='/ea/70/c28223a256624/page.htm' target='_blank' title='大学生自我增值座谈会——计算机科学与技术学院第23期预备党员培训班活动材料'>大学生自我增值座谈会——计算机科学与技术学院第23期预备党员培训...</a></span>
-									<span class="news_meta">2010-11-25</span>
+									<span class="news_title"><a href='/ea/a0/c28223a256672/page.htm' target='_blank' title='党校培训系列讲座'>党校培训系列讲座</a></span>
+									<span class="news_meta">2018-05-01</span>
 								</li>
 								
 								<li class="news n3 clearfix">
-									<span class="news_title"><a href='/ea/6f/c28223a256623/page.htm' target='_blank' title='创先争优与研究生学习讨论会'>创先争优与研究生学习讨论会</a></span>
-									<span class="news_meta">2010-11-22</span>
+									<span class="news_title"><a href='/ea/9f/c28223a256671/page.htm' target='_blank' title='计算机学院分党校开学典礼'>计算机学院分党校开学典礼</a></span>
+									<span class="news_meta">2017-03-16</span>
 								</li>
 								
 								<li class="news n4 clearfix">
-									<span class="news_title"><a href='/ea/6e/c28223a256622/page.htm' target='_blank' title='2009级计算机科学与技术学院第44期党校培训——讨论篇'>2009级计算机科学与技术学院第44期党校培训——讨论篇</a></span>
-									<span class="news_meta">2010-11-22</span>
+									<span class="news_title"><a href='/ea/9e/c28223a256670/page.htm' target='_blank' title='计算机科学与技术学院举行“纪念长征胜利80周年”徒步健身赛'>计算机科学与技术学院举行“纪念长征胜利80周年”徒步健身赛</a></span>
+									<span class="news_meta">2016-11-12</span>
 								</li>
 								
 								<li class="news n5 clearfix">
-									<span class="news_title"><a href='/ea/6d/c28223a256621/page.htm' target='_blank' title='入党积极分子讨论会会议记录'>入党积极分子讨论会会议记录</a></span>
-									<span class="news_meta">2009-11-28</span>
+									<span class="news_title"><a href='/ea/9d/c28223a256669/page.htm' target='_blank' title='心怀理想、勇于担当、锐意创新——做一名新时代的共产党员'>心怀理想、勇于担当、锐意创新——做一名新时代的共产党员</a></span>
+									<span class="news_meta">2016-11-12</span>
+								</li>
+								
+								<li class="news n6 clearfix">
+									<span class="news_title"><a href='/ea/9c/c28223a256668/page.htm' target='_blank' title='做一名有理想信念和责任担当的共产党员'>做一名有理想信念和责任担当的共产党员</a></span>
+									<span class="news_meta">2016-11-05</span>
+								</li>
+								
+								<li class="news n7 clearfix">
+									<span class="news_title"><a href='/ea/9b/c28223a256667/page.htm' target='_blank' title='分党校开学典礼'>分党校开学典礼</a></span>
+									<span class="news_meta">2016-10-08</span>
+								</li>
+								
+								<li class="news n8 clearfix">
+									<span class="news_title"><a href='/ea/9a/c28223a256666/page.htm' target='_blank' title='“两学一做”学习教育活动——田芝健教授'>“两学一做”学习教育活动——田芝健教授</a></span>
+									<span class="news_meta">2016-06-28</span>
+								</li>
+								
+								<li class="news n9 clearfix">
+									<span class="news_title"><a href='/ea/99/c28223a256665/page.htm' target='_blank' title='计算机科学与技术学院举办“两学一做”知识竞赛'>计算机科学与技术学院举办“两学一做”知识竞赛</a></span>
+									<span class="news_meta">2016-06-07</span>
+								</li>
+								
+								<li class="news n10 clearfix">
+									<span class="news_title"><a href='/ea/98/c28223a256664/page.htm' target='_blank' title='“两学一做”知识竞赛'>“两学一做”知识竞赛</a></span>
+									<span class="news_meta">2016-06-02</span>
+								</li>
+								
+								<li class="news n11 clearfix">
+									<span class="news_title"><a href='/ea/95/c28223a256661/page.htm' target='_blank' title='计算机科学与技术学院举行分党校党课第一讲'>计算机科学与技术学院举行分党校党课第一讲</a></span>
+									<span class="news_meta">2016-03-31</span>
+								</li>
+								
+								<li class="news n12 clearfix">
+									<span class="news_title"><a href='/ea/94/c28223a256660/page.htm' target='_blank' title='“我与祖国有约——弘扬爱国精神，加强爱国教育”爱国主义教育系列活动'>“我与祖国有约——弘扬爱国精神，加强爱国教育”爱国主义教育系列...</a></span>
+									<span class="news_meta">2016-03-28</span>
+								</li>
+								
+								<li class="news n13 clearfix">
+									<span class="news_title"><a href='/ea/93/c28223a256659/page.htm' target='_blank' title='一个党员，一面旗帜'>一个党员，一面旗帜</a></span>
+									<span class="news_meta">2016-03-28</span>
+								</li>
+								
+								<li class="news n14 clearfix">
+									<span class="news_title"><a href='/ea/92/c28223a256658/page.htm' target='_blank' title='分党校开学典礼'>分党校开学典礼</a></span>
+									<span class="news_meta">2016-03-08</span>
 								</li>
 								
 							</ul>
@@ -479,12 +524,12 @@
      </li> 
      <li class="page_nav"> 
          <a class="first" href="/fdxgz/list1.htm" target="_self"><span>第一页</span></a> 
-         <a class="prev" href="/fdxgz/list4.htm" target="_self"><span>&lt;&lt;上一页</span></a> 
-         <a class="next" href="javascript:void(0);" target="_self"><span>下一页&gt;&gt;</span></a> 
-         <a class="last" href="javascript:void(0);" target="_self"><span>尾页</span></a> 
+         <a class="prev" href="/fdxgz/list1.htm" target="_self"><span>&lt;&lt;上一页</span></a> 
+         <a class="next" href="/fdxgz/list3.htm" target="_self"><span>下一页&gt;&gt;</span></a> 
+         <a class="last" href="/fdxgz/list5.htm" target="_self"><span>尾页</span></a> 
      </li> 
      <li class="page_jump"> 
-         <span class="pages">页码&nbsp;<em class="curr_page">5</em>/<em class="all_pages">5</em></span> 
+         <span class="pages">页码&nbsp;<em class="curr_page">2</em>/<em class="all_pages">5</em></span> 
          <span><input class="pageNum" type="text" /><input type="hidden" class="currPageURL" value=""></span></span> 
          <span><a class="pagingJump" href="javascript:void(0);" target="_self">跳转到&nbsp;</a></span> 
      </li> 

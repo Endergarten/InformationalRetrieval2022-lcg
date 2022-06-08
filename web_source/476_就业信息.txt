@@ -423,28 +423,73 @@
 							<ul class="news_list list2">
 								
 								<li class="news n1 clearfix">
-									<span class="news_title"><a href='/65/f6/c11207a484854/page.htm' target='_blank' title='凯士电子（浙江）有限公司招聘简章'>凯士电子（浙江）有限公司招聘简章</a></span>
-									<span class="news_meta">2022-02-23</span>
+									<span class="news_title"><a href='/73/b3/c11207a488371/page.htm' target='_blank' title='锐捷网络2022届校园招聘简章'>锐捷网络2022届校园招聘简章</a></span>
+									<span class="news_meta">2022-04-02</span>
 								</li>
 								
 								<li class="news n2 clearfix">
-									<span class="news_title"><a href='/65/fa/c11207a484858/page.htm' target='_blank' title='苏州彼立孚数据科技有限公司招聘信息'>苏州彼立孚数据科技有限公司招聘信息</a></span>
-									<span class="news_meta">2022-02-22</span>
+									<span class="news_title"><a href='/73/b2/c11207a488370/page.htm' target='_blank' title='苏翔科技招聘简章'>苏翔科技招聘简章</a></span>
+									<span class="news_meta">2022-04-02</span>
 								</li>
 								
 								<li class="news n3 clearfix">
-									<span class="news_title"><a href='/65/f8/c11207a484856/page.htm' target='_blank' title='广东三三智能科技有限公司招聘简章'>广东三三智能科技有限公司招聘简章</a></span>
-									<span class="news_meta">2022-01-24</span>
+									<span class="news_title"><a href='/73/b1/c11207a488369/page.htm' target='_blank' title='芯动科技苏州公司招聘简章'>芯动科技苏州公司招聘简章</a></span>
+									<span class="news_meta">2022-04-02</span>
 								</li>
 								
 								<li class="news n4 clearfix">
-									<span class="news_title"><a href='/65/f9/c11207a484857/page.htm' target='_blank' title='苏州彼立孚数据科技有限公司招聘信息'>苏州彼立孚数据科技有限公司招聘信息</a></span>
-									<span class="news_meta">2022-01-23</span>
+									<span class="news_title"><a href='/73/ae/c11207a488366/page.htm' target='_blank' title='苏州天准科技股份有限公司2022届校园招聘'>苏州天准科技股份有限公司2022届校园招聘</a></span>
+									<span class="news_meta">2022-04-02</span>
 								</li>
 								
 								<li class="news n5 clearfix">
-									<span class="news_title"><a href='/65/ff/c11207a484863/page.htm' target='_blank' title='信银数科供应链（苏州）有限公司 招聘简章'>信银数科供应链（苏州）有限公司 招聘简章</a></span>
-									<span class="news_meta">2022-01-20</span>
+									<span class="news_title"><a href='/73/ad/c11207a488365/page.htm' target='_blank' title='中国农业银行股份有限公司苏州分行  2022年春季招聘公告'>中国农业银行股份有限公司苏州分行  2022年春季招聘公告</a></span>
+									<span class="news_meta">2022-04-02</span>
+								</li>
+								
+								<li class="news n6 clearfix">
+									<span class="news_title"><a href='/73/ac/c11207a488364/page.htm' target='_blank' title='江苏英科医疗制品有限公司招聘简章'>江苏英科医疗制品有限公司招聘简章</a></span>
+									<span class="news_meta">2022-04-02</span>
+								</li>
+								
+								<li class="news n7 clearfix">
+									<span class="news_title"><a href='/73/aa/c11207a488362/page.htm' target='_blank' title='九州昆仑科技2022年校园招聘'>九州昆仑科技2022年校园招聘</a></span>
+									<span class="news_meta">2022-04-02</span>
+								</li>
+								
+								<li class="news n8 clearfix">
+									<span class="news_title"><a href='/73/74/c11207a488308/page.htm' target='_blank' title='上海银行诚聘2022届优秀高校毕业生'>上海银行诚聘2022届优秀高校毕业生</a></span>
+									<span class="news_meta">2022-04-02</span>
+								</li>
+								
+								<li class="news n9 clearfix">
+									<span class="news_title"><a href='/73/70/c11207a488304/page.htm' target='_blank' title='上海安硕信息技术股份有限公司2022校园招聘'>上海安硕信息技术股份有限公司2022校园招聘</a></span>
+									<span class="news_meta">2022-04-02</span>
+								</li>
+								
+								<li class="news n10 clearfix">
+									<span class="news_title"><a href='/73/6f/c11207a488303/page.htm' target='_blank' title='万得信息技术股份有限公司招聘简章'>万得信息技术股份有限公司招聘简章</a></span>
+									<span class="news_meta">2022-04-02</span>
+								</li>
+								
+								<li class="news n11 clearfix">
+									<span class="news_title"><a href='/73/6e/c11207a488302/page.htm' target='_blank' title='同元软控2022年春季校园招聘简章'>同元软控2022年春季校园招聘简章</a></span>
+									<span class="news_meta">2022-04-02</span>
+								</li>
+								
+								<li class="news n12 clearfix">
+									<span class="news_title"><a href='/73/6d/c11207a488301/page.htm' target='_blank' title='国泰新点软件校园招聘简章'>国泰新点软件校园招聘简章</a></span>
+									<span class="news_meta">2022-04-02</span>
+								</li>
+								
+								<li class="news n13 clearfix">
+									<span class="news_title"><a href='/73/6c/c11207a488300/page.htm' target='_blank' title='苏州舜云工程软件有限公司2022春季招聘简章'>苏州舜云工程软件有限公司2022春季招聘简章</a></span>
+									<span class="news_meta">2022-04-02</span>
+								</li>
+								
+								<li class="news n14 clearfix">
+									<span class="news_title"><a href='/73/6b/c11207a488299/page.htm' target='_blank' title='天合光能2022届校园招聘-IT专场'>天合光能2022届校园招聘-IT专场</a></span>
+									<span class="news_meta">2022-04-02</span>
 								</li>
 								
 							</ul>
@@ -458,12 +503,12 @@
      </li> 
      <li class="page_nav"> 
          <a class="first" href="/11207/list1.htm" target="_self"><span>第一页</span></a> 
-         <a class="prev" href="/11207/list5.htm" target="_self"><span>&lt;&lt;上一页</span></a> 
-         <a class="next" href="javascript:void(0);" target="_self"><span>下一页&gt;&gt;</span></a> 
-         <a class="last" href="javascript:void(0);" target="_self"><span>尾页</span></a> 
+         <a class="prev" href="/11207/list1.htm" target="_self"><span>&lt;&lt;上一页</span></a> 
+         <a class="next" href="/11207/list3.htm" target="_self"><span>下一页&gt;&gt;</span></a> 
+         <a class="last" href="/11207/list6.htm" target="_self"><span>尾页</span></a> 
      </li> 
      <li class="page_jump"> 
-         <span class="pages">页码&nbsp;<em class="curr_page">6</em>/<em class="all_pages">6</em></span> 
+         <span class="pages">页码&nbsp;<em class="curr_page">2</em>/<em class="all_pages">6</em></span> 
          <span><input class="pageNum" type="text" /><input type="hidden" class="currPageURL" value=""></span></span> 
          <span><a class="pagingJump" href="javascript:void(0);" target="_self">跳转到&nbsp;</a></span> 
      </li> 

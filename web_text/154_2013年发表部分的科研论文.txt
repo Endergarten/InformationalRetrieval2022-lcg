@@ -1,0 +1,188 @@
+导航 
+首 页 
+学院 概况 
+学院 简介 
+历史沿革 
+现任 领导 
+机构 设置 
+办学 资源 
+联系方式 
+学科建设 
+江苏省 优势 学科 
+博士点 
+硕士点 
+实验室 
+师资队伍 
+师资 概况 
+教职工 名单 
+导师 简介 
+兼职 师资 
+科学研究 
+研究 中心 
+自然语言 研究 中心 
+机器 学习 图像处理 研究 中心 
+数据 科学 工业 软件 研究 中心 
+网络 科学 工程 研究 中心 
+人工智能 研究院 
+嵌入式 技术 系统 能力 培养 研究 中心 
+科研机构 
+科研项目 
+科研 论文 
+知识产权 
+科研 政策 
+人才培养 
+博士生 
+硕士生 
+本科生 
+人才培养 方案 
+课程 教学大纲 
+图灵 班 
+国际交流 
+学生 工作 
+工作队 伍 
+学工 通知 
+学工 新闻 
+规章制度 
+志愿 服务 
+学生 组织 
+勤工助学 
+心理健康 
+职业规划 
+成长 陪伴 
+党群 工作 
+基层组织 
+规章制度 
+专题 活动 
+分党 校工 作 
+发展 公示 
+关工委 工作 
+工会工作 
+年 发表 科研 论文 
+发布者 
+发布 时间 
+浏览 次数 
+年 发表 科研 论文 序号 作者 题 
+名 刊 
+名 发表 时间 程 宝 雷 I n d e p e n d e n t s p a n n i n g t r e e s i n c r o s s e d c u b e s I n f o r m a t i o n S c i e n c e s 年 期 嘉 I n f e r r i n g e v o l u t i o n o f g e n e d u p l i c a t e s u s i n g p r o b a b i l i s t i c m o d e l s a n d n o n p a r a m e t r i c b e l i e f p r o p a g a t i o n B M C G e n o m i c s 年 月 张 召 P a i r w i s e S p a r s i t y P r e s e r v i n g E m b e d d i n g f o r U n s u p e r v i s e d S u b s p a c e L e a r n i n g a n d C l a s s i f i c a t i o n I E E E T r a n s a c t i o n s o n I m a g e p r o c e s s i n g 年 月 胥 大成 樊建 席 H a m i l t o n i a n p r o p e r t i e s o f h o n e y c o m b m e s h e s I n f o r m a t i o n S c i e n c e s 年 月 张 莉 A f a s t a l g o r i t h m f o r k e r n e l n o r m s u p p o r t v e c t o r m a c h i n e s K n o w l e d g e B a s e d S y s t e m s 年 期 张 莉 n o r m s u p p o r t v e c t o r n o v e l t y d e t e c t i o n a n d i t s s p a r s e n e s s 
+N e u r a l N e t w o r k s 年 月 张 莉 A n a l y s i s o f p r o g r a m m i n g p r o p e r t i e s a n d t h e r o w – c o l u m n g e n e r a t i o n m e t h o d f o r n o r m s u p p o r t v e c t o r m a c h i n e s 
+N e u r a l N e t w o r k s 年 月 张 莉 S p a r s e s i g n a l r e c o n s t r u c t i o n u s i n g d e c o m p o s i t i o n a l g o r i t h m K n o w l e d g e B a s e d S y s t e m s 年 期 贾 俊 铖 R e n d e z v o u s P r o t o c o l s B a s e d o n M e s s a g e P a s s i n g i n C o g n i t i v e R a d i o N e t w o r k s I E E E T r a n s a c t i o n s o n W i r e l e s s C o m m u n i c a t i o n s 年 月 张 莉 
+I t e r a t e d t i m e s e r i e s p r e d i c t i o n w i t h m u l t i p l e s u p p o r t v e c t o r r e g r e s s i o n m o d e l s 
+N e u r o c o m p u t i n g 年 期 张 民 I m p r o v i n g G r a p h b a s e d D e p e n d e n c y P a r s i n g M o d e l s w i t h D e p e n d e n c y L a n g u a g e M o d e l s I E E E T r a n s a c t i o n s o n A u d i o 
+S p e e c h a n d L a n g u a g e P r o c e s s i n g I E E E T A S L 年 月 张 召 G r a p h b a s e d C o n s t r a i n e d S e m i S u p e r v i s e d L e a r n i n g F r a m e w o r k v i a L a b e l P r o p a g a t i o n o v e r A d a p t i v e N e i g h b o r h o o d I E E E T r a n s a c t i o n s o n K n o w l e d g e a n d D a t a E n g i n e e r i n g 年 月 李正华 J o i n t O p t i m i z a t i o n f o r C h i n e s e P O S T a g g i n g a n d D e p e n d e n c y P a r s i n g I E E E A C M T R A N S A C T I O N S O N A U D I O 
+S P E E C H 
+A N D L A N G U A G E P R O C E S S I N G 年 期 王 进 M o d e l i n g a n d O p t i m a l D e s i g n o f L i n e a r N e t w o r k C o d i n g f o r S e c u r e U n i c a s t W i t h M u l t i p l e S t r e a m s I E E E T r a n s a c t i o n s o n P a r a l l e l a n d D i s t r i b u t e d S y s t e m s 年 期 程 宝 雷 P a r a l l e l c o n s t r u c t i o n o f i n d e p e n d e n t s p a n n i n g t r e e s a n d a n a p p l i c a t i o n i n d i a g n o s i s o n M 
+b i u s c u b e s 
+J o u r n a l o f S u p e r c o m p u t i n g 年 期 程 宝 雷 D i m e n s i o n a d j a c e n t t r e e s a n d p a r a l l e l c o n s t r u c t i o n o f i n d e p e n d e n t s p a n n i n g t r e e s o n c r o s s e d c u b e s J o u r n a l o f P a r a l l e l a n d D i s t r i b u t e d C o m p u t i n g 年 期 程 宝 雷 C o n s t r u c t i v e a l g o r i t h m o f i n d e p e n d e n t s p a n n i n g t r e e s o n M 
+b i u s c u b e s T h e C o m p u t e r J o u r n a l 年 月 刘 纯平 I m a g e c a t e g o r i z a t i o n u s i n g a s e m a n t i c h i e r a r c h y m o d e l w i t h s p a r s e s e t o f s a l i e n t r e g i o n s F r o n t i e r s o f C o m p u t e r S c i e n c e 年 期 熊 德 意 B a c k w a r d a n d t r i g g e r b a s e d l a n g u a g e m o d e l s f o r s t a t i s t i c a l m a c h i n e t r a n s l a t i o n N a t u r a l L a n g u a g e E n g i n e e r i n g 年 吴 宏 杰 吕 强 P a t G P C R 
+A M u l t i t e m p l a t e a p p r o a c h f o r i m p r o v i n g D s t r u c t u r e p r e d i c t i o n o f t r a n s m e m b r a n e h e l i c e s o f G P r o t e i n C o u p l e d R e c e p t o r s C o m p u t a t i o n a l a n d M a t h e m a t i c a l M e t h o d s i n M e d i c i n e 年 王 红 玲 S e m a n t i c R o l e L a b e l i n g o f C h i n e s e N o m i n a l P r e d i c a t e s w i t h D e p e n d e n c y D r i v e n C o n s t i t u e n t P a r s e T r e e S t r u c t u r e J o u r n a l o f C o m p u t e r S c i e n c e T e c h n o l o g y 年 期 刘 全 A G r a d i e n t D e s c e n t S a r s a A l g o r i t h m b a s e d o n t h e A d a p t i v e R e w a r d S h a n p i n g M e c h a n i s m I n t e l l i g e n t A u t o m a t i o n a n d S o f t C o m p u t i n g 年 期 刘 全 A S a r s a A l g o r i t h m B a s e d o n D o u b l e l a y e r F u z z y R e a s o n i n g M a t h e m a t i c a l P r o b l e m s i n E n g i n e e r i n g 年 期 马 虎 A F a s t C l a s s i f i c a t i o n S c h e m e a n d i t s A p p l i c a t i o n t o F a c e R e c o g n i t i o n J o u r n a l o f Z h e j i a n g U n i v e r s i t y S C I E N C E C C o m p u t e r s E l e c t r o n i c s 韩 月 娟 樊建 席 C h a n g i n g t h e d i a m e t e r o f t h e l o c a l l y t w i s t e d c u b e I n t e r n a t i o n a l J o u r n a l o f C o m p u t e r M a t h e m a t i c s 年 期 叶 
+芸 龚 声 蓉 O n l i n e b e l i e f p r o p a g a t i o n a l g o r i t h m f o r p r o b a b i l i s t i c l a t e n t s e m a n t i c a n a l y s i s F r o n t i e r s o f C o m p u t e r S c i e n c e 年 期 杨 哲 I m p r o v e d M e s s a g e D i f f u s i o n M o d e l f o r N o d e C o v e r a g e P r o b l e m o f A d H o c N e t w o r k B a s e d o n N o d e V i s i t T i m e s I n t e r n a t i o n a l J o u r n a l o f D i s t r i b u t e d S e n s o r N e t w o r k s 年 周 国 栋 I m p r o v i n g s y n t a c t i c p a r s i n g o f C h i n e s e w i t h e m p t y e l e m e n t r e c o v e r y J C S T 年 期 伏 玉 琛 R e s e a r c h o f Q o S R o u t i n g A l g o r i t h m i n A d H o c N e t w o r k s b a s e d o n R e i n f o r c e m e n t L e a r n i n g E l e c t r o n i c s A n d E l e c t r i c a l E n g i n e e r i n g 年 期 苏 栋梁 吴 健 C G C I S I F T 
+A M o r e E f f i c i e n t a n d C o m p a c t R e p r e s e n t a t i o n o f L o c a l F e a t u r e D e s c r i p t i o n A l g o r i t h m M e a s u r e m e n t S c i e n c e R e v i e w 年 期 吴 健 A C o m p a r a t i v e S t u d y o f S I F T a n d I t s V a r i a n t s M e a s u r e m e n t S c i e n c e R e v i e w 年 期 赵 雷 R e s o u r c e s n a p s h o t m o d e l f o r c o n c u r r e n t t r a n s a c t i o n s i n m u l t i c o r e p r o c e s s o r s J C S T 年 期 朱 艳 琴 H o w M u c h D e l a y H a s t o B e T o l e r a t e d i n a M o b i l e S o c i a l N e t w o r k 
+I n t e r n a t i o n a l J o u r n a l o f D i s t r i b u t e d S e n s o r N e t w o r k s 年 杨 旭东 刘 全 A S c a l a b l e P a r a l l e l R e i n f o r c e m e n t L e a r n i n g M e t h o d B a s e d o n D i v i d e a n d C o n q u e r S t r a t e g y 电子学 报 英文版 年 期 王 林 R e s e a r c h o n V e h i c l e A u t o m a t i c a l l y T r a c k i n g M e c h a n i s m i n V A N E T I n t e r n a t i o n a l J o u r n a l o f D i s t r i b u t e d S e n s o r N e t w o r k s 年 期 李 领 治 M C N C 
+D a t a A g g r e g a t i o n a n d D i s s e m i n a t i o n i n V e h i c u l a r A d h o c N e t w o r k s U s i n g M u l t i c a s t N e t w o r k C o d i n g 
+I n t e r n a t i o n a l J o u r n a l o f D i s t r i b u t e d S e n s o r N e t w o r k s 年 期 李 领 治 D a t a D i s s e m i n a t i o n i n M o b i l e W i r e l e s s S e n s o r N e t w o r k U s i n g T r a j e c t o r y B a s e d N e t w o r k C o d i n g I n t e r n a t i o n a l J o u r n a l o f D i s t r i b u t e d S e n s o r N e t w o r k s 年 期 张 书 奎 R e s i l i e n t M u l t i p a t h R o u t i n g M e c h a n i s m b a s e d o n C l u s t e r i n g w i t h I n t r u s i o n t o l e r a n c e I n t e r n a t i o n a l J o u r n a l o f D i s t r i b u t e d S e n s o r N e t w o r k s 年 期 常 艳 张 书 奎 U n c e r t a i n t y A w a r e S e n s o r D e p l o y m e n t S t r a t e g y i n M i x e d W i r e l e s s S e n s o r N e t w o r k s I n t e r n a t i o n a l J o u r n a l o f D i s t r i b u t e d S e n s o r N e t w o r k s 年 期 黄 浩 晶 张 书 奎 A R o u t i n g A l g o r i t h m B a s e d o n D y n a m i c F o r e c a s t o f V e h i c l e S p e e d a n d P o s i t i o n i n V A N E T I n t e r n a t i o n a l J o u r n a l o f D i s t r i b u t e d S e n s o r N e t w o r k s 年 期 杨 欣 浩 张 书 奎 C o n g e s t i o n C o n t r o l B a s e d o n C o n s e n s u s i n t h e W i r e l e s s S e n s o r N e t w o r k I n t e r n a t i o n a l J o u r n a l o f D i s t r i b u t e d S e n s o r N e t w o r k s 年 期 吕 强 A p a r a l l e l a n t c o l o n i e s a p p r o a c h t o d e n o v o p r e d i c t i o n o f p r o t e i n b a c k b o n e i n C A S P S c i e n c e C h i n a I n f o r m a t i o n S c i e n c e s 年 期 黄河 S P R I T E 
+A N o v e l S t r a t e g y p r o o f M u l t i u n i t D o u b l e A u c t i o n S c h e m e f o r S p e c t r u m A l l o c a t i o n i n U b i q u i t o u s C o m m u n i c a t i o n s S p r i n g e r P e r s o n a l a n d U b i q u i t o u s C o m p u t i n g 年 王 岩 E m b e d d i n g t w o e d g e d i s j o i n t H a m i l t o n i a n c y c l e s i n t o p a r i t y c u b e s 
+A p p l i e d M e c h a n i c s a n d M a t e r i a l s 年 期 周 勇 E x t r a c t i n g T o p H o t H i t s i n B i o m e d i c i n e f r o m P u b M e d 
+I S I S E 会议 论文 年 程 铭 策 李 蓥 M e d i a A c c e s s C o n t r o l P r o t o c o l i n A d H o c N e t w o r k b a s e d o n H y b r i d A n t e n n a s 
+n d I n t e r n a t i o n a l C o n f e r e n c e o n S y s t e m E n g i n e e r i n g a n d M o d e l i n g I C S E M 
+年 月 程 宝 雷 C i r c u l a r d i m e n s i o n a l p e r m u t a t i o n s a n d r e l i a b l e b r o a d c a s t i n g f o r h y p e r c u b e s a n d M 
+b i u s c u b e s t h I F I P I n t e r n a t i o n a l C o n f e r e n c e o n N e t w o r k a n d P a r a l l e l C o m p u t i n g 年 月 王 
+喜 樊建 席 O n e t o O n e D i s j o i n t P a t h C o v e r s i n D C e l l t h I F I P I n t e r n a t i o n a l C o n f e r e n c e o n N e t w o r k a n d P a r a l l e l C o m p u t i n g N P C 
+L e c t u r e N o t e s i n C o m p u t e r S c i e n c e 年 月 刘 文 军 樊建 席 R e l a y H o p C o n s t r a i n e d R e n d e z v o u s A l g o r i t h m f o r M o b i l e D a t a G a t h e r i n g i n W i r e l e s s S e n s o r N e t w o r k s t h I F I P I n t e r n a t i o n a l C o n f e r e n c e o n N e t w o r k a n d P a r a l l e l C o m p u t i n g N P C 
+L e c t u r e N o t e s i n C o m p u t e r S c i e n c e 年 月 王 进 U n t r a c e a b i l i t y o f M o b i l e D e v i c e s i n W i r e l e s s M e s h N e t w o r k s u s i n g L i n e a r N e t w o r k C o d i n g T h e t h I E E E I n t e r n a t i o n a l C o n f e r e n c e o n C o m p u t e r C o m m u n i c a t i o n s 年 王 珺 晟 王 进 S N K C 
+A n E f f i c i e n t O n t h e f l y P o l l u t i o n D e t e c t i o n S c h e m e f o r C o n t e n t D i s t r i b u t i o n w i t h N e t w o r k C o d i n g T h e t h I E E E I F I P I n t e r n a t i o n a l C o n f e r e n c e o n E m b e d d e d a n d U b i q u i t o u s C o m p u t i n g 年 朱 艳 琴 A P u s h P u l l S c h e d u l i n g A l g o r i t h m i n P P V o D n d I n t e r n a t i o n a l C o n f e r e n c e o n C o m p u t e r S c i e n c e a n d N e t w o r k T e c h n o l o g y 
+邵 文武 杨 炯 M i n i n g D a t a f r o m N a t i o n a l C e n t e r f o r B i o t e c h n o l o g y I n f o r m a t i o n S y s t e m F o u r t h I n t e r n a t i o n a l S y m p o s i u m o n I n f o r m a t i o n S c i e n c e a n d E n g i n e e r i n g I S I S E 
+杨 炯 N e u r o n a l E d g e D e t e c t i o n w i t h M e d i a n F i l t e r i n g a n d G r a d i e n t S h a r p e n i n g F o u r t h I n t e r n a t i o n a l S y m p o s i u m o n I n f o r m a t i o n S c i e n c e a n d E n g i n e e r i n g I S I S E 
+王 岩 A p a r a l l e l a l g o r i t h m t o c o n s t r u c t B I S T s o n P a r i t y C u b e s I E E E I n t e r n a t i o n a l C o n f e r e n c e o n C o m p u t e r S c i e n c e a n d A u t o m a t i o n E n g i n e e r i n g 
+王 珺 晟 朱 艳 琴 S N K C 
+A n E f f i c i e n t O n t h e f l y P o l l u t i o n D e t e c t i o n S c h e m e f o r C o n t e n t D i s t r i b u t i o n w i t h L i n e a r N e t w o r k C o d i n g I E E E I n t e r n a t i o n a l C o n f e r e n c e o n H i g h P e r f o r m a n c e C o m p u t i n g a n d C o m m u n i c a t i o n s I E E E I n t e r n a t i o n a l C o n f e r e n c e o n E m b e d d e d a n d U b i q u i t o u s C o m p u t i n g 
+刘 文 军 樊建 席 G r i d B a s e d R e a l T i m e D a t a G a t h e r i n g P r o t o c o l i n W i r e l e s s S e n s o r N e t w o r k w i t h M o b i l e S i n k I E E E I n t e r n a t i o n a l C o n f e r e n c e o n H i g h P e r f o r m a n c e C o m p u t i n g a n d C o m m u n i c a t i o n s I E E E I n t e r n a t i o n a l C o n f e r e n c e o n E m b e d d e d a n d U b i q u i t o u s C o m p u t i n g H P C C E U C 
+程 宝 雷 T o w a r d s t h e I n d e p e n d e n t S p a n n i n g T r e e s i n C o n d i t i o n a l B C N e t w o r k s I n t e r n a t i o n a l C o n f e r e n c e o n A d v a n c e d C o m p u t e r S c i e n c e a n d E l e c t r o n i c s I n f o r m a t i o n I C A C S E I 年 月 王 岩 P a r a l l e l C o n s t r u c t i o n o f B i n o m i a l l i k e I n d e p e n d e n t S p a n n i n g T r e e s o n T w i s t e d C u b e s I n t e r n a t i o n a l C o n f e r e n c e o n C o m p u t e r S c i e n c e s a n d A p p l i c a t i o n s 年 月 王 潇 斌 杨 哲 M e a s u r e m e n t a n d A n a l y s i s o n P P S w a r m s B a s e d o n C o u p o n C o l l e c t o r s P r o b l e m I n t e r n a t i o n a l C o n f e r e n c e o n C o m p u t e r 
+N e t w o r k s a n d C o m m u n i c a t i o n E n g i n e e r i n g 年 月 徐 汀 荣 A W i r e l e s s S e n s o r N e t w o r k N o d e D i s t r i b u t i o n P r o t o c o l B a s e d O n M a s t e r a n d V i c e C l u s t e r I n t e r n a t i o n a l C o n f e r e n c e o n C o n t r o l a n d i n f o r m a t i o n T e c n o l o g y 
+N a n n i n g 
+朱 桂 倩 刘 纯平 J o i n t o f M u l t i F e a t u r e F u s i o n a n d M u t u a l I n f o r m a t i o n B a s e d I m a g e S e m a n t i c A n n o t a t i o n I n t e r n a t i o n a l C o n f e r e n c e o n I n t e l l i g e n t S y s t e m s a n d K n o w l e d g e E n g i n e e r i n g 
+徐 芳 刘 纯平 O b j e c t D e t e c t i o n i n D y n a m i c S c e n e s B a s e d o n C o d e b o o k w i t h S u p e r p i x e l s S e c o n d I A P R A s i a n C o n f e r e n c e o n P a t t e r n R e c o g n i t i o n 
+李 培 峰 A r g u m e n t I n f e r e n c e f r o m R e l e v a n t E v e n t M e n t i o n s i n C h i n e s e A r g u m e n t E x t r a c t i o n A C L 
+刘 欢欢 李 寿山 J o i n t M o d e l i n g o f N e w s R e a d e r s a n d C o m m e n t W r i t e r s E m o t i o n s A C L 年 月 吴 瑾 P r o t e c t i o n m e c h a n i s m s a n d s e c u r i t y o p e r a t i o n s o f X S F l a s h m e m o r y A d v a n c e d M a t e r i a l s R e s e a r c h 年 吴 瑾 T h e p a g i n g m e c h a n i s m a n d M M C m o d u l e i n X S F l a s h A d v a n c e d M a t e r i a l s R e s e a r c h 年 季 怡 D y n a m i c v i s u a l t i m e c o n t e x t d e s c r i p t o r s f o r a u t o m a t i c h u m a n e x p r e s s i o n c l a s s i f i c a t i o n A d v a n c e s i n I n t e l l i g e n t S y s t e m s a n d C o m p u t i n g 年 张 泳 江 李 蓥 O n D e s i g n i n g M A C P r o t o c o l T o S u p p o r t H y b r i d A n t e n n a s i n W i r e l e s s A d H o c N e t w o r k s A P C I I T 王 
+喜 樊建 席 A H a m i l t o n P a t h E m b e d d i n g A l g o r i t h m o n D C e l l A p p l i e d M e c h a n i c s a n d M a t e r i a l s 年 刘 文 军 樊建 席 C l u s t e r i n g B a s e d D a t a G a t h e r i n g i n W i r e l e s s S e n s o r N e t w o r k w i t h M o b i l e C o l l e c t o r A p p l i e d M e c h a n i c s a n d M a t e r i a l s 年 程 宝 雷 I n d e p e n d e n t s p a n n i n g t r e e s o n s p e c i a l B C n e t w o r k s A p p l i e d M e c h a n i c s a n d M a t e r i a l s 年 月 李 艳 翠 周 国 栋 E l e m e n t a r y d i s c o u r s e u n i t i n c h i n e s e d i s c o u r s e s t r u c t u r e a n a l y s i s C h i n e s e L e x i c a l S e m a n t i c s L e c t u r e N o t e s i n C o m p u t e r S c i e n c e V o l u m e 
+p p 年 张 友 蕾 王 红 玲 R e s e a r c h o n C h i n e s e S e n t e n c e C o m p r e s s i o n f o r t h e T i t l e G e n e r a t i o n C h i n e s e L e x i c a l S e m a n t i c s 
+L e c t u r e N o t e s i n C o m p u t e r S c i e n c e 年 高 
+伟 李 寿山 J o i n t l e a r n i n g o n s e n t i m e n t a n d e m o t i o n c l a s s i f i c a t i o n C I K M 年 月 居 盛 峰 李 寿山 A c t i v e l e a r n i n g o n s e n t i m e n t c l a s s i f i c a t i o n b y s e l e c t i n g b o t h w o r d s a n d d o c u m e n t s C L S W 
+L N A I o f S p r i n g e r 年 月 苏 
+艳 李 寿山 C o n s t r u c t i n g C h i n e s e S e n t i m e n t L e x i c o n U s i n g B i l i n g u a l I n f o r m a t i o n C L S W 
+L N A I o f S p r i n g e r 年 月 李 寿山 C o r p u s C o n s t r u c t i o n o n P o l a r i t y S h i f t i n g i n S e n t i m e n t A n a l y s i s C L S W 
+L N A I o f S p r i n g e r 年 月 胡 欣 瑜 朱 斐 M e t a W e b C l a s s i f i e r s U s i n g K N N a n d P o r t e r E d u c a t i o n a n d E d u c a t i o n a l R e s e a r c h 
+V o l 
+王 玉 轩 朱 斐 I n n o v a t i n g N e w S c h o o l E n t e r p r i s e C o o e r a t i o n D u a l T u t o r s S y s t e m a n d C o n s t r u c t i n g A N e w E d u c a t i o n S y s t e m f o r I T M a j o r e d S t u d e n t s E d u c a t i o n a n d T e a c h i n g 
+V o l 
+王 中 卿 李 寿山 C o l l e c t i v e P e r s o n a l P r o f i l e S u m m a r i z a t i o n w i t h S o c i a l N e t w o r k s E M N L P 年 月 邹 博 伟 朱 巧 明 T r e e K e r n e l b a s e d N e g a t i o n a n d S p e c u l a t i o n S c o p e D e t e c t i o n w i t h S t r u c t u r e d S y n t a c t i c P a r s e F e a t u r e s E M N L P 年 月 徐 生 芹 李 培 峰 R e c o g n i z i n g C h i n e s e E l e m e n t a r y D i s c o u r s e U n i t o n C o m m a I A L P 
+李 寿山 D a t a Q u a l i t y C o n t r o l l i n g f o r C r o s s L i n g u a l S e n t i m e n t C l a s s i f i c a t i o n I A L P 
+I E E E 年 月 李 寿山 S e n t i m e n t C l a s s i f i c a t i o n w i t h P o l a r i t y S h i f t i n g D e t e c t i o n I A L P 
+I E E E 年 月 
+李 烨 晶 张 广泉 A M o d e l f o r V e h i c u l a r C y b e r P h y s i c a l S y s t e m B a s e d o n E x t e n d e d H y b r i d A u t o m a t o n 
+I C C S E 年 月 胡 欣 瑜 朱 斐 P r o m o t e t h e p r a c t i c a l e m b e d d e d t e a c h i n g r e f o r m a n d e m p l o y m e n t d e v e l o p m e n t I C S E M 
+钟 宝 江 C U R V A T U R E S C A L E S P A C E O F O P E N C U R V E S 
+T H E O R Y A N D S H A P E R E P R E S E N T A T I O N I E E E I n t e r n a t i o n a l C o n f e r e n c e o n I m a g e P r o c e s s i n g 年 月 钟 宝 江 V E R T I C A L C O R N E R L I N E D E T E C T I O N O N B U I L D I N G S I N Q U A S I M A N H A T T A N W O R L D I E E E I n t e r n a t i o n a l C o n f e r e n c e o n I m a g e P r o c e s s i n g 年 月 李 培 峰 J o i n t M o d e l i n g o f A r g u m e n t I d e n t i f i c a t i o n a n d R o l e D e t e r m i n a t i o n 
+i n C h i n e s e E v e n t E x t r a c t i o n w i t h D i s c o u r s e l e v e l I n f o r m a t i o n I J C A I 
+李 寿山 A c t i v e L e a r n i n g f o r C r o s s d o m a i n S e n t i m e n t C l a s s i f i c a t i o n I J C A I 年 月 王 邦 军 A C l a s s i f i c a t i o n A l g o r i t h m i n L i K N e a r e s t N e i g h b o r I n G C I S 年 月 黄河 N e a r o p t i m a l t r u t h f u l s p e c t r u m a u c t i o n m e c h a n i s m s w i t h s p a t i a l a n d t e m p o r a l r e u s e i n w i r e l e s s n e t w o r k s I n P r o c e e d i n g s o f t h e f o u r t e e n t h A C M S I G M O B I L E M o b i H o c C C F B 类 会议 年 月 王 玉 轩 朱 斐 A n I n t e r g r a t i v e P a t h w a y s A a n a l y s i s S y s t e m w i t h D i f f e r e n t R e s o u r c e s I n f o r m a t i o n S c i e n c e a n d E n g i n e e r i n g I S I S E 
+I n t e r n a t i o n a l S y m p o s i u m o n 
+徐 
+丹 朱 斐 B i o m e d i c a l H o t P o i n t s D i s c o v e r i n g w i t h D a t a M i n i n g A p p r o a c h I n f o r m a t i o n S c i e n c e a n d E n g i n e e r i n g I S I S E 
+I n t e r n a t i o n a l S y m p o s i u m o n 
+吴 
+健 T r a f f i c F l o w A n o m a l y D e t e c t i o n B a s e d o n W a v e l e t D e n o i s i n g a n d S u p p o r t V e c t o r R e g r e s s i o n J o u r n a l o f A l g o r i t h m s C o m p u t a t i o n a l T e c h n o l o y 年 期 李 雪 欢 赵 朋 朋 R e t r i e v i n g D e e p W e b D a t a B a s e d o n H e u r i s t i c H i e r a r c h y T r e e M o d e l J o u r n a l o f C o m p u t a t i o n a l I n f o r m a t i o n S y s t e m s 年 期 建 民 杨 洋 B a c k g r o u n d M o d e l i n g a n d F u z z y C l u s t e r i n g F o r M o t i o n D e t e c t i o n f r o m V i d e o J o u r n a l o f M u l t i M e d i a 年 月 张 广泉 M o d e l i n g a n d A n a l y s i s M e t h o d f o r C P S S o f t w a r e A r c h i t e c t u r e E n e r g y C o n s u m p t i o n J o u r n a l o f S o f t w a r e 
+李 寿山 A c t i v e L e a r n i n g f o r C r o s s L i n g u a l S e n t i m e n t C l a s s i f i c a t i o n N L P C C 
+C o m m u n i c a t i o n s i n C o m p u t e r a n d i n f o r m a t i o n S c i e n c e o f S p r i n g e r 年 月 李 寿山 S e m i s u p e r v i s e d T e x t C a t e g o r i z a t i o n b y C o n s i d e r i n g S u f f i c i e n c y a n d D i v e r s i t y N L P C C 
+C o m m u n i c a t i o n s i n C o m p u t e r a n d i n f o r m a t i o n S c i e n c e o f S p r i n g e r 年 月 王 红 玲 S e n t e n c e C o m p r e s s i o n B a s e d o n I L P D e c o d i n g M e t h o d N L P C C 
+C o m m u n i c a t i o n s i n C o m p u t e r a n d i n f o r m a t i o n S c i e n c e o f S p r i n g e r 年 月 黄 
+媛 李 培 峰 C h i n e s e A r g u m e n t E x t r a c t i o n B a s e d o n T r i g g e r M a p p i n g N L P C C 
+陈 占 成 李 培 峰 C h i n e s e N e g a t i o n a n d S p e c u l a t i o n D e t e c t i o n w i t h C o n d i t i o n a l R a n d o m F i e l d s N L P C C 
+熊 德 意 A T o p i c B a s e d C o h e r e n c e M o d e l f o r S t a t i s t i c a l M a c h i n e T r a n s l a t i o n P r o c 
+o f A A A I 年 月 朱 美 华 陈 文 亮 F a s t a n d A c c u r a t e S h i f t R e d u c e C o n s t i t u e n t P a r s i n g P r o c 
+o f A C L 年 月 熊 德 意 L e x i c a l C h a i n B a s e d C o h e s i o n M o d e l s f o r D o c u m e n t L e v e l S t a t i s t i c a l M a c h i n e T r a n s l a t i o n P r o c 
+o f E M N L P 年 月 陈 文 亮 S e m i S u p e r v i s e d F e a t u r e T r a n s f o r m a t i o n f o r D e p e n d e n c y P a r s i n g P r o c 
+o f E M N L P 年 月 熊 德 意 M o d e l i n g L e x i c a l C o h e s i o n f o r D o c u m e n t L e v e l M a c h i n e T r a n s l a t i o n P r o c 
+o f I J C A I 年 月 段 湘 煜 S m o o t h i n g f o r B r a c k e t i n g I n d u c t i o n P r o c 
+o f I J C A I 年 月 段 湘 煜 M a x M a r g i n S y n c h r o n o u s G r a m m a r I n d u c t i o n f o r M a c h i n e T r a n s l a t i o n P r o c e e d i n g s o f E M N L P 年 月 吴 娴 T o w a r d s t h e S c h e d u l i n g o f A c c e s s R e q u e s t s i n C l o u d S t o r a g e P r o c e e d i n g s o f I C C S E 
+张 召 C o l o r P C A 
+C o l o r P r i n c i p a l F e a t u r e E x t r a c t i o n T e c h n i q u e f o r C o l o r I m a g e R e c o n s t r u c t i o n a n d R e c o g n i t i o n P r o c e e d i n g s o f t h e t h I E E E I n t e r n a t i o n a l J o i n t C o n f e r e n c e o n N e u r a l N e t w o r k s I J C N N 张 召 H a n d w r i t i n g R e p r e s e n t a t i o n a n d R e c o g n i t i o n t h r o u g h a S p a r s e P r o j e c t i o n a n d L o w R a n k R e c o v e r y F r a m e w o r k P r o c e e d i n g s o f t h e t h I E E E I n t e r n a t i o n a l J o i n t C o n f e r e n c e o n N e u r a l N e t w o r k s I J C N N 张 召 R o b u s t I m a g e R e p r e s e n t a t i o n a n d D e c o m p o s i t i o n b y L a p l a c i a n R e g u l a r i z e d L a t e n t L o w R a n k R e p r e s e n t a t i o n P r o c e e d i n g s o f t h e t h I E E E I n t e r n a t i o n a l J o i n t C o n f e r e n c e o n N e u r a l N e t w o r k s I J C N N 徐 
+伟 黄河 D A T A 
+A D o u b l e A u c t i o n B a s e d T a s k A s s i g n m e n t M e c h a n i s m i n C r o w d s o u r c i n g S y s t e m s P r o c e e d i n g s o f t h e I C S T C h i n a c o m 年 月 杨 哲 O p t i m i z e d L i g h t w e i g h t A c t i v e M e a s u r e m e n t M o d e l o n P P S w a r m s o v e r I n t e r n e t S e n s o r s T r a n s d u c e r s 年 月 顾 晶 航 钱 龙华 R e s e a r c h o n B u i l d i n g F a m i l y N e t w o r k s B a s e d o n B o o t s t r a p p i n g a n d C o r e f e r e n c e R e s o l u t i o n S p r i n g e r V e r l a g B e r l i n H e i d e l b e r g 
+G 
+Z h o u e t a l 
+E d s 
+年 月 薛 佰 莉 陈 建明 T h e D e s i g n o f t h e D a t a C o l l a b o r a t i v e M a n a g e m e n t S y s t e m f o r A p p a r e l M a n u f a c t u r i n g T B I S I n t e r n a t i o n a l S y m p o s i u m 李海燕 徐 汀 荣 F a c e r e c o g n i t i o n b a s e d o n i m p r o v e d S U R F t h e r d I n t e r n a t i o n a l C o n f e r e n c e o n I n t e l l i g e n t S y s t e m D e s i g n a n d E n g i n e e r i n g A p p l i c a t i o n s 
+I S 
+年 汪 桂 琳 朱 艳 琴 N a s h B a r g a i n i n g B e t w e e n F r i e n d s f o r C o o p e r a t i v e D a t a D i s t r i b u t i o n i n a S o c i a l P e e r S w a r m i n g s y s t e m T h e I n t e r n a t i o n a l C o n f e r e n c e o n M a c h i n e L e a r n i n g a n d C y b e r n e t i c s 
+邹 蕴 晓 章 晓 芳 A H y b r i d C o v e r a g e C r i t e r i o n f o r D y n a m i c W e b T e s t i n T h e t h I n t e r n a t i o n a l C o n f e r e n c e o n S o f t w a r e E n g i n e e r i n g a n d K n o w l e d g e E n g i n e e r i n g 年 月 李正华 D e p e n d e n c y P a r s i n g 
+P a s t 
+P r e s e n t a n d F u t u r e t u t o r i a l T h e t h I n t e r n a t i o n a l J o i n t C o n f e r e n c e o n N a t u r a l L a n g u a g e P r o c e s s i n g I J C N L P 
+张 
+娟 朱 艳 琴 P r a c t i c a l a n d S e c u r e O u t s o u r c i n g o f L i n e a r A l g e b r a i n t h e C l o u d T h e F i r s t I n t e r n a t i o n a l C o n f e r e n c e o n A d v a n c e d C l o u d a n d B i g D a t a 
+李 海鸥 吕 强 A P r o t e i n P e p t i d e D o c k i n g P r o g r a m w i t h M o d e l i n g R e c e p t o r F l e x i b l e A r e a s T h e I E E E I n t e r n a t i o n a l C o n f e r e n c e o n B i o i n f o r m a t i c s a n d B i o m e d i c i n e 黄奕 清 吕 强 U s i n g E v o l u t i o n a r y C o u p l i n g s t o o p t i m i z e d i m e r p r e d i c t i o n w i t h R o s e t t a S y m D o c k T h e I E E E I n t e r n a t i o n a l C o n f e r e n c e o n B i o i n f o r m a t i c s a n d B i o m e d i c i n e 李 军 全 吕 强 P a c k i n g p r o t e i n s i d e c h a i n s b y p a r a l l e l a n t c o l o n i e s T h e I E E E I n t e r n a t i o n a l C o n f e r e n c e o n B i o i n f o r m a t i c s a n d B i o m e d i c i n e 朱 艳 琴 O p t i m i z a t i o n o f R D F l i n k t r a v e r s a l b a s e d q u e r y e x e c u t i o n 东南大学 学报 英文版 
+傅 启明 刘 全 T h e S e c o n d O r d e r T e m p o r a l D i f f e r e n c e E r r o r f o r S a r s a 国际 会议 A D P R L 
+范 瑞雪 葛娟 S t u d y o n C o o p e r a t i v e E v o l u t i o n B e h a v i o r s i n S p a t i a l P u b l i c G o o d s G a m e B a s e d o n S e l f q u e s t i o n i n g M e c h a n i s m J 
+国际 会议 V M E I T 年 月 洪 宇 一种 新型 最优 检索 发现 论证 计算机 学报 年 期 吴 宏 杰 吕 强 G P C R 跨 膜 螺旋 结构 拓扑 建模 预测 方法 计算机 学报 年 期 傅 启明 刘 全 一种 高斯 过程 带 参 近似 策略 迭代 算法 软件 学报 年 期 黄 运 娟 李 长 谱 流形 学习 算法 软件 学报 年 期 杨 季 文 胞腔 同调 边缘 学习 算法 研究 计算机 研究 发展 年 期 刘 全 一种 智能 调度 扩展 并行 强化 学习 方法 计算机 研究 发展 年 期 孙 洪 坤 刘 全 一种 优先级 扫描 D y n a 结构 优化 算法 计算机 研究 发展 年 期 陈 冬 火 符号执行 L T L 公式 重写 测试用例 方法 计算机 研究 发展 年 期 肖 
+飞 刘 全 自适 应 势函数 塑造 奖赏 机制 梯度 下降 S a r s a 算法 通信 学报 年 期 刘 全 一种 集合 期望 损失 目标 S a r s a 算法 电子学 报 年 期 穆 
+翔 刘 全 两层 模糊 划分 时间差 分 算法 通信 学报 年 期 
+俊 刘 全 优先级 扫描 D y n a 结构 贝叶斯 Q 学习 方法 通信 学报 年 期 张 广泉 体系结构 能耗 建模 C P S 软件 可信性 评估 方法 电子学 报 年 期 张 云 鹤 朱 艳 琴 拍卖 P P 内容 分发 网络带宽 分配机制 通信 学报 年 期 冷 琴 张 莉 一种 局部 稀疏 线性 嵌入 降 维 方法 
+南京大学 学报 自然科学 年 期 吴 健 局部 密度 构造 相似矩阵 谱 聚 类 算法 通信 学报 年 期 刘 全 一种 三角形 网格 空洞 修复 算法 电子学 报 年 期 郑 刚 民 马 虎 核 正交 判别 局部 正切 空间 对齐 算法 模式识别 人工智能 年 期 徐 
+朱 巧 明 篇章 分析 技术 综述 中文信息 学报 年 期 高 
+伟 李 寿山 集成 学习 半 监督 情感 分类 方法 研究 中文信息 学报 年 期 薛 云霞 李 寿山 社会关系 网络 半 监督 情感 分类 北大 学报 自然科学 版 年 期 李 寿山 情绪 相关 事件 内容 隐含 情绪 分类 方法 研究 中文信息 学报 年 期 李 寿山 双语 信息 标签 传播 算法 中文 情感 词典 构建 方法 中文信息 学报 年 期 胡 亚 楠 钱 龙华 机器翻译 跨 语言 关系 抽取 中文信息 学报 年 期 徐 华 钱 龙华 双语 依存关系 映射 中英文 词表 构建 研究 中文信息 学报 年 期 周 佩 朱 巧 明 一种 指导 隐 式 篇章 关系 推理方法 研究 中文信息 学报 年 期 唐 伟 朱 巧 明 网页 中商 品 属性 值 关系 自动 抽取 方法 研究 中文信息 学报 年 期 赵 知 纬 钱 龙华 支持 向量 机 分类 语义 信息 中文 跨 文本 指代 消解 计算机 年 期 陈 吕 强 一种 折叠 模式识别 蛋白质 结构 片段 库 构建 方法 小型 微型 计算机系统 年 期 高 伟 李 寿山 集成 学习 半 监督 情感 分类 方法 研究 中文信息 学报 年 期 李 艳 翠 周 国 栋 清华 汉语 树 库 复句 关系词 识别 分类 研究 北京大学 学报 年 期 孙 静 周 国 栋 汉语 隐 式 篇章 关系 识别 北京大学 学报 年 期 奚 雪峰 周 国 栋 D e e p L e a r n i n g 代词 指代 消解 北京大学 学报 年 期 马 彬 朱 巧 明 语义 依存 线索 事件 关系 识别方法 研究 北京大学 学报 年 期 殷 君 伟 陈 建明 一种 排序 划分 聚 类 初始化 方法 微电子学 计算机 年 期 徐 志 斌 龚 声 蓉 
+二维 板材 圆形 下料 邻居 关系 算法 小型 微型 计算机系统 年 期 纪 进 支持 V C R 操作 P P 视频点播 服务器 容量 配置 方法 小型 微型 计算机系统 年 期 张 浩 军 朱 艳 琴 面向 异构 网络 动态 负载 均衡 算法 收敛性 分析 电子 信息学 报 年 期 高 俊 伟 孔 芳 语料 中文名 词 短语 指代 消解 影响 研究 中文信息 学报 年 期 陈 坤 姚 舒 一种 预 排序 贝叶斯 网络结构 学习 算法 小型 微型 计算机系统 年 期 张 浩 军 朱 艳 琴 面向 异构 网络 动态 负载 均衡 算法 收敛性 分析 电子 信息学 报 年 期 王 晓 乾 张 莉 一种 新 李 群 分类器 在手 写 体 数字 中 
+计算机 工程 科学 
+年 期 徐 汀 荣 一种 图 无线 传感器 网络 节点 布局 计算机 软件 年 期 张 立 晓 徐 汀 荣 一种 局部 特性 邮箱 用户 发现 方法 
+计算机 软件 年 期 韩志远 徐 汀 荣 一种 H O G 颜色 双重 特征 粒子 滤波 跟踪 方法 计算机 软件 年 期 李 海 彦 徐 汀 荣 两级 D C T 正交投影 单 样本 人脸识别 计算机 软件 年 期 陈 兆 华 徐 汀 荣 运动 信息 快速 局部 遮挡 人脸 检测 计算机 软件 年 期 叶 
+鹏 朱 巧 明 一种 融合 区域 笔划 梯度 笔划 油画 生成 方法 图 学学 报 年 期 安 
+平 邓 伟 一种 基因 表达 数据 全局 检测 共 调控 基因 双 聚 类 方法 生物物理 学报 年 期 刘 
+攀 邓 伟 结点 拓扑 排序 条件 互信息 基因 调控 网络 路径 一致性 构建 算法 生物物理 学报 年 期 惠 寅 华 李 长 稀疏 信号 伦 形变 鲁棒性 特征 学习 方法 计算机 工程 科学 年 期 高 
+龙 刘 全 t a b l e a u 结点 封闭 值 非 一致性 数据库 开放 分支 修复 方法 计算机科学 年 期 温 琼 翡 朱 艳 琴 P P 流媒体 系统 激励机制 设计 分析 小型 微型 计算机系统 年 期 杨 艳 艳 杨 季 文 网格 索引 数据流 子 空间 概率 轮廓 查询 
+计算机 工程 年 期 侯 立 斌 李 培 峰 C R F s 跨 事件 事件 识别 研究 计算机 工程 年 期 曹 金华 X S M S C O M 模块 构件 化 设计 开发 微 计算机信息 年 期 曹 金华 K L A D 转换 动态 在线 校正 技术 实验室 研究 探索 年 期 张 华 鹏 张 宏 斌 A d H o c 网络 中 信用 自私 节点 检测 系统 计算机 工程 年 期 许 晴 李 长上 下文 决策树 学习 算法 机械波 图像 中 合肥工业大学 学报 年 期 刘 全 A g e n t 并行 采样 学习 经验 复用 E 算法 吉林大学 学报 年 期 刘 纯平 s t r o k e 滤波器 图像 文本 提取 实验设计 实验室 研究 探索 年 期 李 海鸥 吕 强 一种 蛋白质 肽 段 全 柔性 计算 对接 方法 计算机 应用化学 年 期 吴 瑾 嵌入式 系统 稳定性 研究 计算机 软件 年 期 张 广泉 软件 形式化 方法 课程 建设 初探 计算机科学 年 期 王 力 李 培 峰 一种 L D A 模型 主题 句 抽取 方法 计算机 工程 年 期 张 慧 李 寿山 评价 对象 类别 跨 领域 情感 分类 方法 研究 计算机科学 年 期 王 邦 军 商务 E R P 教学 初探 计算机科学 年 期 王 永 伟 樊建 席 代理 结构化 P P 网络 模型 计算机 工程 设计 年 期 朱 艳 琴 A G C D P 困难性 矩阵 同态 加密 方案 系统 仿真 学报 年 期 刘 欢欢 李 寿山 中文 情绪 识别方法 研究 江西师范大学 学报 年 期 崔 
+翔 姜 峰 真实感 动态 树 场景 研究 计算机 年 期 
+教学 辅助 平台 
+学院 经费 管理系统 校内 
+科研成果 申报 平台 校内 
+省级重点 实验室 
+计算机 教学网 校内 
+自然语言 实验室 
+C o p y r i g h t 苏州大学 计算机科学 技术 学院 A l l R i g h t s R e s e r v e d 苏州市 十 梓 街 号 
+苏 I C P 备 苏 公网 安 备 号 

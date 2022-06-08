@@ -1,0 +1,156 @@
+导航 
+首 页 
+学院 概况 
+学院 简介 
+历史沿革 
+现任 领导 
+机构 设置 
+办学 资源 
+联系方式 
+学科建设 
+江苏省 优势 学科 
+博士点 
+硕士点 
+实验室 
+师资队伍 
+师资 概况 
+教职工 名单 
+导师 简介 
+兼职 师资 
+科学研究 
+研究 中心 
+自然语言 研究 中心 
+机器 学习 图像处理 研究 中心 
+数据 科学 工业 软件 研究 中心 
+网络 科学 工程 研究 中心 
+人工智能 研究院 
+嵌入式 技术 系统 能力 培养 研究 中心 
+科研机构 
+科研项目 
+科研 论文 
+知识产权 
+科研 政策 
+人才培养 
+博士生 
+硕士生 
+本科生 
+人才培养 方案 
+课程 教学大纲 
+图灵 班 
+国际交流 
+学生 工作 
+工作队 伍 
+学工 通知 
+学工 新闻 
+规章制度 
+志愿 服务 
+学生 组织 
+勤工助学 
+心理健康 
+职业规划 
+成长 陪伴 
+党群 工作 
+基层组织 
+规章制度 
+专题 活动 
+分党 校工 作 
+发展 公示 
+关工委 工作 
+工会工作 
+P A K D D C a l l f o r P a p e r s 
+发布者 
+发布 时间 
+浏览 次数 
+C a l l f o r P a p e r s I m p o r t a n t D a t e s P a p e r s u b m i s s i o n d u e 
+p 
+m 
+P S T 
+O c t o b e r S u n 
+N o t i f i c a t i o n t o a u t h o r s 
+J a n u a r y F r i 
+C a m e r a r e a d y d u e 
+F e b r u a r y M o n 
+C o n f e r e n c e 
+M a y T u e s F r i 
+C o n f e r e n c e S c o p e T h e P a c i f i c A s i a C o n f e r e n c e o n K n o w l e d g e D i s c o v e r y a n d D a t a M i n i n g P A K D D i s a l e a d i n g i n t e r n a t i o n a l c o n f e r e n c e i n t h e a r e a s o f k n o w l e d g e d i s c o v e r y a n d d a t a m i n i n g K D D 
+I t p r o v i d e s a n i n t e r n a t i o n a l f o r u m f o r r e s e a r c h e r s a n d i n d u s t r y p r a c t i t i o n e r s t o s h a r e t h e i r n e w i d e a s 
+o r i g i n a l r e s e a r c h r e s u l t s 
+a n d p r a c t i c a l d e v e l o p m e n t e x p e r i e n c e s f r o m a l l K D D r e l a t e d a r e a s 
+i n c l u d i n g d a t a m i n i n g 
+d a t a w a r e h o u s i n g 
+m a c h i n e l e a r n i n g 
+a r t i f i c i a l i n t e l l i g e n c e 
+d a t a b a s e s 
+s t a t i s t i c s 
+k n o w l e d g e e n g i n e e r i n g 
+v i s u a l i z a t i o n 
+d e c i s i o n m a k i n g s y s t e m s 
+a n d t h e e m e r g i n g a p p l i c a t i o n s 
+T o p i c s T h e t o p i c s o f r e l e v a n c e f o r t h e c o n f e r e n c e p a p e r s i n c l u d e b u t n o t l i m i t e d t o t h e f o l l o w i n g 
+T h e o r e t i c f o u n d a t i o n s N o v e l m o d e l s a n d a l g o r i t h m s A s s o c i a t i o n a n a l y s i s C l u s t e r i n g C l a s s i f i c a t i o n S t a t i s t i c a l m e t h o d s f o r d a t a m i n i n g D a t a p r e p r o c e s s i n g F e a t u r e e x t r a c t i o n a n d s e l e c t i o n P o s t p r o c e s s i n g i n c l u d i n g q u a l i t y a s s e s s m e n t a n d v a l i d a t i o n M i n i n g h e t e r o g e n e o u s m u l t i s o u r c e d a t a M i n i n g s e q u e n t i a l d a t a M i n i n g s p a t i a l a n d t e m p o r a l d a t a M i n i n g u n s t r u c t u r e d a n d s e m i s t r u c t u r e d d a t a M i n i n g g r a p h a n d n e t w o r k d a t a M i n i n g s o c i a l n e t w o r k s M i n i n g h i g h d i m e n s i o n a l d a t a M i n i n g u n c e r t a i n d a t a M i n i n g i m b a l a n c e d d a t a M i n i n g d y n a m i c s t r e a m i n g d a t a M i n i n g b e h a v i o r a l d a t a M i n i n g m u l t i m e d i a d a t a M i n i n g s c i e n t i f i c d a t a P r i v a c y p r e s e r v i n g d a t a m i n i n g A n o m a l y d e t e c t i o n F r a u d a n d r i s k a n a l y s i s S e c u r i t y a n d i n t r u s i o n d e t e c t i o n V i s u a l d a t a m i n i n g I n t e r a c t i v e a n d o n l i n e m i n i n g U b i q u i t o u s k n o w l e d g e d i s c o v e r y a n d a g e n t b a s e d d a t a m i n i n g I n t e g r a t i o n o f d a t a w a r e h o u s i n g 
+O L A P 
+a n d d a t a m i n i n g P a r a l l e l 
+d i s t r i b u t e d 
+a n d c l o u d b a s e d h i g h p e r f o r m a n c e d a t a m i n i n g O p i n i o n m i n i n g a n d s e n t i m e n t a n a l y s i s H u m a n 
+d o m a i n 
+o r g a n i z a t i o n a l 
+a n d s o c i a l f a c t o r s i n d a t a m i n i n g A p p l i c a t i o n s t o h e a l t h c a r e 
+b i o i n f o r m a t i c s 
+c o m p u t a t i o n a l c h e m i s t r y 
+f i n a n c e 
+e c o i n f o r m a t i c s 
+m a r k e t i n g 
+g a m i n g 
+c y b e r s e c u r i t y e t c 
+P a p e r S u b m i s s i o n T h e s u b m i t t e d p a p e r s h o u l d a d h e r e t o t h e 
+d o u b l e b l i n d 
+r e v i e w p o l i c y 
+A l l p a p e r s w i l l b e d o u b l e b l i n d r e v i e w e d b y t h e P r o g r a m C o m m i t t e e o n t h e b a s i s o f t e c h n i c a l q u a l i t y 
+r e l e v a n c e t o d a t a m i n i n g 
+o r i g i n a l i t y 
+s i g n i f i c a n c e 
+a n d c l a r i t y 
+A l l p a p e r s u b m i s s i o n s w i l l b e h a n d l e d e l e c t r o n i c a l l y 
+D e t a i l e d i n s t r u c t i o n s a r e p r o v i d e d o n t h e c o n f e r e n c e h o m e p a g e 
+P a p e r s t h a t d o n o t c o m p l y w i t h t h e S u b m i s s i o n G u i d e l i n e s w i l l b e r e j e c t e d w i t h o u t r e v i e w 
+E a c h s u b m i t t e d p a p e r s h o u l d i n c l u d e a n a b s t r a c t u p t o w o r d s a n d b e n o l o n g e r t h a n 
+s i n g l e s p a c e d p a g e s w i t h p t f o n t s i z e 
+A u t h o r s a r e s t r o n g l y e n c o u r a g e d t o u s e S p r i n g e r L N C S L N A I m a n u s c r i p t s u b m i s s i o n g u i d e l i n e s f o r t h e i r i n i t i a l s u b m i s s i o n s 
+A l l p a p e r s m u s t b e s u b m i t t e d e l e c t r o n i c a l l y t h r o u g h t h e p a p e r s u b m i s s i o n s y s t e m i n P D F f o r m a t o n l y 
+T h e s u b m i t t e d p a p e r s m u s t n o t b e p r e v i o u s l y p u b l i s h e d a n y w h e r e a n d m u s t n o t b e u n d e r c o n s i d e r a t i o n b y a n y o t h e r c o n f e r e n c e o r j o u r n a l d u r i n g t h e P A K D D r e v i e w p r o c e s s 
+S u b m i t t i n g a p a p e r t o t h e c o n f e r e n c e m e a n s t h a t i f t h e p a p e r w a s a c c e p t e d 
+a t l e a s t o n e a u t h o r w i l l a t t e n d t h e c o n f e r e n c e t o p r e s e n t t h e p a p e r 
+F o r n o s h o w a u t h o r s 
+t h e i r p a p e r s w i l l n o t b e i n c l u d e d i n t h e p r o c e e d i n g s 
+T h e c o n f e r e n c e w i l l c o n f e r s e v e r a l a w a r d s i n c l u d i n g B e s t P a p e r A w a r d s 
+B e s t S t u d e n t P a p e r A w a r d s 
+a n d B e s t A p p l i c a t i o n P a p e r A w a r d s f r o m t h e s u b m i s s i o n s 
+T h e p r o c e e d i n g s o f t h e c o n f e r e n c e w i l l b e p u b l i s h e d b y S p r i n g e r a s a v o l u m e o f t h e L N A I s e r i e s 
+a n d s e l e c t e d e x c e l l e n t p a p e r s w i l l b e i n v i t e d f o r p u b l i c a t i o n s i n s p e c i a l i s s u e s o f h i g h q u a l i t y j o u r n a l s i n c l u d i n g K n o w l e d g e a n d I n f o r m a t i o n S y s t e m s K A I S a n d I n t e r n a t i o n a l J o u r n a l o f D a t a S c i e n c e a n d A n a l y t i c s 
+B e f o r e s u b m i t t i n g y o u r p a p e r 
+p l e a s e c a r e f u l l y r e a d a n d a g r e e w i t h t h e P A K D D s u b m i s s i o n p o l i c y a n d n o s h o w p o l i c y 
+h t t p 
+p a k d d 
+o r g p o l i c y 
+h t m l 
+S u b m i s s i o n S i t e 
+h t t p s 
+c m t 
+r e s e a r c h 
+m i c r o s o f t 
+c o m P A K D D L a T e X a n d W o r d T e m p l a t e s S u b m i s s i o n G u i d e l i n e s 
+h t t p s 
+w w w 
+s p r i n g e r 
+c o m c o m p u t e r l n c s 
+S G W I D F u r t h e r I n f o r m a t i o n F o r f u r t h e r i n f o r m a t i o n 
+p l e a s e c o n t a c t t h e P r o g r a m C o m m i t t e e C h a i r s a t p a k d d a t g m a i l 
+c o m 
+教学 辅助 平台 
+学院 经费 管理系统 校内 
+科研成果 申报 平台 校内 
+省级重点 实验室 
+计算机 教学网 校内 
+自然语言 实验室 
+C o p y r i g h t 苏州大学 计算机科学 技术 学院 A l l R i g h t s R e s e r v e d 苏州市 十 梓 街 号 
+苏 I C P 备 苏 公网 安 备 号 

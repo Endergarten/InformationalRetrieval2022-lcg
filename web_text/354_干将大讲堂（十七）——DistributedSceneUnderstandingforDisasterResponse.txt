@@ -1,0 +1,123 @@
+导航 
+首 页 
+学院 概况 
+学院 简介 
+历史沿革 
+现任 领导 
+机构 设置 
+办学 资源 
+联系方式 
+学科建设 
+江苏省 优势 学科 
+博士点 
+硕士点 
+实验室 
+师资队伍 
+师资 概况 
+教职工 名单 
+导师 简介 
+兼职 师资 
+科学研究 
+研究 中心 
+自然语言 研究 中心 
+机器 学习 图像处理 研究 中心 
+数据 科学 工业 软件 研究 中心 
+网络 科学 工程 研究 中心 
+人工智能 研究院 
+嵌入式 技术 系统 能力 培养 研究 中心 
+科研机构 
+科研项目 
+科研 论文 
+知识产权 
+科研 政策 
+人才培养 
+博士生 
+硕士生 
+本科生 
+人才培养 方案 
+课程 教学大纲 
+图灵 班 
+国际交流 
+学生 工作 
+工作队 伍 
+学工 通知 
+学工 新闻 
+规章制度 
+志愿 服务 
+学生 组织 
+勤工助学 
+心理健康 
+职业规划 
+成长 陪伴 
+党群 工作 
+基层组织 
+规章制度 
+专题 活动 
+分党 校工 作 
+发展 公示 
+关工委 工作 
+工会工作 
+干将 大讲堂 十七 D i s t r i b u t e d S c e n e U n d e r s t a n d i n g f o r D i s a s t e r R e s p o n s e 
+发布者 
+发布 时间 
+浏览 次数 
+时间 
+年 月 日 
+腾讯 会议 
+摘要 
+A l t h o u g h t h e r i s e o f d e p t h s e n s o r t e c h n o l o g i e s g i v e s a h u g e b o o s t t o r o b o t i c v i s i o n r e s e a r c h 
+t r a d i t i o n a l a p p r o a c h e s c a n n o t b e a p p l i e d t o d i s a s t e r h a n d l i n g r o b o t s d i r e c t l y d u e t o s o m e l i m i t a t i o n s 
+W e f o c u s o n t h e D r o b o t i c p e r c e p t i o n a n d p r o p o s e a v i e w i n v a r i a n t C o n v o l u t i o n a l N e u r a l N e t w o r k C N N M o d e l f o r s c e n e u n d e r s t a n d i n g i n d i s a s t e r s c e n a r i o s 
+T h e p r o p o s e d s y s t e m i s h i g h l y d i s t r i b u t e d a n d p a r a l l e l 
+w h i c h i s o f g r e a t h e l p t o i m p r o v e t h e e f f i c i e n c y o f n e t w o r k t r a i n i n g 
+I n o u r s y s t e m 
+t w o i n d i v i d u a l C N N s a r e u s e d t o 
+r e s p e c t i v e l y 
+p r o p o s e o b j e c t s f r o m i n p u t d a t a a n d c l a s s i f y t h e i r c a t e g o r i e s 
+W e a t t e m p t t o o v e r c o m e t h e d i f f i c u l t i e s a n d r e s t r i c t i o n s c a u s e d b y d i s a s t e r s u s i n g s e v e r a l s p e c i a l l y d e s i g n e d m u l t i t a s k l o s s f u n c t i o n s 
+T h e m o s t s i g n i f i c a n t a d v a n t a g e i n o u r w o r k i s t h a t t h e p r o p o s e d m e t h o d c a n l e a r n a v i e w i n v a r i a n t f e a t u r e w i t h n o r e q u i r e m e n t o n R G B d a t a 
+w h i c h i s e s s e n t i a l f o r h a r s h 
+d i s o r d e r e d a n d c h a n g e a b l e e n v i r o n m e n t s 
+A d d i t i o n a l l y 
+a n e f f e c t i v e o p t i m i z a t i o n a l g o r i t h m t o a c c e l e r a t e t h e l e a r n i n g p r o c e s s i s a l s o i n c l u d e d i n o u r w o r k 
+K a o r u O t a 简介 
+K a o r u O t a r e c e i v e d M 
+S 
+d e g r e e i n C o m p u t e r S c i e n c e f r o m O k l a h o m a S t a t e U n i v e r s i t y 
+t h e U S A i n 
+B 
+S 
+a n d P h 
+D 
+d e g r e e s i n C o m p u t e r S c i e n c e a n d E n g i n e e r i n g f r o m T h e U n i v e r s i t y o f A i z u 
+J a p a n i n 
+r e s p e c t i v e l y 
+K a o r u i s c u r r e n t l y a n A s s o c i a t e P r o f e s s o r a n d M i n i s t r y o f E d u c a t i o n 
+C u l t u r e 
+S p o r t s 
+S c i e n c e a n d T e c h n o l o g y M E X T E x c e l l e n t Y o u n g R e s e a r c h e r w i t h t h e D e p a r t m e n t o f S c i e n c e s a n d I n f o r m a t i c s 
+M u r o r a n I n s t i t u t e o f T e c h n o l o g y 
+J a p a n 
+F r o m M a r c h t o M a r c h 
+s h e w a s a v i s i t i n g s c h o l a r a t t h e U n i v e r s i t y o f W a t e r l o o 
+C a n a d a 
+A l s o 
+s h e w a s a J a p a n S o c i e t y o f t h e P r o m o t i o n o f S c i e n c e J S P S r e s e a r c h f e l l o w a t T o h o k u U n i v e r s i t y 
+J a p a n f r o m A p r i l t o A p r i l 
+K a o r u i s t h e r e c i p i e n t o f I E E E T C S C E a r l y C a r e e r A w a r d 
+T h e t h I E E E C o m S o c A s i a P a c i f i c Y o u n g R e s e a r c h e r A w a r d 
+N W o m e n 
+R i s i n g S t a r s i n C o m p u t e r N e t w o r k i n g a n d C o m m u n i c a t i o n s 
+K D D I F o u n d a t i o n E n c o u r a g e m e n t a w a r d 
+a n d I E E E S a p p o r o Y o u n g P r o f e s s i o n a l s B e s t R e s e a r c h e r A w a r d 
+S h e i s C l a r i v a t e A n a l y t i c s H i g h l y C i t e d R e s e a r c h e r W e b o f S c i e n c e a n d i s s e l e c t e d a s J S T P r e s t o r e s e a r c h e r i n 
+主办单位 
+江苏省 网络空间 安全工程 实验室 江苏省 计算机信息 技术 重点 实验室 苏州大学 计算机科学 技术 学院 苏州市 人工智能 学会 机器 学习 类 脑 计算 国际 合作 实验室 
+教学 辅助 平台 
+学院 经费 管理系统 校内 
+科研成果 申报 平台 校内 
+省级重点 实验室 
+计算机 教学网 校内 
+自然语言 实验室 
+C o p y r i g h t 苏州大学 计算机科学 技术 学院 A l l R i g h t s R e s e r v e d 苏州市 十 梓 街 号 
+苏 I C P 备 苏 公网 安 备 号 

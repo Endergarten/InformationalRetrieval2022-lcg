@@ -1,0 +1,525 @@
+导航 
+首 页 
+学院 概况 
+学院 简介 
+历史沿革 
+现任 领导 
+机构 设置 
+办学 资源 
+联系方式 
+学科建设 
+江苏省 优势 学科 
+博士点 
+硕士点 
+实验室 
+师资队伍 
+师资 概况 
+教职工 名单 
+导师 简介 
+兼职 师资 
+科学研究 
+研究 中心 
+自然语言 研究 中心 
+机器 学习 图像处理 研究 中心 
+数据 科学 工业 软件 研究 中心 
+网络 科学 工程 研究 中心 
+人工智能 研究院 
+嵌入式 技术 系统 能力 培养 研究 中心 
+科研机构 
+科研项目 
+科研 论文 
+知识产权 
+科研 政策 
+人才培养 
+博士生 
+硕士生 
+本科生 
+人才培养 方案 
+课程 教学大纲 
+图灵 班 
+国际交流 
+学生 工作 
+工作队 伍 
+学工 通知 
+学工 新闻 
+规章制度 
+志愿 服务 
+学生 组织 
+勤工助学 
+心理健康 
+职业规划 
+成长 陪伴 
+党群 工作 
+基层组织 
+规章制度 
+专题 活动 
+分党 校工 作 
+发展 公示 
+关工委 工作 
+工会工作 
+苏 N L P 团队 合作 单位 篇 论文 C C F A 类 国际 会议 A C L I J C A I 录用 
+发布者 
+综合 办公室 发布 时间 
+浏览 次数 
+苏州大学 自然语言 团队 合作 单位 近期 C C F A 类 国际 会议 A C L 发表 篇 论文 
+包括 篇 长文 
+篇 短文 
+篇 F i n d i n g s 长文 
+I J C A I 发表 篇 长文 
+文章 涵盖 领域 包括 词法 句法分析 
+语义 分析 
+命名 实体 识别 
+篇章 分析 
+阅读 理解 
+文本 生成 
+机器翻译 
+摘要 
+预 训练 对话 评测 
+自然语言 
+N L P 领域 顶级 国际 会议 A C L I J C N L P T h e J o i n t C o n f e r e n c e o f t h e t h A n n u a l M e e t i n g o f t h e A s s o c i a t i o n f o r C o m p u t a t i o n a l L i n g u i s t i c s a n d t h e t h I n t e r n a t i o n a l J o i n t C o n f e r e n c e o n N a t u r a l L a n g u a g e P r o c e s s i n g 年 月 日 在线 原定 泰国 曼谷 
+一年一度 全球 学术 大会 A C L 自然语言 领域 受 关注 国际 学术会议 
+本届 A C L 引入 新 在线 附属 出版物 F i n d i n g s o f A C L 
+A C L I J C N L P 共收 投稿 篇 
+% 论文 A C L 主 录取 
+% 论文 F i n d i n g s o f A C L 录取 
+人工智能 A I 领域 顶级 国际 会议 I J C A I T h e t h I n t e r n a t i o n a l J o i n t C o n f e r e n c e o n A r t i f i c i a l I n t e l l i g e n c e 年 月 日 在线 原定 加拿大 蒙特利尔 
+会议 共计 收到 投稿 篇 
+最终 共有 篇 论文 大会 录用 
+总 录用 率 
+% 
+文章 列表 
+T i t l e 
+A n I n d e p t h S t u d y o n I n t e r n a l S t r u c t u r e o f C h i n e s e W o r d s 词法 句法 合作 单位 
+华为 A C L 题目 
+汉语 词 内部结构 深层 研究 作者 
+龚 晨 
+黄 赛 豪 
+周 厚 全 
+李正华 
+张 民 
+王 喆 锋 
+怀 宝兴 
+袁 晶 摘要 
+英文字母 
+汉字 含义 
+词 意义 某种程度 汉字 派生 
+前人 句法分析 工作 提出 浅层 词 内部结构 标注 更好 地利 用字 级别 信息 
+本文 提出 汉语 词 深层 内部结构 建模 包含 标签 依存 树 
+用于 区分 词 内部结构 中 依存关系 
+最新 编写 标注 规范 
+人工 标注 来源于 中文 宾州 树 库 包含 超过 万个 词 词 内部结构 W I S T 
+保证 标注 质量 
+词 两个 标注 独立 标注 
+第三个 标注 标注 情况 
+W I S T 详细 而有 趣 分析 
+揭示 汉语 构词 见解 
+第三 
+提出 词 内部结构 分析 新任 务 
+先进 句法分析 器 基准 实验 
+提出 两种 简单 编码 词 内部结构 方法 
+句法分析 中 验证 汉语 词 内部结构 作用 
+T i t l e 
+M o r e t h a n T e x t 
+M u l t i m o d a l C h i n e s e W o r d S e g m e n t a t i o n 中文 分词 A C L 
+S h o r t P a p e r 题目 
+文本 
+多模 态 中文 分词 
+作者 
+张 栋 
+胡 政 
+李 寿山 
+吴 含 前 
+朱 巧 明 
+周 国 栋 摘要 
+毫无疑问 
+中文 分词 自然语言 中 一项 基础性 工作 
+以往 研究 仅 关注 文本 模态 
+现实 音频 视频 内容 新闻广播 面对面 对话 
+包括 文本 
+声学 视觉 模态 
+尝试 多模 态 信息 本文 中 转换 文本 真实 音频 信息 分词 
+本文 标注 一个包 含 文本 音频 全新 中文 分词 数据 集 
+提出 T r a n s f o r m e r 框架 时间 依赖 多模 态 交互 模型 
+整合 多模 态 信息 序列 标注 
+三种 训练 集 实验 结果表明 
+方法 文本 音频 间 步 融合 分词 
+T i t l e 
+X L P T A M R 
+C r o s s L i n g u a l P r e T r a i n i n g v i a M u l t i T a s k L e a r n i n g f o r Z e r o S h o t A M R P a r s i n g a n d T e x t G e n e r a t i o n 语义 分析 合作 单位 
+腾讯 A C L 题目 
+多任务 语言 预 训练 零 资源 A M R 分析 文本 生成 作者 
+徐 东 钦 
+李 军 辉 
+朱 慕 华 
+张 民 
+周 国 栋 摘要 
+英文 A M R 研究 
+缺少 人工 标注 数据 
+语言 A M R 研究 受限 
+本文 借助于 预 训练 技术 
+提出 零 资源 跨 语言 A M R 分析 文本 生成 方案 
+英语 看作 枢轴 语言 
+提出 多任务 学习 跨 语言 预 训练方法 
+预 训练 模型 
+提出 多种不同 微调 方法 
+实验 结果表明 
+借助 方法 
+本文 方法 极大地提高 现有 研究 水平 
+德语 
+西班牙语 意大利语 A M R 分析 文本 生成 中 提高 约 点 性能 
+T i t l e 
+E n h a n c i n g E n t i t y B o u n d a r y D e t e c t i o n f o r B e t t e r C h i n e s e N a m e d E n t i t y R e c o g n i t i o n 命名 实体 识别 A C L 
+S h o r t P a p e r 题目 
+融入 实体 边界 信息 中文 命名 实体 识别 作者 
+陈 淳 
+孔 芳 摘要 
+命名 实体 识别 旨在 识别 出自 然 语言 文本 中 特定 含义 实体 
+典型 序列 标注 
+命名 实体 识别 长期 发展 中 B i L S T M C R F 深度 学习 框架 
+英文 相比 
+中文 词语 边界 显 式 实体 边界 变化 
+中文 命名 实体 识别 形势 严峻 
+有待 进一步 发展 
+T r a n s f o r m e r N L P 领域 超越 R N N 类 模型 
+命名 实体 识别 效果 佳 
+轻量级 S t a r T r a n s f o r m e r 序列 结构化 编码 
+b a s e l i n e 
+此基础 
+本文 提出 融入 实体 边界 信息 命名 实体 识别 统一 模型 
+两个 增强 实体 边界 信息 
+图 注意力 网络 G A T 实体 内部 词语 依存关系 编码 
+配合 S t a r T r a n s f o r m e r 进一步 捕获 实体 内部 语义 特征 
+实体 边界 识别 看作 两个 二分 类 实体 h e a d t a i l 识别 命名 实体 识别 训练 
+赋予 命名 实体 识别 实体 边界 
+实验 
+本文 给出 模型 规范 文本 O n t o N o t e s 非 规范 文本 W e i b o 语料 S O T A 
+T i t l e 
+A d v e r s a r i a l L e a r n i n g f o r D i s c o u r s e R h e t o r i c a l S t r u c t u r e P a r s i n g 篇章 分析 A C L 题目 
+面向 篇章 修辞 结构 解析 对抗 学习 算法 作者 
+张 龙 印 
+孔 芳 
+周 国 栋 摘要 
+缺乏 训练 数据 
+文本 级 篇章 修辞 结构 解析 极具 挑战性 研究课题 
+提出 自顶向下 篇章 修辞 结构 解析器 地利 全局 篇章 上下文 信息 进展 
+解析性 出色 
+所知 
+以往 篇章 修辞 结构 解析器 均 解析 步骤 局部 决策 底向上 节点 合成 自顶向下 分割 点 排序 
+很大 程度 忽略 全局 角度 篇章 修辞 结构 解析 
+仅 局部 决策 构建 篇章 修辞 结构 树 远远不够 
+工作 中 
+期望 评估 整棵 篇章 树 优劣 篇章 修辞 结构 解析 全局 优化 
+最新 自顶向下 解析 架构 
+提出 一种 全新 方法 标准 篇章 树 自动 篇章 树 转换 带 双 颜色 通道 篇章 树 图 
+标准 树 图 自动 树 图 之间 训练 对抗 机器人 全局 角度 评估 生成 篇章 修辞 结构 树 优劣 
+英文 R S T D T 中文 C D T B 语料库 上进 行 实验 
+原始 P a r s e v a l 进行性 评估 
+实验 结果表明 
+最新 篇章 修辞 结构 解析器 相比 
+解析器 提升 解析性 
+T i t l e 
+D u R e a d e r R o b u s t 
+A C h i n e s e D a t a s e t T o w a r d s E v a l u a t i n g R o b u s t n e s s a n d G e n e r a l i z a t i o n o f M a c h i n e R e a d i n g C o m p r e h e n s i o n i n R e a l W o r l d A p p l i c a t i o n S c e n a r i o s 阅读 理解 
+合作 单位 
+百度 A C L 
+S h o r t P a p e r 题目 
+D u R e a d e r R o b u s t 
+评估 真实 场景 下机 器 阅读 理解 鲁棒性 泛化 性 中文 数据 集 作者 
+唐 竑 轩 
+李 弘 宇 
+刘 璟 
+洪 宇 
+吴 华 
+王 海峰 摘要 
+机器 阅读 理解 M R C N L P 领域 中 一项 至关重要 富有 挑战 
+本文 提出 全新 中文机 器 阅读 理解 数据 集 D u R e a d e r R o b u s t 
+旨在 过敏 感 
+稳定 泛化 能力 三个 评估 现有 M R C 模型 场景 中 鲁棒性 泛化 性 
+D u R e a d e r R o b u s t 中 样 例 均 真实 用户 提供 自然 文本 
+本文 详细 阐述 数据 集 构建 方式 
+本文 D u R e a d e r R o b u s t 行 实验 
+希望 实验 启发 未来 M R C 研究 
+公开 D u R e a d e r R o b u s t 数据 集 中文 M R C 语料 资源 
+T i t l e 
+I m p r o v i n g T e x t G e n e r a t i o n w i t h D y n a m i c M a s k i n g a n d R e c o v e r i n g 文本 生成 合作 单位 
+腾讯 I J C A I 题目 
+利用 动态 覆盖 还原 单词 提高 文本 生成 性能 作者 
+刘 志 东 
+李 军 辉 
+朱 慕 华 摘要 
+文本 生成 源 端 输入 采用 编码器 解码器 结构 
+提高 文本 生成 鲁棒性 方法 受限于 形式 输入 
+文本 生成 
+本文 编码器 解码器 结构 基础 提出 一种 增强 模型 语义 捕获 能力 方法 
+方法 文本 生成 
+具体做法 
+训练 过程 中 目标 端的 文本 序列 比例 随机 覆盖 
+约束 解码器 生成 完整 目标 序列 引入 辅助 用于 还原 被覆 盖掉 单词 
+机器翻译 
+A M R t o T e x t 图像 描述 三个 文本 生成 实验 
+方法 输入 形态 场景 提高 文本 生成 性能 
+T i t l e 
+B r e a k i n g t h e C o r p u s B o t t l e n e c k f o r C o n t e x t A w a r e N e u r a l M a c h i n e T r a n s l a t i o n w i t h a N o v e l J o i n t P r e t r a i n i n g A p p r o a c h 机器翻译 
+合作 单位 
+阿里 
+A C L 题目 
+利用 联合 预 训练任务 打破 上下文 感知 神经 机器翻译 语料 缺乏 瓶颈 作者 
+陈 林 卿 
+李 军 辉 
+贡 正 仙 
+陈 博兴 
+骆 卫 华 
+张 民 
+周 国 栋 摘要 
+上下文 感知 神经 机器翻译 N M T 缺乏 大规模 文档 级 平行 数据 挑战性 
+突破 语料库 瓶颈 
+本文 利用 大规模 句子 级 平行 数据 集 源 端 单 语文 档 改进 上下文 感知 N M T 
+目的 
+提出 两项 预 训练任务 
+句子 级 平行 数据 集中学习 句子 源语言 翻译成 目标语言 
+单 语文 档 上学 习 文档 加 噪 版本 翻译成 原始 版本 
+两个 预 训练任务 模型 学习 
+利用 规模 有限 平行 文档 语料 从句 子 级 和文 档级 角度 对模型 微调 
+四个 翻译 实验 结果表明 
+方法 提高 翻译 性能 
+方法 特性 
+微调 模型 用于 翻译 句子 和文 档 
+T i t l e 
+I m p r o v i n g C o n t e x t A w a r e N e u r a l M a c h i n e T r a n s l a t i o n w i t h S o u r c e s i d e M o n o l i n g u a l D o c u m e n t s 机器翻译 合作 单位 
+阿里 I J C A I 题目 
+源 端 单 语 篇章 语料 提高 上下文 感知 神经 机器翻译 性能 作者 
+陈 林 卿 
+李 军 辉 
+贡 正 仙 
+段 湘 煜 
+陈 博兴 
+骆 卫 华 
+张 民 
+周 国 栋 摘要 
+充分利用 源 端 单 语文 档 上下文 感知 N M T 
+首次 提出 一种 新 监督 预 训练任务 
+包含 两个 训练 目标 
+破损 句子 中 重建 原 句 
+相邻 句子 中生 成 间隙 句 
+设计 一个通 预 训练 全局 上下文 P G C 模型 
+模型 全局 上下文 编码器 
+句子 编码器 解码器 
+结构 典型 上下文 感知 N M T 模型 
+预先 训练 P G C 模型 下游 上下文 感知 N M T 模型 评估 有效性 通用性 
+四种 翻译 实验 
+P G C 方法 提高 上下文 感知 N M T 翻译 性能 
+最先 进 S A N 模型 
+四个 翻译 平均 提高 
+B L E U 值 
+M e t e o r 值 
+T i t l e 
+C o m b i n i n g S t a t i c W o r d E m b e d d i n g s a n d C o n t e x t u a l R e p r e s e n t a t i o n s f o r B i l i n g u a l L e x i c o n I n d u c t i o n 机器翻译 合作 单位 
+阿里 
+F i n d i n g s o f A C L 题目 
+静态 词 向量 上下文 双语 词典 归纳 作者 
+张 金 鹏 
+季 佰 军 
+肖 妮 妮 
+段 湘 煜 
+张 民 
+施 杨斌 
+骆 卫 华 摘要 
+双语 词典 归纳 B L I 旨在 寻找 源语言 单词 目标语言 中 翻译 
+典型 方法 学习 线性变换 对齐 单词表 示 空间 
+两类 典型 词 向量 方法 
+静态 词 向量 上下文 向量 
+用于 探索 双语 词典 归纳 
+研究 两类 方法 
+本文 提出 一种 简单 机制 静态 词 向量 上下文 向量 
+机制 双语 词典 归纳 时 充分发挥 优点 
+监督 监督 基准 设置 上进 行 实验 
+测试 机制 多种语言 双语 词典 归纳 效果 
+实验 结果表明 方法 语言 稳定 提升 
+监督 设置 中 
+平均 提升 
+百分点 
+监督 设置 中 
+平均 提升 
+百分点 
+超越 现有 系统 
+T i t l e 
+L a y o u t L M v 
+M u l t i m o d a l P r e t r a i n i n g f o r V i s u a l l y r i c h D o c u m e n t U n d e r s t a n d i n g 预 训练 合作 单位 
+哈工大 
+微软 A C L 题目 
+L a y o u t L M v 
+面向 富 视觉 信息 文档 理解 多模 态 预 训练 作者 
+徐 阳 
+徐 毅 恒 
+吕 超 
+崔 磊 
+韦 福 
+G u o x i n W a n g 
+Y i j u a n L u 
+D i n e i F l o r e n c i o 
+C h a Z h a n g 
+车 万 翔 
+张 民 
+周礼 栋 摘要 
+现实生活 中 种类 繁多 文档 扫描 电子版 票据 
+报告 
+文件 包含 布局 
+图像 视觉 信息 
+文本 入手 难以 挖掘 其内 容 
+本文 提出 L a y o u t L M v 带有 空间感 知 注意力 机制 多模 态 T r a n s f o r m e r 编码器 网络 
+统一 建模 文本 
+图像 
+布局 三种 模态 信息 
+大规模 标注 文档 数据 预 训练 通用 文档 理解 模型 
+预 训练任务 
+现有 遮罩 式 视觉 语言 模型 M a s k e d V i s u a l L a n g u a g e M o d e l i n g 外 
+L a y o u t L M v 引入 新 文本 图像 对齐 T e x t I m a g e A l i g n m e n t 文本 图像匹配 T e x t I m a g e M a t c h i n g 
+模型 位置 语义 层面 对齐 多模 态 信息 
+实验 结果表明 
+预 训练 微调 L a y o u t L M v 模型 类型 六个 文档 理解 数据 集 优于 基线 方法 
+世界领先 水平 
+T i t l e 
+B r i d g i n g S u b w o r d G a p s i n P r e t r a i n F i n e t u n e P a r a d i g m f o r N a t u r a l L a n g u a g e G e n e r a t i o n 篇章 理解 
+预 训练 合作 单位 
+厦门大学 
+阿里 A C L 题目 
+解决 自然语言 生成 预 训练 微调 范式 中 字词 粒度 差异 作者 
+刘 鑫 
+杨 宝 嵩 
+刘 恒 
+张 海波 
+骆 卫 华 
+张 民 
+张 海 英 
+苏 劲松 摘要 
+预 训练 微调 范式 局限性 固定 词表 带来 不灵 活 
+一局 限 削弱 预 训练 模型 自然语言 生成 时 效果 
+上下游 子 词 分布 差异 时 
+解决 
+传统 预 训练 微调 范式 基础 引入 词 嵌入 转移 步骤 
+设计 一种 即插即用 词 嵌入 生成器 用于 生成 任意 输入 词语 词 嵌入 
+一过 程 生成器 参照 形态 预 训练 词表 词 嵌入 
+下游 中 上游 匹配 词语 词 嵌入 初始化 
+多个 生成式 预 训练 微调 范式 实验 
+实验 分析表明 提出 策略 保证 上下游 词表 自由 迁移 
+下游 生成 提升 模型 效果 
+T i t l e 
+A S t r u c t u r e S e l f A w a r e M o d e l f o r D i s c o u r s e P a r s i n g o n M u l t i P a r t y D i a l o g u e s 篇章 分析 合作 单位 
+厦门大学 
+腾讯 
+阿里 
+I J C A I 题目 
+对话 篇章 解析 结构 自感 知 模型 作者 
+王 安 特 
+宋 霖 峰 
+蒋 辉 
+赖 少 鹏 
+姚 俊 峰 
+张 民 
+苏 劲松 摘要 
+对话 篇章 结构 描述 对话 组织 方式 
+对对 话 理解 生成 
+本文 关注 对话 场景 篇章 结构 预测 
+工作 采用 增量 式 生成 方法 
+利用 历史 预测 结构 信息 辅助 预测 关系 生成 
+方式 了结 构 关系 间 关联 信息 
+错误 传播 性能 影响 
+缓解 错误 传播 
+提出 一种 结构 自感 知 模型 
+模型 采用 关注 结构 关系 图 神经网络 
+更新 句 间 结构 信息 
+学习 结构 
+采用 额外 训练 信号 辅助 学习 
+两个 对话 篇章 解析 数据 集 验证 模型 有效性 
+T i t l e 
+B A S S 
+B o o s t i n g A b s t r a c t i v e S u m m a r i z a t i o n w i t h U n i f i e d S e m a n t i c G r a p h 文本 摘要 合作 单位 
+北大 
+百度 A C L 题目 
+B A S S 
+统一 语义 图 生成式 文本 摘要 作者 
+吴 文 浩 
+李 伟 
+肖 欣 延 
+刘家 辰 
+曹 自强 
+李 素 建 
+吴 华 
+王 海峰 摘要 
+S e q S e q 结构 
+长文 档 文档 生成式 摘要 挑战性 
+S e q S e q 擅长 学习 文本 中 长距离 关系 
+本文 中 
+介绍 B A S S 模型 
+一种 统一 语义 图 生成式 摘要 框架 
+框架 利用 统一 语义 图 聚合 分布 长上 下文 中 共 指 短语 
+挖掘 短语 之间 关系 
+本文 提出 一种 图 编码器 解码器 模型 
+以利 图 结构 改进 文档 摘要 生成 过程 
+本文 在编 码 过程 中 设计 图 增强 方法 
+解码 过程 中 设计 图 传播 机制 摘要 生成 中 内容 选择 语言 组织 
+实证 结果表明 
+本文 提出 方法 长文 档 文档 摘要 带来 改进 
+T i t l e 
+C o d e S u m m a r i z a t i o n w i t h S t r u c t u r e i n d u c e d T r a n s f o r m e r 摘要 生成 合作 单位 
+上海交大 F i n d i n g s o f A C L 题目 
+结构 诱导 T r a n s f o r m e r 代码 摘要 生成 作者 
+伍 鸿 秋 
+赵 海 
+张 民 摘要 
+语言 理解 领域 
+代码 摘要 C o d e s u m m a r i z a t i o n 极具 潜力 研究 方向 
+旨在 程序语言 生成 注释 
+以此 助于 程序开发 工作 
+程序语言 结构化 
+前人 尝试 结构 遍历 s t r u c t u r e b a s e d t r a v e r s a l 或非 序列化 模型 
+树形 L S T M 
+图 神经网络 
+学习 程序 语义 
+令人 惊讶 
+T r a n s f o r m e r 相比 L S T M 先进 编码器 中 融入 结构 遍历 性能 提升 
+图 神经网络 建模 该类 结构 信息 唯一 方法 
+减少 不便 
+提出 了结 构 诱导 T r a n s f o r m e r s t r u c t u r e i n d u c e d T r a n s f o r m e r 
+全新 结构 诱导 注意力 机制 
+代码 序列 视角 结构 信息 编码 
+实验 
+证明 了结 构 诱导 T r a n s f o r m e r 基准 数据 集 上达 新 S O T A 
+T i t l e 
+E n h a n c i n g t h e O p e n D o m a i n D i a l o g u e E v a l u a t i o n i n L a t e n t S p a c e 对话 评测 
+合作 单位 
+北大 
+腾讯 
+人大 F i n d i n g s o f A C L 题目 
+隐 空间 增强 开放 域 对话 评测 作者 
+产 张 明 
+刘 乐 茂 
+李俊 涛 
+张 海松 
+赵 东 岩 
+史 树 明 
+严 睿 摘要 
+开放 域 对话 中 o n e t o m a n y 特性 导致 自动 评估 方法 设计 挑战 
+研究 试图 生成 回复 对话 上下文 匹配 度 解决 
+利用 判别 模型 多个 正 样本 中学 习 
+这类 方法 令人兴奋 进展 
+多个 回复 训练 数据 真实世界 数据 集 情况 
+提出 隐 空间 建模 增强 对话 评估 指标 E M S 
+利用 监督 学习 平滑 隐 空间 
+空间 提取 对话 上下文 信息 
+上下文 回复 建模 
+利用 隐 空间 中 捕捉 信息 对对 话 评测 过程 增强 
+两个 真实世界 对话 数据 集 实验 证明 方法 优越性 
+人类 判断 相关 P e a r s o n S p e a r m a n 相关性 分数 均 胜过 基线 模型 
+编辑 
+杨 浩 苹 
+龚 晨 
+李正华 
+教学 辅助 平台 
+学院 经费 管理系统 校内 
+科研成果 申报 平台 校内 
+省级重点 实验室 
+计算机 教学网 校内 
+自然语言 实验室 
+C o p y r i g h t 苏州大学 计算机科学 技术 学院 A l l R i g h t s R e s e r v e d 苏州市 十 梓 街 号 
+苏 I C P 备 苏 公网 安 备 号 

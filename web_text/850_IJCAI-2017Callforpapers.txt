@@ -1,0 +1,236 @@
+导航 
+首 页 
+学院 概况 
+学院 简介 
+历史沿革 
+现任 领导 
+机构 设置 
+办学 资源 
+联系方式 
+学科建设 
+江苏省 优势 学科 
+博士点 
+硕士点 
+实验室 
+师资队伍 
+师资 概况 
+教职工 名单 
+导师 简介 
+兼职 师资 
+科学研究 
+研究 中心 
+自然语言 研究 中心 
+机器 学习 图像处理 研究 中心 
+数据 科学 工业 软件 研究 中心 
+网络 科学 工程 研究 中心 
+人工智能 研究院 
+嵌入式 技术 系统 能力 培养 研究 中心 
+科研机构 
+科研项目 
+科研 论文 
+知识产权 
+科研 政策 
+人才培养 
+博士生 
+硕士生 
+本科生 
+人才培养 方案 
+课程 教学大纲 
+图灵 班 
+国际交流 
+学生 工作 
+工作队 伍 
+学工 通知 
+学工 新闻 
+规章制度 
+志愿 服务 
+学生 组织 
+勤工助学 
+心理健康 
+职业规划 
+成长 陪伴 
+党群 工作 
+基层组织 
+规章制度 
+专题 活动 
+分党 校工 作 
+发展 公示 
+关工委 工作 
+工会工作 
+I J C A I C a l l f o r p a p e r s 
+发布者 
+发布 时间 
+浏览 次数 
+I J C A I C a l l f o r p a p e r s P r o v i s i o n a l T h e P r o g r a m C o m m i t t e e o f t h e T w e n t y s i x t h I n t e r n a t i o n a l J o i n t C o n f e r e n c e o n A r t i f i c i a l I n t e l l i g e n c e I J C A I i n v i t e s t h e s u b m i s s i o n o f t e c h n i c a l p a p e r s f o r t h e m a i n t e c h n i c a l t r a c k o f t h e c o n f e r e n c e w h i c h w i l l b e h e l d i n M e l b o u r n e 
+A u s t r a l i a 
+f r o m A u g u s t t h t o A u g u s t t h 
+S u b m i s s i o n s a r e i n v i t e d o n s i g n i f i c a n t 
+o r i g i n a l 
+a n d p r e v i o u s l y u n p u b l i s h e d r e s e a r c h o n a l l a s p e c t s o f a r t i f i c i a l i n t e l l i g e n c e 
+A l l p a p e r s w i l l r e c e i v e m i n d f u l a n d r i g o r o u s r e v i e w s 
+F o r n e a r l y a h a l f c e n t u r y 
+I J C A I h a s r e m a i n e d t h e p r e m i e r c o n f e r e n c e b r i n g i n g t o g e t h e r t h e i n t e r n a t i o n a l A I c o m m u n i t y i n c o m m u n i c a t i n g t h e a d v a n c e s a n d c e l e b r a t i n g t h e a c h i e v e m e n t s o f a r t i f i c i a l i n t e l l i g e n c e r e s e a r c h a n d p r a c t i c e 
+I t i s a h i g h l y r e f e r e n c e d c o n f e r e n c e t h a t w i l l p r o v i d e a u t h o r s w i t h u s e f u l c r i t i c a l f e e d b a c k 
+W i t h t h e c u r r e n t e x p l o s i v e i n t e r e s t i n A I a n d i t s a p p l i c a t i o n s 
+t h i s t h e d i t i o n o f t h e c o n f e r e n c e i s g u a r a n t e e d t o p r o v i d e a n e x c i t i n g f o r u m t o p r e s e n t a n d h e a r a b o u t c u t t i n g e d g e r e s e a r c h i n A I 
+T h e P r o g r a m C o m m i t t e e o f t h e T w e n t y s i x t h I n t e r n a t i o n a l J o i n t C o n f e r e n c e o n A r t i f i c i a l I n t e l l i g e n c e I J C A I i n v i t e s t h e s u b m i s s i o n o f t e c h n i c a l p a p e r s f o r t h e m a i n t e c h n i c a l t r a c k o f t h e c o n f e r e n c e w h i c h w i l l b e h e l d i n M e l b o u r n e 
+A u s t r a l i a 
+f r o m A u g u s t t h t o A u g u s t t h 
+S u b m i s s i o n s a r e i n v i t e d o n s i g n i f i c a n t 
+o r i g i n a l 
+a n d p r e v i o u s l y u n p u b l i s h e d r e s e a r c h o n a l l a s p e c t s o f a r t i f i c i a l i n t e l l i g e n c e 
+A l l p a p e r s w i l l r e c e i v e m i n d f u l a n d r i g o r o u s r e v i e w s 
+F o r n e a r l y a h a l f c e n t u r y 
+I J C A I h a s r e m a i n e d t h e p r e m i e r c o n f e r e n c e b r i n g i n g t o g e t h e r t h e i n t e r n a t i o n a l A I c o m m u n i t y i n c o m m u n i c a t i n g t h e a d v a n c e s a n d c e l e b r a t i n g t h e a c h i e v e m e n t s o f a r t i f i c i a l i n t e l l i g e n c e r e s e a r c h a n d p r a c t i c e 
+I t i s a h i g h l y r e f e r e n c e d c o n f e r e n c e t h a t w i l l p r o v i d e a u t h o r s w i t h u s e f u l c r i t i c a l f e e d b a c k 
+W i t h t h e c u r r e n t e x p l o s i v e i n t e r e s t i n A I a n d i t s a p p l i c a t i o n s 
+t h i s t h e d i t i o n o f t h e c o n f e r e n c e i s g u a r a n t e e d t o p r o v i d e a n e x c i t i n g f o r u m t o p r e s e n t a n d h e a r a b o u t c u t t i n g e d g e r e s e a r c h i n A I 
+T o p i c s A s t h e p r e m i e r g e n e r a l c o n f e r e n c e o n A I 
+I J C A I w e l c o m e s s u b m i s s i o n s a c r o s s a l l a r e a s o f A I 
+T h e c o n f e r e n c e s c o p e i n c l u d e s a l l s u b a r e a s o f A I 
+i n c l u d i n g b u t n o t l i m i t e d t o t r a d i t i o n a l t o p i c s s u c h a s s e a r c h 
+m a c h i n e l e a r n i n g 
+p l a n n i n g 
+k n o w l e d g e r e p r e s e n t a t i o n 
+r e a s o n i n g 
+n a t u r a l l a n g u a g e p r o c e s s i n g 
+r o b o t i c s a n d p e r c e p t i o n 
+a n d m u l t i a g e n t s y s t e m s 
+W e e x p r e s s l y e n c o u r a g e w o r k t h a t c u t s a c r o s s t e c h n i c a l a r e a s a n d o r i n t e g r a t e d c a p a b i l i t i e s 
+W e e n c o u r a g e a l l t y p e s o f c o n t r i b u t i o n s i n c l u d i n g t h e o r e t i c a l 
+e n g i n e e r i n g a n d a p p l i e d 
+W e a l s o e n c o u r a g e p a p e r s o n A I t e c h n i q u e s i n t h e c o n t e x t o f n o v e l a p p l i c a t i o n d o m a i n s 
+s u c h a s s e c u r i t y 
+s u s t a i n a b i l i t y 
+h e a l t h c a r e 
+t r a n s p o r t a t i o n 
+a n d c o m m e r c e 
+A s p e c i a l t h e m e o f I J C A I i s A u t o n o m y 
+S p e c i a l T r a c k o n A I A u t o n o m y W h i l e a u t o n o m y h a s b e e n a f o c u s o f i n t e r e s t i n t h e r e s e a r c h c o m m u n i t y f o r m a n y y e a r s 
+r e c e n t d e v e l o p m e n t s i n t h e a d o p t i o n o f a r t i f i c i a l i n t e l l i g e n c e a n d o t h e r t e c h n o l o g i e s a c r o s s m a n y d i f f e r e n t a r e a s o f e n d e a v o u r h a v e b r o u g h t n e w c h a l l e n g e s o r h a v e m a d e r e a l c h a l l e n g e s t h a t u n t i l n o w h a d b e e n l a r g e l y a b s t r a c t a n d t h e o r e t i c a l 
+T h e r e w i l l b e a s p e c i a l c a l l f o r p a p e r s o n t h i s t o p i c w h i c h c a n b e f o u n d h e r e 
+I M P O R T A N T D A T E S A b s t r a c t s u b m i s s i o n 
+F e b r u a r y t h 
+P a p e r s u b m i s s i o n 
+F e b r u a r y t h 
+R e b u t t a l P e r i o d 
+M a r c h 
+N o t i f i c a t i o n o f a c c e p t a n c e r e j e c t i o n 
+A p r i l 
+A l l d e a d l i n e s a r e 
+P M 
+U T C 
+t h u s s u b m i s s i o n s a r e a l l o w e d a s l o n g a s t h e d e a d l i n e d a t e i s n o t p a s t a n y w h e r e i n t h e w o r l d 
+I n f o r m a t i o n a b o u t c a m e r a r e a d y d e a d l i n e s w i l l b e p r o v i d e d t o a u t h o r s a t a l a t e r d a t e 
+S U B M I S S I O N D E T A I L S F o r m a t t i n g G u i d e l i n e s 
+L a T e X S t y l e s a n d W o r d T e m p l a t e c a n b e d o w l o a d e d f r o m 
+h e r e 
+S u b m i s s i o n S i t e 
+h t t p 
+i j c a i 
+c o n f m a s t e r 
+n e t S u b m i t t e d p a p e r s m u s t b e f o r m a t t e d a c c o r d i n g t o I J C A I g u i d e l i n e s a n d s u b m i t t e d e l e c t r o n i c a l l y t h r o u g h t h e I J C A I p a p e r s u b m i s s i o n s i t e 
+F u l l i n s t r u c t i o n s i n c l u d i n g f o r m a t t i n g g u i d e l i n e s a n d e l e c t r o n i c t e m p l a t e s a r e a v a i l a b l e o n t h e I J C A I w e b s i t e 
+S u b m i s s i o n s m u s t b e i n e l e c t r o n i c f o r m u s i n g t h e I J C A I p a p e r s u b m i s s i o n s o f t w a r e l i n k e d a b o v e 
+S u b m i s s i o n s m u s t b e s e l f c o n t a i n e d 
+I J C A I w i l l n o t a c c e p t o r r e v i e w a n y s u p p l e m e n t a r y m a t e r i a l s 
+A t l e a s t o n e a u t h o r o f e a c h a c c e p t e d p a p e r i s r e q u i r e d t o a t t e n d t h e c o n f e r e n c e t o p r e s e n t t h e w o r k 
+A u t h o r s w i l l b e r e q u i r e d t o a g r e e t o t h i s r e q u i r e m e n t a t t h e t i m e o f s u b m i s s i o n 
+T h e p a p e r t i t l e 
+a u t h o r n a m e s 
+c o n t a c t d e t a i l s 
+a n d a b r i e f a b s t r a c t m u s t b e s u b m i t t e d e l e c t r o n i c a l l y b y F e b r u a r y t h 
+U T C 
+A l l p a p e r s a r e d u e e l e c t r o n i c a l l y o n F e b r u a r y t h 
+U T C 
+S u b m i s s i o n s r e c e i v e d a f t e r t h e d e a d l i n e o r t h a t d o n o t m e e t t h e l e n g t h o r f o r m a t t i n g r e q u i r e m e n t s w i l l n o t b e c o n s i d e r e d f o r r e v i e w s e e t h e p a p e r l e n g t h a n d f o r m a t s e c t i o n b e l o w 
+N o e m a i l o r f a x s u b m i s s i o n s w i l l b e a c c e p t e d 
+N o t i f i c a t i o n o f r e c e i p t o f a n e l e c t r o n i c a l l y s u b m i t t e d p a p e r w i l l b e e m a i l e d t o t h e d e s i g n a t e d c o n t a c t a u t h o r s o o n a f t e r r e c e i p t 
+T h e d e s i g n a t e d a u t h o r w i l l b e n o t i f i e d b y e m a i l a b o u t a c c e p t a n c e o r r e j e c t i o n b y A p r i l 
+A u t h o r s w i l l a l s o b e a b l e t o r e s p o n d t o p r e l i m i n a r y r e v i e w s d u r i n g t h e d a t e s M a r c h t h 
+G u i d e l i n e s f o r s u c h r e s p o n s e s 
+a l o n g w i t h d e t a i l s o f t h e r e v i e w i n g p r o c e s s w i l l b e p o s t e d o n t h e I J C A I w e b s i t e 
+K e y w o r d s W h e n s u b m i t t i n g t h e i r a b s t r a c t 
+a u t h o r s w i l l b e r e q u i r e d t o c h o o s e c o n t e n t a r e a k e y w o r d s 
+G e n e r a l c a t e g o r i e s s h o u l d o n l y b e u s e d i f s p e c i f i c c a t e g o r i e s d o n o t a p p l y o r d o n o t a c c u r a t e l y r e f l e c t t h e m a i n c o n t r i b u t i o n s 
+T h e f u l l l i s t o f k e y w o r d s w i l l b e a v a i l a b l e o n t h e s u b m i s s i o n s i t e 
+P O L I C Y O N M U L T I P L E S U B M I S S I O N S I J C A I w i l l n o t a c c e p t a n y p a p e r t h a t 
+a t t h e t i m e o f s u b m i s s i o n 
+i s u n d e r r e v i e w f o r 
+h a s a l r e a d y b e e n p u b l i s h e d i n 
+o r h a s a l r e a d y b e e n a c c e p t e d f o r p u b l i c a t i o n i n 
+a j o u r n a l o r a n o t h e r v e n u e w i t h f o r m a l l y p u b l i s h e d p r o c e e d i n g s 
+A s a r u l e o f t h u m b 
+a u t h o r s s h o u l d r e g a r d a n y p u b l i c a t i o n w i t h a n I S B N o r I S S N a s a f o r m a l p u b l i c a t i o n 
+A u t h o r s a r e a l s o r e q u i r e d n o t t o s u b m i t t h e i r p a p e r s t o v e n u e s w i t h f o r m a l p u b l i c a t i o n d u r i n g I J C A I r e v i e w p e r i o d 
+T h e s e r e s t r i c t i o n s a r e n o t i n t e n d e d t o a p p l y t o w o r k s h o p s a n d s i m i l a r s p e c i a l i z e d p r e s e n t a t i o n s w i t h a l i m i t e d a u d i e n c e a n d w i t h o u t p u b l i s h e d p r o c e e d i n g s 
+A u t h o r s w i l l b e r e q u i r e d t o c o n f i r m t h a t t h e i r s u b m i s s i o n s c o n f o r m t o t h e s e r e q u i r e m e n t s a t t h e t i m e o f s u b m i s s i o n 
+A m u l t i p l e s u b m i s s i o n i s g r o u n d s f o r i m m e d i a t e r e j e c t i o n o f t h e s u b m i t t e d p a p e r 
+C O N F I D E N T I A L I T Y P O L I C Y A l l s u b m i s s i o n s w i l l b e t r e a t e d i n s t r i c t c o n f i d e n c e u n t i l t h e p u b l i c a t i o n d a t e 
+C O N F L I C T O F I N T E R E S T P O L I C Y A l l p e o p l e i n v o l v e d i n t h e I J C A I r e v i e w p r o c e s s a d h e r e t o t h e I J C A I c o n f l i c t o f i n t e r e s t p o l i c y 
+D e t a i l s c a n b e f o u n d a t h t t p 
+i j c a i 
+o r g 
+R E V I E W P R O C E S S P a p e r s w i l l b e s u b j e c t t o d o u b l e b l i n d p e e r r e v i e w i n w h i c h t h e r e v i e w e r s d o n o t k n o w t h e a u t h o r 
+s i d e n t i t y 
+I n o r d e r t o m a k e b l i n d r e v i e w i n g p o s s i b l e 
+a u t h o r s m u s t o m i t t h e i r n a m e s a n d a f f i l i a t i o n s f r o m t h e p a p e r 
+A l s o 
+w h i l e t h e r e f e r e n c e s s h o u l d i n c l u d e a l l p u b l i s h e d l i t e r a t u r e r e l e v a n t t o t h e p a p e r 
+i n c l u d i n g p r e v i o u s w o r k s o f t h e a u t h o r s 
+i t s h o u l d n o t i n c l u d e u n p u b l i s h e d w o r k s p a p e r s t h a t a r e a c c e p t e d a n d a r e m a d e a v a i l a b l e o n l i n e b y t h e p u b l i s h e r c a n b e c i t e d 
+W h e n r e f e r r i n g t o o n e 
+s o w n w o r k 
+u s e t h e t h i r d p e r s o n r a t h e r t h a n t h e f i r s t p e r s o n 
+F o r e x a m p l e 
+s a y P r e v i o u s l y 
+F o o a n d B a r h a v e s h o w n t h a t 
+r a t h e r t h a n I n o u r p r e v i o u s w o r k w e h a v e s h o w n t h a t 
+S u c h i d e n t i f y i n g i n f o r m a t i o n c a n b e a d d e d b a c k t o t h e f i n a l c a m e r a r e a d y v e r s i o n o f a c c e p t e d p a p e r s 
+S i m i l a r l y 
+r e v i e w e r s s h o u l d n o t r e v e a l t h e i r i d e n t i t i e s w i t h i n t h e p a p e r r e v i e w s 
+S e l e c t i o n c r i t e r i a i n c l u d e o r i g i n a l i t y o f i d e a s 
+c o r r e c t n e s s 
+c l a r i t y 
+s i g n i f i c a n c e o f r e s u l t s a n d q u a l i t y o f p r e s e n t a t i o n 
+I J C A I m a i n t r a c k w i l l h a v e a f o u r t i e r p r o g r a m c o m m i t t e e 
+w i t h t h e p r o g r a m c h a i r 
+a r e a c h a i r s 
+s e n i o r p r o g r a m c o m m i t t e e m e m b e r s a n d p r o g r a m c o m m i t t e e m e m b e r s 
+T h e r e v i e w p r o c e s s w i l l i n c l u d e t h e o p p o r t u n i t y f o r a u t h o r s t o s e e t h e r e v i e w s o f t h e i r p a p e r s a n d t o r e s p o n d t o t e c h n i c a l q u e s t i o n s r a i s e d b y t h e r e v i e w e r s b e f o r e d i s c u s s i o n s t a r t s w i t h i n t h e P r o g r a m C o m m i t t e e 
+T h e d e c i s i o n o f t h e P r o g r a m C o m m i t t e e w i l l b e f i n a l a n d c a n n o t b e a p p e a l e d 
+P A P E R L E N G T H A N D F O R M A T S u b m i t t e d t e c h n i c a l p a p e r s m u s t b e n o l o n g e r t h a n s e v e n p a g e s i n t o t a l 
+s i x p a g e s f o r t h e m a i n t e x t o f t h e p a p e r i n c l u d i n g a l l f i g u r e s b u t e x c l u d i n g r e f e r e n c e s 
+a n d o n e a d d i t i o n a l p a g e f o r r e f e r e n c e s 
+N o t e t h a t t h e r e f e r e n c e s p a g e c a n o n l y i n c l u d e r e f e r e n c e s 
+F o r a c c e p t e d p a p e r s 
+u p t o t w o a d d i t i o n a l p a g e s m a y b e p u r c h a s e d a t a n a d d i t i o n a l c o s t p e r p a g e 
+b u t n o t e t h a t a t t h e t i m e o f s u b m i s s i o n s 
+p a p e r s s h o u l d a d h e r e t o t h e g u i d e l i n e s a b o v e 
+p a g e s f o r m a i n t e x t p l u s o n e p a g e f o r r e f e r e n c e s 
+P a p e r s m u s t b e f o r m a t t e d a c c o r d i n g t o p o s t e d I J C A I g u i d e l i n e s 
+w h i c h w i l l b e a v a i l a b l e o n t h e c o n f e r e n c e w e b s i t e t h e s t y l e w i l l b e e s s e n t i a l l y t h a t o f p r e v i o u s I J C A I c o n f e r e n c e s 
+E l e c t r o n i c t e m p l a t e s f o r t h e L a T e X t y p e s e t t i n g p a c k a g e 
+a s w e l l a s a W o r d t e m p l a t e 
+t h a t c o n f o r m t o I J C A I g u i d e l i n e s w i l l b e m a d e a v a i l a b l e a t t h e c o n f e r e n c e w e b s i t e 
+F i n a l c a m e r a r e a d y v e r s i o n s w i l l b e f o r m a t t e d a c c o r d i n g t o t h e p u b l i s h e r 
+s i n s t r u c t i o n s 
+A u t h o r s a r e r e q u i r e d t o s u b m i t t h e i r e l e c t r o n i c p a p e r s i n P D F f o r m a t 
+F i l e s i n P o s t s c r i p t p s o r a n y o t h e r f o r m a t w i l l n o t b e a c c e p t e d 
+O v e r l e n g t h p a p e r s w i l l b e r e j e c t e d w i t h o u t r e v i e w 
+S u b m i s s i o n s m u s t b e s e l f c o n t a i n e d 
+I J C A I w i l l n o t a c c e p t o r r e v i e w a n y s u p p l e m e n t a r y m a t e r i a l 
+F A Q F o r a l i s t o f f r e q u e n t l y a s k e d q u e s t i o n s a b o u t I J C A I p a p e r s u b m i s s i o n 
+c l i c k 
+h e r e 
+E n q u i r i e s P l e a s e s e n d a l l e n q u i r i e s a b o u t t h e t e c h n i c a l p r o g r a m t o t h e I J C A I P r o g r a m C h a i r 
+P r o f C a r l e s S i e r r a a t t h e e m a i l a d d r e s s p c c h a i r i j c a i 
+o r g 
+教学 辅助 平台 
+学院 经费 管理系统 校内 
+科研成果 申报 平台 校内 
+省级重点 实验室 
+计算机 教学网 校内 
+自然语言 实验室 
+C o p y r i g h t 苏州大学 计算机科学 技术 学院 A l l R i g h t s R e s e r v e d 苏州市 十 梓 街 号 
+苏 I C P 备 苏 公网 安 备 号 
